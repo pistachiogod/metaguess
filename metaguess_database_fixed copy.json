@@ -328,7 +328,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)"
@@ -374,7 +374,7 @@
         "Racing",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "Xbox",
         "PlayStation 3",
@@ -426,7 +426,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "PlayStation 3",
@@ -527,7 +527,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -575,7 +575,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -676,7 +676,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -723,7 +723,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -768,7 +768,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)"
@@ -817,7 +817,7 @@
         "Adventure",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "Xbox",
         "PC (Microsoft Windows)",
@@ -917,7 +917,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Wii U",
         "Nintendo Switch"
@@ -1010,7 +1010,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -1110,7 +1110,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Wii",
         "Nintendo 64",
@@ -1159,7 +1159,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -1209,7 +1209,7 @@
         "Shooter",
         "Role-playing (RPG)"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -1461,7 +1461,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -1708,7 +1708,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Satellaview",
         "Super Nintendo Entertainment System",
@@ -1805,7 +1805,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -1974,7 +1974,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Bethesda Softworks",
-      "franchise": null,
+      "franchise": "Dishonored",
       "description": "Dishonored is an immersive first-person action game that casts you as a supernatural assassin driven by revenge. With Dishonored\u2019s flexible combat system, creatively eliminate your targets as you combine the supernatural abilities, weapons and unusual gadgets at your disposal. Pursue your enemies under the cover of darkness or ruthlessly attack them head on with weapons drawn. The outcome of each mission plays out based on the choices you make.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coabgu.jpg",
       "protagonistGender": null,
@@ -2001,7 +2001,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -2098,7 +2098,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -2143,7 +2143,7 @@
       "genres": [
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)"
@@ -2299,7 +2299,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Android",
         "iOS",
@@ -2348,7 +2348,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -2395,7 +2395,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -2543,7 +2543,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -2759,7 +2759,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -2805,7 +2805,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "PlayStation 5"
@@ -2852,7 +2852,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -2951,7 +2951,7 @@
         "Indie",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Google Stadia",
         "Xbox Series X|S",
@@ -3049,7 +3049,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Wii",
         "Nintendo 64",
@@ -3067,7 +3067,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive soundtrack, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses, and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch-nemesis\u2014 Bowser, King of the Koopas!\n\n\u2022 Run freely in a grassy meadow, tip-toe through a gloomy dungeon, climb to the top of a mountain, or take a swim in the moat!\n\u2022 Leap headfirst into a watery painting and soon you'll be searching for the surface in an underwater realm!\n\u2022 On-the-fly, 3-D rendered gameplay delivers the action of ruthless enemy attacks from every angle!\n\u2022 Find the Caps that give Mario super powers and ponder the mysteries of the pyramid; you can even race Koopas for fabulous prizes!\n\u2022 With the Nintendo 64 Controller and its analog\nControl Stick, Mario can crawl, kick down obstacles, swim, do reverse flips, and even stick the landing on his backwards somersault!\n\u2022 Saved game information is stored for up to four players in memory.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co721v.jpg",
       "protagonistGender": null,
@@ -3095,7 +3095,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Arcade",
         "Super Nintendo Entertainment System",
@@ -3116,7 +3116,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "A 2D platformer and first entry on the SNES in the Super Mario franchise, Super Mario World follows Mario as he attempts to defeat Bowser's underlings and rescue Princess Peach from his clutches. The game features a save system, a less linear world map, an expanded movement arsenal and numerous new items for Mario, alongside new approaches to level design and art direction.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lo8.jpg",
       "protagonistGender": null,
@@ -3290,7 +3290,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "PlayStation 3",
@@ -3342,7 +3342,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -3385,7 +3385,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch 2",
         "Nintendo Switch"
@@ -3484,7 +3484,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -3638,7 +3638,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -3790,7 +3790,7 @@
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)"
@@ -3886,7 +3886,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -3934,7 +3934,7 @@
         "Adventure",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Amazon Fire TV",
         "Xbox Series X|S",
@@ -4239,7 +4239,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PlayStation 5"
@@ -4284,7 +4284,7 @@
       "genres": [
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -4331,7 +4331,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -4428,7 +4428,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Google Stadia",
         "PlayStation 3",
@@ -4544,7 +4544,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -4784,7 +4784,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -4830,7 +4830,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -4876,7 +4876,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Color",
       "allPlatforms": [
         "Game Boy Color",
         "Nintendo 3DS"
@@ -5170,7 +5170,7 @@
         "Racing",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PSP",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation Portable",
@@ -5217,7 +5217,7 @@
         "Racing",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PSP",
       "allPlatforms": [
         "PlayStation Portable"
       ],
@@ -5318,7 +5318,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360"
@@ -5468,7 +5468,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Family Computer Disk System",
         "Arcade",
@@ -5489,7 +5489,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Playtronic",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "A side scrolling 2D platformer and first entry in the Super Mario franchise, Super Mario Bros. follows Italian plumber Mario as he treks across many levels of platforming challenges featuring hostile enemies to rescue Princess Peach from the evil king Bowser.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6pib.jpg",
       "protagonistGender": null,
@@ -5519,7 +5519,7 @@
         "Simulator",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "Xbox",
         "PlayStation 4",
@@ -5721,7 +5721,7 @@
         "Shooter",
         "Role-playing (RPG)"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360"
@@ -5770,7 +5770,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii",
         "Wii U"
@@ -5787,7 +5787,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "A 3D platformer and first Wii entry in the Super Mario franchise, Super Mario Galaxy sees Mario jump across planets and galaxies with varying items, enemies, geographies and gravity mechanics in order to reach his enemy Bowser, who has attacked the Mushroom Kingdom and hijacked Princess Peach's castle with her inside.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21ro.jpg",
       "protagonistGender": null,
@@ -6518,7 +6518,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "Linux",
@@ -6567,7 +6567,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)"
@@ -6866,7 +6866,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox",
       "allPlatforms": [
         "Xbox",
         "Android",
@@ -6966,7 +6966,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation",
       "allPlatforms": [
         "PlayStation 3",
         "Nintendo GameCube",
@@ -7063,7 +7063,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Wii",
@@ -7181,7 +7181,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Bethesda Softworks",
-      "franchise": null,
+      "franchise": "Dishonored",
       "description": "Dishonored 2 is a first-person action video game and the sequel to Dishonored. It borrows many of the gameplay elements from the first opus: players define their own play style by blending action, assassination, stealth, mobility and combat. Combining tools at their disposal, players are allowed options to eliminate enemies, whether they choose to pursue them unseen or ruthlessly attack head on. Dishonored 2 features the same campaign style as its predecessor in which the protagonist must advance through a series of missions.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9e29.jpg",
       "protagonistGender": null,
@@ -7258,7 +7258,7 @@
       "genres": [
         "Racing"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360"
@@ -7500,7 +7500,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -7695,7 +7695,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "GameCube",
       "allPlatforms": [
         "Xbox",
         "Nintendo GameCube",
@@ -7795,7 +7795,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -8087,7 +8087,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -8110,7 +8110,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Red Barrels",
-      "franchise": null,
+      "franchise": "Outlast",
       "description": "Hell is an experiment you can't survive in Outlast, a first-person survival horror game developed by veterans of some of the biggest game franchises in history. As investigative journalist Miles Upshur, explore Mount Massive Asylum and try to survive long enough to discover its terrible secret... if you dare.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yat.jpg",
       "protagonistGender": null,
@@ -8137,7 +8137,7 @@
       "genres": [
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -8382,7 +8382,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4"
@@ -8430,7 +8430,7 @@
         "Simulator",
         "Indie"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "Android",
@@ -8477,7 +8477,7 @@
         "Shooter",
         "Puzzle"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -8524,7 +8524,7 @@
       "genres": [
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -8568,7 +8568,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -8583,7 +8583,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Super Mario Sunshine is a Mario action-adventure 3D platformer. It follows Super Mario 64, and is the second 3D Mario platformer. Gameplay features a combination of action and puzzle solving, with numerous stages and multiple episodes to each stage, and plenty of hidden secrets and surprises. This game introduced many recurring characters and bosses in the Mario series, including Toadsworth, Bowser Jr., Petey Piranha, Gooper Blooper, Piantas, Nokis, Shadow Mario, and F.L.U.D.D. Super Mario Sunshine pays homage to Mario's Italian heritage and upbringing, with many of the locations in the game having Italian names and sometimes referencing Italian culture.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8q1.jpg",
       "protagonistGender": null,
@@ -8610,7 +8610,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -9293,7 +9293,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PS Vita",
       "allPlatforms": [
         "PlayStation Vita"
       ],
@@ -9342,7 +9342,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -9549,7 +9549,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Wii U",
         "Nintendo DS"
@@ -9566,7 +9566,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "New Super Mario Bros. is a side-scrolling 2.5D action-adventure platformer game for the Nintendo DS, starring Mario and Luigi. The game features a solo story mode with Mario or Luigi, a two-player wireless game Mario Vs. Luigi, as well as a minigame mode for up to four players. The gameplay of New Super Mario Bros. is very much like that of the classic 2D platformers, mostly Super Mario Bros. and Super Mario Bros. 3, and substantially builds upon them to create gameplay both classic and contemporary. As the game is on DS, the touch screen allows players to store an additional power-up and view the distance still to go in a level.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21rm.jpg",
       "protagonistGender": null,
@@ -9693,7 +9693,7 @@
         "Platform",
         "Arcade"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade"
       ],
@@ -9836,7 +9836,7 @@
         "Strategy",
         "Turn-based strategy (TBS)"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Google Stadia",
         "Xbox Series X|S",
@@ -9887,7 +9887,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -10136,7 +10136,7 @@
         "Fighting",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Wii",
         "Nintendo 64"
@@ -10155,7 +10155,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Super Smash Bros.",
       "description": "Super Smash Bros. is a crossover fighting video game between several different Nintendo franchises, and the first installment in the Super Smash Bros. series. Players must defeat their opponents multiple times in a fighting frenzy of items and power-ups. Super Smash Bros. is a departure from the general genre of fighting games: instead of depleting an opponent's life bar, the players seek to knock opposing characters off a stage. Each player has a damage total, represented by a percentage, which rises as the damage is taken.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2tso.jpg",
       "protagonistGender": null,
@@ -10231,7 +10231,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy",
       "allPlatforms": [
         "Nintendo 3DS",
         "Game Boy"
@@ -10248,7 +10248,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Super Mario Land is the first Mario's outing on the Game Boy. It is a side-scrolling platformer much in the vein of the previous Super Mario Bros. This time, Mario must save Princess Daisy, rather than Princess Toadstool, from her kidnapper Tatanga, a mysterious spaceman. The game follows largely the same formula of its aforementioned predecessor, with Mario defeating enemies by jumping on them and collecting coins and power ups by hitting floating blocks, with each world leading up to a boss fight which is defeated using by collapsing the floor. A unique feature of this installment is two scrolling shoot-'em-up levels, the first of which Mario pilots a submarine, and the second an aeroplane.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7o14.jpg",
       "protagonistGender": null,
@@ -10724,7 +10724,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Super Famicom"
@@ -10823,7 +10823,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -10973,7 +10973,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "PlayStation 5"
@@ -11019,7 +11019,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Wii U",
         "Nintendo DS"
@@ -11064,7 +11064,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii U",
       "allPlatforms": [
         "Wii U"
       ],
@@ -11106,7 +11106,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -11205,7 +11205,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -11306,7 +11306,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -11354,7 +11354,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -11453,7 +11453,7 @@
       "genres": [
         "Card & Board Game"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -11501,7 +11501,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -11745,7 +11745,7 @@
         "Sport",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Xbox Series X|S",
         "PC (Microsoft Windows)",
@@ -12020,7 +12020,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -12123,7 +12123,7 @@
         "Strategy",
         "Turn-based strategy (TBS)"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -12222,7 +12222,7 @@
         "Racing",
         "Simulator"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "PlayStation"
@@ -12362,7 +12362,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -12462,7 +12462,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -12601,7 +12601,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)"
@@ -12701,7 +12701,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -12843,7 +12843,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -12887,7 +12887,7 @@
         "Simulator",
         "Strategy"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Android",
@@ -12936,7 +12936,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -13079,7 +13079,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -13224,7 +13224,7 @@
         "Strategy",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -13278,7 +13278,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Xbox",
         "PC (Microsoft Windows)"
@@ -13465,7 +13465,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -13603,7 +13603,7 @@
         "Shooter",
         "Role-playing (RPG)"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -13856,7 +13856,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -13958,7 +13958,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -14057,7 +14057,7 @@
         "Role-playing (RPG)",
         "Simulator"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -14353,7 +14353,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -14403,7 +14403,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "PlayStation 5"
@@ -14448,7 +14448,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -14538,7 +14538,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -14797,7 +14797,7 @@
         "Turn-based strategy (TBS)",
         "Tactical"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -14891,7 +14891,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox One"
@@ -15298,7 +15298,7 @@
         "Indie",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -15495,7 +15495,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "Nintendo 3DS",
@@ -15516,7 +15516,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Super Mario Bros. 3, the third entry in the Super Mario Bros. series and Super Mario franchise, sees Mario or Luigi navigate a nonlinear world map containing platforming levels and optional minigames and challenges. The game features more diverse movement options and new items alongside more complex level designs and boss battles.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ozx.jpg",
       "protagonistGender": null,
@@ -15546,7 +15546,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Nintendo",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -15647,7 +15647,7 @@
         "Tactical",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 3",
@@ -15753,7 +15753,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -15807,7 +15807,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -15860,7 +15860,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -15913,7 +15913,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -15963,7 +15963,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -16210,7 +16210,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 3",
         "Linux",
@@ -16256,7 +16256,7 @@
         "Real Time Strategy (RTS)",
         "Strategy"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -16400,7 +16400,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "Linux",
@@ -16451,7 +16451,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360",
@@ -16692,7 +16692,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -16746,7 +16746,7 @@
         "Indie",
         "Card & Board Game"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -17183,7 +17183,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -17582,7 +17582,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -17680,7 +17680,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation",
       "allPlatforms": [
         "PlayStation 3",
         "Nintendo GameCube",
@@ -17799,7 +17799,7 @@
         "Split screen"
       ],
       "isMultiplayer": true,
-      "publisher": "Aspyr Media",
+      "publisher": "LucasArts",
       "franchise": "Star Wars",
       "description": "Star Wars: Battlefront is the first in the Star Wars: Battlefront series and is a third/first-person shooter video game based around battles featured in the Star Wars movies. It was developed by Pandemic Studios and LucasArts, and released on September 20, 2004 for Xbox (playable on Xbox 360), PlayStation 2, and PC, the same day as the release of the Star Wars Trilogy (DVD) set. Players can either play Star Wars: Battlefront online, or offline with up to 4 players (on consoles).",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2h1z.jpg",
@@ -17830,7 +17830,7 @@
         "Indie",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -17934,7 +17934,7 @@
         "Strategy",
         "Tactical"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "Windows Phone",
@@ -18034,7 +18034,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "PlayStation 2"
@@ -18132,7 +18132,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -18281,7 +18281,7 @@
         "Strategy",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -18375,7 +18375,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360",
@@ -18425,7 +18425,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -18477,7 +18477,7 @@
         "Racing",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "PC (Microsoft Windows)",
@@ -18661,7 +18661,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Wii U",
@@ -18863,7 +18863,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox One",
       "allPlatforms": [
         "Xbox Series X|S",
         "PC (Microsoft Windows)",
@@ -18959,7 +18959,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -19011,7 +19011,7 @@
         "Indie",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Android",
@@ -19064,7 +19064,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -19204,7 +19204,7 @@
       "genres": [
         "Strategy"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Google Stadia",
         "Xbox Series X|S",
@@ -19347,7 +19347,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "Xbox 360"
       ],
@@ -19688,7 +19688,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -20079,7 +20079,7 @@
         "Racing",
         "Simulator"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -20227,7 +20227,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox One",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox One"
@@ -20273,7 +20273,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -20322,7 +20322,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -20374,7 +20374,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -20424,7 +20424,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -20476,7 +20476,7 @@
       "genres": [
         "Role-playing (RPG)"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Satellaview",
         "Super Nintendo Entertainment System",
@@ -20622,7 +20622,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -20676,7 +20676,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Google Stadia",
         "Xbox Series X|S",
@@ -20734,7 +20734,7 @@
         "Simulator",
         "Tactical"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -20841,7 +20841,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -20990,7 +20990,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -21222,7 +21222,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -21367,7 +21367,7 @@
         "Tactical",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -21414,7 +21414,7 @@
         "Shooter",
         "Role-playing (RPG)"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -21704,7 +21704,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360",
@@ -21855,7 +21855,7 @@
         "Strategy",
         "Indie"
       ],
-      "platform": "Nintendo",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Linux",
         "Wii",
@@ -21906,7 +21906,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -22234,7 +22234,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "Xbox 360"
       ],
@@ -22421,7 +22421,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PS Vita",
       "allPlatforms": [
         "PlayStation Vita"
       ],
@@ -22754,7 +22754,7 @@
         "Indie",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -22813,7 +22813,7 @@
         "Strategy",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -22865,7 +22865,7 @@
         "Shooter",
         "Role-playing (RPG)"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -22915,7 +22915,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Xbox Series X|S",
         "PC (Microsoft Windows)",
@@ -22963,7 +22963,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "PlayStation 3",
@@ -23067,7 +23067,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -23313,7 +23313,7 @@
         "Strategy",
         "Indie"
       ],
-      "platform": "Nintendo",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "Nintendo Switch 2",
@@ -23414,7 +23414,7 @@
         "Strategy",
         "Indie"
       ],
-      "platform": "Nintendo",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "Android",
@@ -23558,7 +23558,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360"
@@ -23607,7 +23607,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "Linux",
@@ -23706,7 +23706,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -23891,7 +23891,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "Linux",
@@ -23985,7 +23985,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -24085,7 +24085,7 @@
         "Turn-based strategy (TBS)",
         "Indie"
       ],
-      "platform": "Nintendo",
+      "platform": "PC",
       "allPlatforms": [
         "Google Stadia",
         "Linux",
@@ -24233,7 +24233,7 @@
         "Fighting",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -24249,7 +24249,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario",
+      "franchise": "Super Smash Bros.",
       "description": "Super Smash Bros. Melee is the second installment in the Super Smash Bros. series and the follow-up to the Nintendo 64 title. It includes all playable characters from the first game, and also adds characters from franchises such as Fire Emblem, of which no games had been released outside Japan at the time. Super Smash Bros. Melee builds on the first game by adding new gameplay features and playable characters: it's major focus is the multiplayer mode, while still offering a number of single-player modes.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21yv.jpg",
       "protagonistGender": null,
@@ -24278,7 +24278,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -24516,7 +24516,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -24559,7 +24559,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "Linux",
@@ -24608,7 +24608,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "Multi-platform",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "PlayStation 4",
@@ -24707,7 +24707,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 3",
@@ -24808,7 +24808,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -24855,7 +24855,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Xbox",
         "PC (Microsoft Windows)",
@@ -25099,7 +25099,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -25289,7 +25289,7 @@
         "Shooter",
         "Tactical"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Android",
         "PC (Microsoft Windows)",
@@ -25340,7 +25340,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Xbox Series X|S",
         "PC (Microsoft Windows)",
@@ -25388,7 +25388,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360"
@@ -25587,7 +25587,7 @@
         "Tactical",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -25687,7 +25687,7 @@
         "Adventure",
         "MOBA"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -25782,7 +25782,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -26073,7 +26073,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PSP",
       "allPlatforms": [
         "PlayStation Portable"
       ],
@@ -26117,7 +26117,7 @@
         "Hack and slash/Beat 'em up",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -26215,7 +26215,7 @@
         "Shooter",
         "Tactical"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox",
       "allPlatforms": [
         "Xbox",
         "PC (Microsoft Windows)",
@@ -26262,7 +26262,7 @@
         "Tactical",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -26354,7 +26354,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -26499,7 +26499,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360"
@@ -26639,7 +26639,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "Xbox 360"
       ],
@@ -26904,7 +26904,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Red Barrels",
-      "franchise": null,
+      "franchise": "Outlast",
       "description": "Outlast 2 is the sequel to the acclaimed survival horror game Outlast. Set in the same universe as the first game, but with different characters and a different setting, Outlast 2 is a twisted new journey into the depths of the human mind and its dark secrets. No conflict is ever black and white.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20x8.jpg",
       "protagonistGender": null,
@@ -27068,7 +27068,7 @@
         "Simulator",
         "Strategy"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -27121,7 +27121,7 @@
         "Indie",
         "Card & Board Game"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -27233,7 +27233,7 @@
         "Puzzle",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "Linux",
@@ -27334,7 +27334,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "Xbox Series X|S",
         "Nintendo Switch 2",
@@ -27435,7 +27435,7 @@
         "Puzzle",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Nintendo Entertainment System"
       ],
@@ -27525,7 +27525,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -27540,7 +27540,7 @@
         "Single player"
       ],
       "isMultiplayer": false,
-      "publisher": "Disney Interactive Studios",
+      "publisher": "Square Enix",
       "franchise": "Kingdom Hearts",
       "description": "Kingdom Hearts is an action role-playing game developed and published by Squaresoft for the PlayStation 2. It is the result of a collaboration between Square and The Walt Disney Company. The game combines characters and settings from Disney's animated features with those from the Final Fantasy series, developed by Square.\n\nKingdom Hearts was a departure from Square's standard role-playing games by introducing a substantial action-adventure element. In addition, it has an all-star voice cast which included many of the Disney characters' official voice actors. Kingdom Hearts was longtime Square character designer Tetsuya Nomura's first time in a directorial position.\n\nThe game uses an experience based progression system, with experience gained by defeating foes. Experience gained rises in relation to the strength of the foe, and is consistent for each enemy over the course of the game. Levels are gained with experience, and provide increases to stat attributes in strength, defence, magic, hit points, magic points and ability points, with a new, predetermined ability unlocked approximately every four levels.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30zf.jpg",
@@ -27620,7 +27620,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -27665,7 +27665,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "Xbox 360"
       ],
@@ -27713,7 +27713,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Google Stadia",
         "Xbox Series X|S",
@@ -27965,7 +27965,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)"
@@ -28057,7 +28057,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -28102,7 +28102,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -28208,7 +28208,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -28305,7 +28305,7 @@
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -28354,7 +28354,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -28399,7 +28399,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox One"
@@ -28448,7 +28448,7 @@
         "Platform",
         "Strategy"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -28504,7 +28504,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -28651,7 +28651,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Nintendo 3DS",
         "Wii U",
@@ -28699,7 +28699,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -28753,7 +28753,7 @@
         "Fighting",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -28772,7 +28772,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Metroid",
+      "franchise": "Super Smash Bros.",
       "description": "Legendary game worlds and fighters collide in the ultimate showdown\u2014a new entry in the Super Smash Bros. series for the Nintendo Switch system! New fighters, like Inkling from the Splatoon series and Ridley from the Metroid series, make their Super Smash Bros. series debut alongside every Super Smash Bros. fighter in the series\u2026EVER! Faster combat, new items, new attacks, new defensive options, and more will keep the battle raging whether you\u2019re at home or on the go.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2255.jpg",
       "protagonistGender": null,
@@ -28850,7 +28850,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -28993,7 +28993,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Google Stadia",
         "Xbox Series X|S",
@@ -29251,7 +29251,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "Linux",
@@ -29449,7 +29449,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii",
         "Wii U"
@@ -29465,7 +29465,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Super Mario Galaxy 2 is the sequel to Super Mario Galaxy and the fourth 3D platformer entry in the Mario franchise. The sequel retains many elements from its predecessor, such as the adventure being in outer space, the element of gravity, and recurring objects such as Launch Stars and Sling Stars. Returning items include the Bee Mushroom and the Fire Flower. However, the game introduces new elements as well, such as the utilization of Yoshi, new power-ups like the Cloud Flower, and the use of a guide within the game for beginner players.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21tl.jpg",
       "protagonistGender": null,
@@ -29684,7 +29684,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox One",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox One"
@@ -30030,7 +30030,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 2"
@@ -30077,7 +30077,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4"
@@ -30171,7 +30171,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Ouya",
@@ -30367,7 +30367,7 @@
         "Shooter",
         "Indie"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "PC (Microsoft Windows)"
@@ -30663,7 +30663,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -30813,7 +30813,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Google Stadia",
         "PlayStation 4",
@@ -30864,7 +30864,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Wii",
         "Nintendo 64",
@@ -31010,7 +31010,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -31081,7 +31081,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Bethesda Softworks",
-      "franchise": null,
+      "franchise": "Dishonored",
       "description": "Dishonored: Death of the Outsider is a standalone expansion pack and a sequel to Dishonored 2. The game features all the series hallmarks, including brutal combat systems, unique level design and immersive storytelling that responds to your every choice. With compelling characters and exhilarating action, Death of the Outsider is the perfect entry point for those new to the Dishonored series, while delivering a significant expansion of the gameplay and world for longtime fans.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pd2.jpg",
       "protagonistGender": null,
@@ -31109,7 +31109,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4"
@@ -31156,7 +31156,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -31208,7 +31208,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -31448,7 +31448,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "Xbox",
         "Nintendo GameCube",
@@ -31497,7 +31497,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -31807,7 +31807,7 @@
         "Tactical",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox One",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -31906,7 +31906,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -32007,7 +32007,7 @@
         "Simulator",
         "Sport"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -32055,7 +32055,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -32195,7 +32195,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -32211,7 +32211,7 @@
         "Single player"
       ],
       "isMultiplayer": false,
-      "publisher": "Buena Vista Games",
+      "publisher": "Square Enix",
       "franchise": "Kingdom Hearts",
       "description": "Kingdom Hearts II is an action role-playing game, and the primary entry to the series since the 2002 Disney Interactive and Square collaboration. The game's setting is a collection of various levels (referred to in-game as \"worlds\") that the player progresses through. As in the first game, it II allows the player to travel to locales from various Disney works, along with original worlds specifically created for the series.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co30t1.jpg",
@@ -32433,7 +32433,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -32481,7 +32481,7 @@
         "Real Time Strategy (RTS)",
         "Strategy"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PC (Microsoft Windows)",
@@ -32530,7 +32530,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation",
@@ -32626,7 +32626,7 @@
         "Simulator",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -32722,7 +32722,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -33299,7 +33299,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox One"
@@ -33397,7 +33397,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -33452,7 +33452,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Windows Mobile",
         "Xbox",
@@ -33524,7 +33524,7 @@
         "Single player"
       ],
       "isMultiplayer": false,
-      "publisher": "The Walt Disney Company",
+      "publisher": "Square Enix",
       "franchise": "Disney",
       "description": "Kingdom Hearts III is the third main installment in the Kingdom Hearts series developed and published by Square Enix. It was initially released January 2019 for the PlayStation 4 and the Xbox One. An expansion, Kingdom Hearts III Re Mind was released in January 2020.\n\nThe story takes place after the events of Kingdom Hearts 3D: Dream Drop Distance. It features an older Sora as the main protagonist, who sets forth on a new adventure to search for seven guardians of light in an attempt to stop Xehanort from bringing about a second Keyblade War. Sora is joined by Donald Duck, Goofy, Mickey Mouse, Riku, Kairi, and others. Along the way, Sora travels to many worlds from Disney and Pixar intellectual properties, and cross paths with the real Organization XIII.\n\nKingdom Hearts III features hack and slash combat reminiscent of Kingdom Hearts II, with elements from later handheld entries, allowing the player to control Sora in a party with Donald, Goofy, and up to two other Disney characters from the various worlds he visits. A major addition compared is the Formchange mechanic, which allows his currently equipped Keyblade to grant him special abilities and change shape. Sora can equip up to three Keyblades at a time, and cycle between them to use his abilities. Another addition is the Attractions mechanic, which occasionally allows Sora to summon and pilot a vehicle inspired by Disney theme park attractions. At certain points throughout the game, the player will be able to control other characters.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tpy.jpg",
@@ -33604,7 +33604,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "PlayStation 4",
@@ -33702,7 +33702,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -33850,7 +33850,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -34046,7 +34046,7 @@
       "genres": [
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -34094,7 +34094,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "PlayStation 5"
       ],
@@ -34140,7 +34140,7 @@
       "genres": [
         "Racing"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "Android",
         "PC (Microsoft Windows)",
@@ -34233,7 +34233,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "PlayStation 5"
@@ -34330,7 +34330,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Wii",
@@ -34426,7 +34426,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Zeebo",
         "Linux",
@@ -34480,7 +34480,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -34629,7 +34629,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -34826,7 +34826,7 @@
       "genres": [
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Family Computer Disk System",
         "Nintendo 3DS",
@@ -34878,7 +34878,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -34929,7 +34929,7 @@
         "Role-playing (RPG)",
         "Hack and slash/Beat 'em up"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360"
@@ -35029,7 +35029,7 @@
         "Tactical",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -35223,7 +35223,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -35319,7 +35319,7 @@
         "Indie",
         "Visual Novel"
       ],
-      "platform": "Nintendo",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "Nintendo Switch 2",
@@ -35374,7 +35374,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -35432,7 +35432,7 @@
         "Indie",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Ouya",
@@ -35485,7 +35485,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Satellaview",
         "Super Nintendo Entertainment System",
@@ -35504,7 +35504,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Super Mario World 2: Yoshi's Island is a platform video game acting as a prequel to 1990's Super Mario World. The game casts players as Yoshi as he escorts Baby Mario through 48 levels in order to reunite him with his brother Luigi, who had been kidnapped by Baby Bowser's minions. As a Super Mario series platformer, Yoshi runs and jumps to reach the end of the level while solving puzzles and collecting items. In a style new to the series, the game has a hand-drawn aesthetic and is the first to have Yoshi as its main character. The game introduces his signature abilities to flutter jump, produce eggs from swallowed enemies, and transform into vehicles.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kn9.jpg",
       "protagonistGender": null,
@@ -35532,7 +35532,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -35769,7 +35769,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -35963,7 +35963,7 @@
         "Fighting",
         "Arcade"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)"
@@ -36009,7 +36009,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360"
@@ -36056,7 +36056,7 @@
         "Racing",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "PlayStation 3",
@@ -36198,7 +36198,7 @@
         "Racing",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii U",
       "allPlatforms": [
         "Wii U"
       ],
@@ -36217,7 +36217,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Turn your racing experience upside down! Nintendo\u2019s Mario Kart franchise comes to the Wii U console in full HD, introducing new racing circuit designs and anti-gravity karts that will have players driving upside down. And for the first time, all of Bowser\u2019s seven Koopalings are playable characters-- get a taste of being bad on the race track by playing as Iggy, Larry, Lemmy, Ludwig, Morton, Roy and Wendy. Players will also enjoy a variety of series-favorite features, including the return of 12-player online competitive play, hang-gliders, underwater racing and motorbikes.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co213q.jpg",
       "protagonistGender": null,
@@ -36245,7 +36245,7 @@
         "Shooter",
         "Indie"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Xbox",
         "Linux",
@@ -36589,7 +36589,7 @@
         "Strategy",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -36643,7 +36643,7 @@
         "Simulator",
         "Strategy"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -36752,7 +36752,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -36906,7 +36906,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -36963,7 +36963,7 @@
         "Simulator",
         "Strategy"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "Linux",
@@ -37062,7 +37062,7 @@
         "Tactical",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -37111,7 +37111,7 @@
         "Role-playing (RPG)",
         "Simulator"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox One"
@@ -37160,7 +37160,7 @@
         "Tactical",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation VR2",
@@ -37261,7 +37261,7 @@
         "Simulator",
         "Strategy"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -37606,7 +37606,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 4",
         "PlayStation 2"
@@ -37753,7 +37753,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -37897,7 +37897,7 @@
         "Indie",
         "Card & Board Game"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "Linux",
@@ -38000,7 +38000,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -38098,7 +38098,7 @@
         "Indie",
         "Visual Novel"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -38236,7 +38236,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Multi-platform",
+      "platform": "Genesis",
       "allPlatforms": [
         "Arcade",
         "PlayStation 3",
@@ -38287,7 +38287,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Other",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Game Boy Advance"
       ],
@@ -38380,7 +38380,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360"
@@ -38426,7 +38426,7 @@
         "Racing",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -38473,7 +38473,7 @@
         "Simulator",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -38523,7 +38523,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Multi-platform",
+      "platform": "Genesis",
       "allPlatforms": [
         "PlayStation 3",
         "Nintendo 3DS",
@@ -38821,7 +38821,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PC (Microsoft Windows)",
@@ -38867,7 +38867,7 @@
         "Racing",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Wii",
         "Nintendo 64",
@@ -38887,7 +38887,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Mario Kart 64 is the second main installment of the Mario Kart series. It is the first game in the series to use three-dimensional graphics, however, the characters and items in this game are still two-dimensional, pre-rendered sprites. The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc. Each kart has distinctive handling, acceleration and top speed capabilities. Shells that you fire at rival racers, Bananas that make them skid out and Lightning Bolts that make them small and very slow are just a few of the game's unique power-ups.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67hm.jpg",
       "protagonistGender": null,
@@ -38916,7 +38916,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -38968,7 +38968,7 @@
         "Indie",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -39017,7 +39017,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Wii",
@@ -39167,7 +39167,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Google Stadia",
         "Xbox Series X|S",
@@ -39219,7 +39219,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy",
       "allPlatforms": [
         "Nintendo 3DS",
         "Game Boy"
@@ -39507,7 +39507,7 @@
         "Role-playing (RPG)",
         "Strategy"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -39605,7 +39605,7 @@
         "Indie",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Android",
@@ -39654,7 +39654,7 @@
         "Fighting",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii"
       ],
@@ -39671,7 +39671,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Metroid",
+      "franchise": "Super Smash Bros.",
       "description": "Super Smash Bros. Brawl is the third installment in the Super Smash Bros. series and the follow-up to Super Smash Bros. Melee. This edition introduces super attacks referred to as final smashes, as well as a brand-new adventure mode in The Subspace Emissary which is a side-scrolling adventure in the style of a platformer. It retains all basic mechanics of the Super Smash Bros. series, such as a damage meter, stocks, and Smash-style attacks.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co221w.jpg",
       "protagonistGender": null,
@@ -39698,7 +39698,7 @@
       "genres": [
         "Racing"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii"
       ],
@@ -39716,7 +39716,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Mario Kart Wii is a multiplayer-oriented racing game for the Wii, and the sixth main installment in the Mario Kart series. Mario Kart Wii retains the traditional item-based weaponry familiar with the franchise, where players can select a Mario franchise driver and themed vehicles. As with most racing games, the overarching goal is to place first among other competitors, through the usage of such items and taking the fastest routes to secure the leads. Several new key elements introduced to Mario Kart Wii include increasing the number of racers to 12 racers from 8 racers from previous entries in the series, as well as introducing a new type of vehicle to the franchise: bikes. The game takes advantage of features unique to the Wii, most notably its motion control capabilities. A Wii Wheel is included in most Mario Kart Wii packages, though the game is still compatible with other controllers. Game modes are also present such as the traditional Grand Prix, Versus, Battle, and Time Trial modes.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co214e.jpg",
       "protagonistGender": null,
@@ -39938,7 +39938,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -40032,7 +40032,7 @@
         "Platform",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "Arcade",
       "allPlatforms": [
         "Neo Geo AES",
         "Arcade",
@@ -40188,7 +40188,7 @@
         "Strategy",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Nintendo 3DS",
         "Android",
@@ -40286,7 +40286,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade"
       ],
@@ -40422,7 +40422,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Other",
+      "platform": "Dreamcast",
       "allPlatforms": [
         "Dreamcast"
       ],
@@ -40522,7 +40522,7 @@
         "Turn-based strategy (TBS)",
         "Tactical"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -40569,7 +40569,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Arcade",
         "Nintendo 3DS",
@@ -40589,7 +40589,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Super Mario Bros. 2, 2D platformer and sequel to Super Mario Bros. (1985), features 4 selectable characters (Mario, Luigi, Princess Peach, Toad) as they navigate the dream world of Subcon to defeat the evil toad king Wart. Super Mario Bros. 2 features different ways interacting with enemies and the world, including an object carrying mechanic and more intricate level designs.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7yq7.jpg",
       "protagonistGender": null,
@@ -40722,7 +40722,7 @@
         "Strategy",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -40820,7 +40820,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Other",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Game Boy Advance"
       ],
@@ -40868,7 +40868,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Nintendo",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Linux",
         "Android",
@@ -41072,7 +41072,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PC (Microsoft Windows)",
@@ -41120,7 +41120,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -41166,7 +41166,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360",
@@ -41266,7 +41266,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -41499,7 +41499,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy",
       "allPlatforms": [
         "Game Boy Color",
         "Nintendo 3DS",
@@ -41881,7 +41881,7 @@
         "Sport",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Google Stadia",
         "PlayStation 4",
@@ -42328,7 +42328,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy",
       "allPlatforms": [
         "Nintendo 3DS",
         "Game Boy"
@@ -42373,7 +42373,7 @@
       "genres": [
         "Simulator"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -42420,7 +42420,7 @@
         "Shooter",
         "Tactical"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PC (Microsoft Windows)",
@@ -42511,7 +42511,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Wii",
@@ -42559,7 +42559,7 @@
       "genres": [
         "Role-playing (RPG)"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -42752,7 +42752,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Google Stadia",
         "Xbox Series X|S",
@@ -42804,7 +42804,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "Linux",
@@ -42856,7 +42856,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii",
         "PC (Microsoft Windows)",
@@ -42905,7 +42905,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Nintendo",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "Nintendo 3DS",
@@ -43004,7 +43004,7 @@
         "Racing",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Wii",
@@ -43025,7 +43025,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Super Mario Kart is a racing game for the Super Nintendo Entertainment System and the first game of the Mario Kart series, as well as the game that sets precedents to the fictional kart racing genre. Part of this game is heavily based on Super Mario World in terms of graphics and overall theme. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21w8.jpg",
       "protagonistGender": null,
@@ -43099,7 +43099,7 @@
         "Shooter",
         "Arcade"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "iOS",
@@ -43285,7 +43285,7 @@
       "genres": [
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox One"
@@ -43376,7 +43376,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii U",
       "allPlatforms": [
         "Wii U"
       ],
@@ -43468,7 +43468,7 @@
         "Simulator",
         "Sport"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii"
       ],
@@ -43513,7 +43513,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Nintendo 3DS",
         "Wii U",
@@ -43603,7 +43603,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Color",
       "allPlatforms": [
         "Game Boy Color",
         "Nintendo 3DS"
@@ -43648,7 +43648,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -43697,7 +43697,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -43884,7 +43884,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -43934,7 +43934,7 @@
         "Turn-based strategy (TBS)",
         "Tactical"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "Amiga CD32",
         "PC (Microsoft Windows)",
@@ -43981,7 +43981,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Nintendo 64"
       ],
@@ -44129,7 +44129,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Color",
       "allPlatforms": [
         "Game Boy Color",
         "Nintendo 3DS"
@@ -44175,7 +44175,7 @@
         "Racing",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Wii U",
         "Nintendo DS"
@@ -44192,7 +44192,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Mario Kart DS is the continuation of the long running racing game series that began on the Super Nintendo. It features 16 new tracks as well as 16 tracks from the previous 4 games, with each set split up into the Nitro and Retro Grand Prix respectively. Eight racers are initially available, each with two go-karts to choose from. A number of characters and additional karts are also available to unlock. New items have been added to the arsenal, including a Blooper squid that squirts ink onto the screens of other players and a Bullet Bill power up that transforms the player into a giant, fast-travelling bullet on autopilot.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9rx.jpg",
       "protagonistGender": null,
@@ -44219,7 +44219,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Nintendo",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Nintendo 64",
         "PC (Microsoft Windows)"
@@ -44309,7 +44309,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii",
         "Wii U"
@@ -44355,7 +44355,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii U",
       "allPlatforms": [
         "Wii U"
       ],
@@ -44401,7 +44401,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Color",
       "allPlatforms": [
         "Game Boy Color",
         "Nintendo 3DS"
@@ -44498,7 +44498,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -44542,7 +44542,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Nintendo 3DS",
         "Wii",
@@ -44587,7 +44587,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -44601,7 +44601,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Super Mario 3D Land is the second 3D Super Mario platformer for a handheld device, and the successor to Super Mario Galaxy 2. The game is closely based on side-scrolling Mario games, as it combine elements from both traditional 2D Mario games and modern free-roaming 3D Mario games. It also introduces elements into the series, including power-ups and gameplay mechanics.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobab1.jpg",
       "protagonistGender": null,
@@ -44676,7 +44676,7 @@
         "Racing",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -44694,7 +44694,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "The Mushroom Kingdom just got a whole lot more hectic as Mario and friends double up for furious kart racing. This time around, each kart holds two racers that can switch places at any time, so choose from a huge cast of favorites and pair them up any way you see fit. The character in front handles the driving duties, while the character in the rear doles out damage with six normal items and eight special items that only specific characters can use. Get ready for some intense multiplayer mayhem with your favorite characters, including Mario, Luigi, Donkey Kong, Peach, Bowser, and Koopa.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ndu.jpg",
       "protagonistGender": null,
@@ -44723,7 +44723,7 @@
         "Simulator",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Meta Quest 2",
         "PlayStation 4",
@@ -44777,7 +44777,7 @@
         "Fighting",
         "Arcade"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade"
       ],
@@ -44894,7 +44894,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Activision",
-      "franchise": null,
+      "franchise": "Guitar Hero",
       "description": "Rock out to the third entry in in Red Octane's music series for guitar gods! Songs for Guitar Hero III include Barracuda by Heart, Sabotage by Beastie Boys, Rock And Roll All Nite by Kiss, and much more! In addition, players can experience an incredible number of added features and explosive content including a new multiplayer action-inspired battle mode, grueling boss battles, a bevy of exclusive unlockable content and authentic rock venues.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wqm.jpg",
       "protagonistGender": null,
@@ -44923,7 +44923,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -44966,7 +44966,7 @@
         "Real Time Strategy (RTS)",
         "Strategy"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -45063,7 +45063,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -45110,7 +45110,7 @@
         "Quiz/Trivia",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Nintendo 64"
       ],
@@ -45199,7 +45199,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -45287,7 +45287,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Other",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Game Boy Advance"
       ],
@@ -45333,7 +45333,7 @@
         "Tactical",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -45431,7 +45431,7 @@
         "Adventure",
         "Visual Novel"
       ],
-      "platform": "PlayStation",
+      "platform": "PSP",
       "allPlatforms": [
         "Linux",
         "Android",
@@ -45482,7 +45482,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -45571,7 +45571,7 @@
       "genres": [
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -45619,7 +45619,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4"
@@ -45664,7 +45664,7 @@
         "Platform",
         "Hack and slash/Beat 'em up"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Family Computer Disk System",
         "Arcade",
@@ -45759,7 +45759,7 @@
         "Real Time Strategy (RTS)",
         "Strategy"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Nintendo 64",
         "PC (Microsoft Windows)",
@@ -45808,7 +45808,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii",
         "Wii U"
@@ -45899,7 +45899,7 @@
         "Fighting",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii U",
       "allPlatforms": [
         "Wii U"
       ],
@@ -45919,7 +45919,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Metroid",
+      "franchise": "Super Smash Bros.",
       "description": "Super Smash Bros. for Wii U is the fourth console-based entry in the popular Super Smash Bros. series of fighting games. With an even larger roster of fighters than its predecessors and the introduction eight player battles, Smash for Wii U continues to add to the formula that gamers have loved since 1999.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co213x.jpg",
       "protagonistGender": null,
@@ -45948,7 +45948,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -45995,7 +45995,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Xbox Series X|S",
         "PC (Microsoft Windows)"
@@ -46139,7 +46139,7 @@
         "Fighting",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "PlayStation 3",
@@ -46194,7 +46194,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -46287,7 +46287,7 @@
         "Adventure",
         "Card & Board Game"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -46333,7 +46333,7 @@
         "Racing",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 4",
         "PlayStation 2"
@@ -46379,7 +46379,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -46665,7 +46665,7 @@
         "Tactical",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -46707,7 +46707,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Acorn Archimedes",
         "PC-9800 Series",
@@ -46805,7 +46805,7 @@
         "Adventure",
         "Visual Novel"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -46850,7 +46850,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PSP",
       "allPlatforms": [
         "PlayStation Portable"
       ],
@@ -46990,7 +46990,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -47036,7 +47036,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Other",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Game Boy Advance"
       ],
@@ -47082,7 +47082,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -47126,7 +47126,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "PlayStation 5"
       ],
@@ -47169,7 +47169,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "PlayStation 5"
@@ -47266,7 +47266,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Nintendo 3DS",
@@ -47317,7 +47317,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Family Computer Disk System",
         "Nintendo 3DS",
@@ -47363,7 +47363,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "DOS",
@@ -47454,7 +47454,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch 2",
         "Nintendo Switch"
@@ -47544,7 +47544,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -47592,7 +47592,7 @@
         "Adventure",
         "Visual Novel"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -47645,7 +47645,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -47733,7 +47733,7 @@
         "Shooter",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Nintendo 3DS",
         "Wii",
@@ -47867,7 +47867,7 @@
         "Role-playing (RPG)",
         "Turn-based strategy (TBS)"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Nintendo 64"
       ],
@@ -47963,7 +47963,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "Genesis",
       "allPlatforms": [
         "Wii",
         "Sega Mega Drive/Genesis",
@@ -48011,7 +48011,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Wii U",
         "Game Boy Advance"
@@ -48199,7 +48199,7 @@
         "Platform",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "Arcade",
       "allPlatforms": [
         "Neo Geo AES",
         "Arcade",
@@ -48255,7 +48255,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -48343,7 +48343,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -48392,7 +48392,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Wii U",
         "Nintendo DS"
@@ -48666,7 +48666,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -48759,7 +48759,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Other",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Game Boy Advance"
       ],
@@ -48805,7 +48805,7 @@
         "Racing",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -48821,7 +48821,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "The seventh installment of the fan-favorite Mario Kart franchise brings Mushroom Kingdom racing fun into glorious 3D. For the first time, drivers explore new competitive kart possibilities, such as soaring through the skies or plunging to the depths of the sea. New courses, strategic new abilities and customizable karts bring the racing excitement to new heights.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2146.jpg",
       "protagonistGender": null,
@@ -48849,7 +48849,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "Xbox 360"
       ],
@@ -48893,7 +48893,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "PlayStation",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "PlayStation 2"
@@ -48981,7 +48981,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -49029,7 +49029,7 @@
         "Racing",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -49077,7 +49077,7 @@
         "Racing",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -49124,7 +49124,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Wii",
         "Nintendo 64",
@@ -49261,7 +49261,7 @@
         "Role-playing (RPG)",
         "Strategy"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -49439,7 +49439,7 @@
       "genres": [
         "Arcade"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade"
       ],
@@ -49628,7 +49628,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Wii",
         "Nintendo 64",
@@ -49817,7 +49817,7 @@
       "genres": [
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -49833,7 +49833,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Luigi steps out from the shadow of his brother Mario and into the gloomy shadows of a very haunted house in this, his first-ever starring role. When Luigi learns that he's the proud new owner of a creepy old mansion, he's thrilled. Of course, his feelings immediately shift when his brother, the storied Mario, disappears from the house. Now, you'll have to help Luigi track his brother down, making your way through expansive 3D levels. Each stage is packed with ghosts and ghouls to put you on edge; and you'll be armed with a flashlight and a vacuum cleaner to help you capture your foes. Armed with a flashlight and a customized vacuum cleaner, Luigi must rid the mansion of Boos and ghouls -- and find his missing brother to boot!",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wr1.jpg",
       "protagonistGender": null,
@@ -49860,7 +49860,7 @@
       "genres": [
         "Simulator"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -49907,7 +49907,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Nintendo 3DS",
         "Wii",
@@ -50003,7 +50003,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PSP",
       "allPlatforms": [
         "PlayStation Portable"
       ],
@@ -50046,7 +50046,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox One",
       "allPlatforms": [
         "Xbox One"
       ],
@@ -50092,7 +50092,7 @@
         "Adventure",
         "Visual Novel"
       ],
-      "platform": "Multi-platform",
+      "platform": "PSP",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -50143,7 +50143,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 3",
         "Wii",
@@ -50283,7 +50283,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -50330,7 +50330,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -50374,7 +50374,7 @@
         "Real Time Strategy (RTS)",
         "Strategy"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360"
@@ -50464,7 +50464,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360",
@@ -50555,7 +50555,7 @@
       "genres": [
         "Simulator"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Wii",
         "Nintendo 64",
@@ -50601,7 +50601,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "Android",
         "PC (Microsoft Windows)",
@@ -50650,7 +50650,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Wii",
@@ -50844,7 +50844,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -50888,7 +50888,7 @@
         "Platform",
         "Puzzle"
       ],
-      "platform": "Nintendo",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Linux",
@@ -50938,7 +50938,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Arcade",
         "Nintendo 3DS",
@@ -50988,7 +50988,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -51034,7 +51034,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii U",
       "allPlatforms": [
         "Wii U"
       ],
@@ -51177,7 +51177,7 @@
         "Shooter",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "Family Computer",
@@ -51224,7 +51224,7 @@
         "Shooter",
         "Tactical"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "Xbox",
         "PlayStation 3",
@@ -51273,7 +51273,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Other",
+      "platform": "Game Boy",
       "allPlatforms": [
         "Game Boy"
       ],
@@ -51368,7 +51368,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Wii",
@@ -51388,7 +51388,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "A JRPG entry in the Super Mario franchise in which Mario meets many unlikely allies in order to jump and fight his way through the Mushroom Kingdom and collect stars to repair the Star Road, the pathway that grants people's wishes, which was destroyed by Smithy, the otherworldly entity that hijacked Bowser's castle and threw the Kingdom into disarray.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5r6p.jpg",
       "protagonistGender": null,
@@ -51417,7 +51417,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Wii U",
         "Game Boy Advance"
@@ -51563,7 +51563,7 @@
         "Puzzle",
         "Indie"
       ],
-      "platform": "Nintendo",
+      "platform": "PC",
       "allPlatforms": [
         "Android",
         "PC (Microsoft Windows)",
@@ -51607,7 +51607,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360",
@@ -51657,7 +51657,7 @@
         "Strategy",
         "Tactical"
       ],
-      "platform": "PlayStation",
+      "platform": "PSP",
       "allPlatforms": [
         "PlayStation Portable"
       ],
@@ -51702,7 +51702,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -51750,7 +51750,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -51991,7 +51991,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -52172,7 +52172,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -52361,7 +52361,7 @@
         "Hack and slash/Beat 'em up",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "PlayStation 3",
@@ -52417,7 +52417,7 @@
         "Simulator",
         "Strategy"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "PC (Microsoft Windows)"
@@ -52463,7 +52463,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -52606,7 +52606,7 @@
         "Shooter",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Genesis",
       "allPlatforms": [
         "Wii",
         "Sega Mega Drive/Genesis"
@@ -52935,7 +52935,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PlayStation 3",
         "Sega Saturn",
@@ -53169,7 +53169,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Super NES CD-ROM System",
@@ -53269,7 +53269,7 @@
         "Platform",
         "Arcade"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade"
       ],
@@ -53310,7 +53310,7 @@
       "genres": [
         "Hack and slash/Beat 'em up"
       ],
-      "platform": "Nintendo",
+      "platform": "Genesis",
       "allPlatforms": [
         "Arcade",
         "Linux",
@@ -53412,7 +53412,7 @@
         "Simulator",
         "Strategy"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "PC (Microsoft Windows)",
@@ -53463,7 +53463,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Other",
+      "platform": "Dreamcast",
       "allPlatforms": [
         "Dreamcast"
       ],
@@ -53507,7 +53507,7 @@
       "genres": [
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -53701,7 +53701,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -53749,7 +53749,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3",
         "Nintendo Switch"
@@ -53840,7 +53840,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Nintendo 64"
       ],
@@ -53937,7 +53937,7 @@
         "Simulator",
         "Sport"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii"
       ],
@@ -53981,7 +53981,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "Multi-platform",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "Nintendo 64",
@@ -54078,7 +54078,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 4",
         "PlayStation 2"
@@ -54178,7 +54178,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Other",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Atari ST/STE",
         "Amiga",
@@ -54222,7 +54222,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy",
       "allPlatforms": [
         "Nintendo 3DS",
         "Game Boy"
@@ -54237,7 +54237,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Super Mario Land 2: 6 Golden Coins is a platforming game for the Game Boy and the sequel to Super Mario Land. It also marks the debut of Mario's self-proclaimed arch rival Wario, who would later become a recurring character in the Mario series as well as a protagonist in his own series. The game features new graphics, power-ups, challenges, and a completely original storyline.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7gxg.jpg",
       "protagonistGender": null,
@@ -54366,7 +54366,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -54410,7 +54410,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii",
         "Wii U",
@@ -54455,7 +54455,7 @@
         "Puzzle",
         "Strategy"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Arcade",
         "Family Computer",
@@ -54504,7 +54504,7 @@
         "Adventure",
         "Visual Novel"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "Android",
@@ -54556,7 +54556,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -54690,7 +54690,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade"
       ],
@@ -54732,7 +54732,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -54827,7 +54827,7 @@
         "Shooter",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Arcade",
         "Nintendo 3DS",
@@ -54876,7 +54876,7 @@
         "Simulator",
         "Strategy"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -54922,7 +54922,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -55062,7 +55062,7 @@
         "Shooter",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -55161,7 +55161,7 @@
         "Adventure",
         "Visual Novel"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -55250,7 +55250,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Wii",
         "Family Computer",
@@ -55391,7 +55391,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -55533,7 +55533,7 @@
         "Puzzle",
         "Visual Novel"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Android",
         "iOS",
@@ -55623,7 +55623,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Color",
       "allPlatforms": [
         "Game Boy Color",
         "Nintendo 3DS"
@@ -55668,7 +55668,7 @@
         "Adventure",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "PC (Microsoft Windows)",
@@ -55715,7 +55715,7 @@
         "Adventure",
         "Visual Novel"
       ],
-      "platform": "Nintendo",
+      "platform": "PC",
       "allPlatforms": [
         "Wii",
         "PC (Microsoft Windows)",
@@ -55762,7 +55762,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -55996,7 +55996,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Wii U",
         "Game Boy Advance"
@@ -56041,7 +56041,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Wii",
@@ -56088,7 +56088,7 @@
         "Fighting",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -56106,7 +56106,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario",
+      "franchise": "Super Smash Bros.",
       "description": "Super Smash Bros. for Nintendo 3DS is the first portable entry in the renowned series, in which game worlds collide. Up to four players battle each other locally or online using some of Nintendo\u2019s most well-known and iconic characters across beautifully designed stages inspired by classic portable Nintendo games. It\u2019s a genuine, massive Super Smash Bros. experience that\u2019s available to play on the go, anytime, anywhere.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wvk.jpg",
       "protagonistGender": null,
@@ -56134,7 +56134,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -56224,7 +56224,7 @@
         "Hack and slash/Beat 'em up",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "Genesis",
       "allPlatforms": [
         "Arcade",
         "PlayStation 3",
@@ -56277,7 +56277,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Color",
       "allPlatforms": [
         "Game Boy Color",
         "Nintendo 3DS"
@@ -56322,7 +56322,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -56368,7 +56368,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Wii U",
         "Nintendo DS"
@@ -56413,7 +56413,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -56461,7 +56461,7 @@
         "Racing",
         "Simulator"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "PlayStation"
@@ -56502,7 +56502,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade"
       ],
@@ -56642,7 +56642,7 @@
       "genres": [
         "Racing"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox One"
@@ -56690,7 +56690,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "PlayStation",
+      "platform": "PS Vita",
       "allPlatforms": [
         "PlayStation 3",
         "Linux",
@@ -56738,7 +56738,7 @@
       "genres": [
         "Racing"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Nintendo 64"
       ],
@@ -56782,7 +56782,7 @@
       "genres": [
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)"
@@ -56827,7 +56827,7 @@
         "Strategy",
         "Indie"
       ],
-      "platform": "Nintendo",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Linux",
         "Android",
@@ -56876,7 +56876,7 @@
         "Adventure",
         "Visual Novel"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Wii",
         "PC (Microsoft Windows)",
@@ -56966,7 +56966,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "PlayStation",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "PlayStation 2"
@@ -57011,7 +57011,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -57104,7 +57104,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "Xbox Series X|S",
         "PC (Microsoft Windows)",
@@ -57150,7 +57150,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii",
         "Wii U"
@@ -57245,7 +57245,7 @@
       "genres": [
         "Racing"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Arcade",
         "Satellaview",
@@ -57295,7 +57295,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -57483,7 +57483,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "Windows Mobile",
         "Atari 2600",
@@ -57540,7 +57540,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii",
         "Wii U"
@@ -57676,7 +57676,7 @@
         "Tactical",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -57721,7 +57721,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii U",
       "allPlatforms": [
         "Wii U"
       ],
@@ -57766,7 +57766,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "Multi-platform",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "PlayStation 3",
@@ -57861,7 +57861,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy",
       "allPlatforms": [
         "Nintendo 3DS",
         "Game Boy"
@@ -57950,7 +57950,7 @@
         "Quiz/Trivia",
         "Card & Board Game"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Nintendo 64"
       ],
@@ -57968,7 +57968,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Every game in the main series has a standard Party Mode in which up to four players play through a board, trying to collect as many stars as possible. In every turn, each player rolls a die and progresses on the board, which usually has branching paths. Coins are primarily earned by performing well in a minigame played at the end of each turn. On most boards, players earn stars by reaching a star space and purchasing a star for a certain amount of coins. The star space appears randomly on one of several pre-determined locations and moves every time a star is purchased, usually occupying a blue space.\nEvery Mario Party contains at least 50 to almost 110 minigames with a few different types. Four-player games are a free-for-all in which players compete individually. In 2-on-2 and 1-on-3 minigames, players compete as two groups, cooperating to win, even though they are still competing individually in the main game. Some minigames in Mario Party are 4-player co-op, even though it doesn't say it. In most situations, winners earn ten coins each.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22qr.jpg",
       "protagonistGender": null,
@@ -57996,7 +57996,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Nintendo 64",
         "Wii U"
@@ -58042,7 +58042,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -58133,7 +58133,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "Xbox",
         "Nintendo GameCube",
@@ -58274,7 +58274,7 @@
         "Racing",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Nintendo 3DS",
         "Wii U",
@@ -58292,7 +58292,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Classic Mario Kart action is back once again, this time in a colorful, lightning-fast game that you can take anywhere. Mario, Luigi, Peach, Toad, Wario, Yoshi and Bowser are all tearing up the track, tossing Koopa Shells and laying banana peels along the way.\n\nMario Kart Super Circuit puts your driving skills to the test on 40 tracks, each littered with wild weapons and obstacles. Choose to play as any of your favorite characters as you speed around classic and brand-new tracks. If you're feeling combative, try out the creative weaponry (mushrooms, bananas, thunder bolts, and stars) in Battle mode. Feel like making some friends eat your dust? No problem. Four players can compete in Mario Kart Super Circuit using only one Game Pak! If each player has a copy of the game, bonus features and new modes of play become available.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7o0u.jpg",
       "protagonistGender": null,
@@ -58431,7 +58431,7 @@
         "Adventure",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "Arcade",
       "allPlatforms": [
         "Neo Geo AES",
         "Arcade",
@@ -58538,7 +58538,7 @@
         "Tactical",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "PC (Microsoft Windows)",
@@ -58588,7 +58588,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -58637,7 +58637,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -58683,7 +58683,7 @@
         "Role-playing (RPG)",
         "Turn-based strategy (TBS)"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Wii U",
         "Game Boy Advance"
@@ -58779,7 +58779,7 @@
         "Real Time Strategy (RTS)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -58914,7 +58914,7 @@
         "Strategy",
         "Turn-based strategy (TBS)"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Nintendo 64"
       ],
@@ -58958,7 +58958,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "PlayStation 5"
@@ -59243,7 +59243,7 @@
         "Shooter",
         "Tactical"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Nintendo 64"
       ],
@@ -59341,7 +59341,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "Multi-platform",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "PlayStation 3",
@@ -59435,7 +59435,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Wii",
         "Family Computer",
@@ -59480,7 +59480,7 @@
         "Strategy",
         "Turn-based strategy (TBS)"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -59571,7 +59571,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -59622,7 +59622,7 @@
         "Sport",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Arcade",
         "Wii",
@@ -59671,7 +59671,7 @@
         "Quiz/Trivia",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Nintendo 64"
       ],
@@ -59815,7 +59815,7 @@
       "genres": [
         "Music"
       ],
-      "platform": "Multi-platform",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "Xbox 360",
         "PlayStation 2"
@@ -59833,7 +59833,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Activision",
-      "franchise": null,
+      "franchise": "Guitar Hero",
       "description": "Unleash your inner rock star! Unlock new songs and venues to become the ultimate rock star in Career mode, jump right in and play any song you've unlocked in Quickplay, or play with or against friends in Multiplayer, all right from your living room!",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co97zc.jpg",
       "protagonistGender": null,
@@ -59862,7 +59862,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Xbox",
         "PC (Microsoft Windows)",
@@ -59910,7 +59910,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -59955,7 +59955,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "Android",
         "PC (Microsoft Windows)",
@@ -60233,7 +60233,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "Multi-platform",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "Super Nintendo Entertainment System",
@@ -60418,7 +60418,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "PC",
+      "platform": "Sega CD",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Sega CD"
@@ -60462,7 +60462,7 @@
         "Racing",
         "Simulator"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -60646,7 +60646,7 @@
         "Hack and slash/Beat 'em up",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Super Famicom"
@@ -60694,7 +60694,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -60743,7 +60743,7 @@
         "Adventure",
         "Arcade"
       ],
-      "platform": "Xbox",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "Xbox 360"
@@ -60885,7 +60885,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "PlayStation"
@@ -60932,7 +60932,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],
@@ -60948,7 +60948,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "New Super Mario Bros. 2 is a side-scrolling 2.5D action-adventure platform game for the Nintendo 3DS. As the direct sequel to New Super Mario Bros., it is an indirect follow-up to New Super Mario Bros. Wii. The game's main focus is on coins, with the primary goal being to collect one million. To reach the goal, the game includes many new items to aid the player, such as the Gold Flower, which turns Mario into Gold Mario.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobaah.jpg",
       "protagonistGender": null,
@@ -61018,7 +61018,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Super Famicom"
@@ -61063,7 +61063,7 @@
         "Simulator",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -61112,7 +61112,7 @@
         "Strategy",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "Nintendo GameCube",
@@ -61157,7 +61157,7 @@
       "genres": [
         "Role-playing (RPG)"
       ],
-      "platform": "PlayStation",
+      "platform": "PSP",
       "allPlatforms": [
         "PlayStation Portable"
       ],
@@ -61199,7 +61199,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -61336,7 +61336,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "PC",
+      "platform": "Genesis",
       "allPlatforms": [
         "Sega Mega Drive/Genesis",
         "PC (Microsoft Windows)"
@@ -61620,7 +61620,7 @@
         "Shooter",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Nintendo 3DS",
@@ -61761,7 +61761,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii U",
       "allPlatforms": [
         "Wii U"
       ],
@@ -61805,7 +61805,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4"
       ],
@@ -61852,7 +61852,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Google Stadia",
         "PlayStation 4",
@@ -61898,7 +61898,7 @@
       "genres": [
         "Simulator"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Wii U",
         "Nintendo DS"
@@ -61991,7 +61991,7 @@
         "Platform",
         "Hack and slash/Beat 'em up"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Nintendo 3DS",
         "Wii",
@@ -62135,7 +62135,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -62180,7 +62180,7 @@
         "Shooter",
         "Puzzle"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox",
         "Android",
@@ -62228,7 +62228,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -62371,7 +62371,7 @@
         "Shooter",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii U",
       "allPlatforms": [
         "Wii U"
       ],
@@ -62459,7 +62459,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 4",
@@ -62509,7 +62509,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -62608,7 +62608,7 @@
         "Strategy",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox 360"
@@ -62658,7 +62658,7 @@
         "Adventure",
         "Arcade"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -62706,7 +62706,7 @@
         "Simulator",
         "Sport"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -62801,7 +62801,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "Xbox",
       "allPlatforms": [
         "Xbox",
         "PlayStation 3",
@@ -62894,7 +62894,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -62985,7 +62985,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PlayStation 3",
         "PC (Microsoft Windows)",
@@ -63144,7 +63144,7 @@
       ],
       "isMultiplayer": false,
       "publisher": "Red Barrels",
-      "franchise": null,
+      "franchise": "Outlast",
       "description": "Whistleblower starts the story that led to Outlast, and stretches past the events of the first game to show the true final chapter in the story of Mount Massive Asylum.\nOutlast: Whistleblower follows the story of Waylon Park, the software engineer under contract with the Murkoff Corporation who emails journalists around the world - including Miles Upshur - at the beginning of Outlast.\n\nYou'll meet Waylon a few weeks into his time at Mount Massive, during which he has been unable to even contact his wife and son thanks to strict security protocols. Having developed a deep-seated distrust of the profit-motivated scientists and doctors leading dangerous and irresponsible experiments on their patients, Waylon ends up setting events in motion that lead to the unmasking of Mount Massive's rotten core.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaeza.jpg",
       "protagonistGender": null,
@@ -63173,7 +63173,7 @@
         "Turn-based strategy (TBS)",
         "Tactical"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Wii U",
         "Game Boy Advance"
@@ -63217,7 +63217,7 @@
         "Strategy",
         "Tactical"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Android",
@@ -63267,7 +63267,7 @@
       "genres": [
         "Simulator"
       ],
-      "platform": "Nintendo",
+      "platform": "GameCube",
       "allPlatforms": [
         "Nintendo GameCube"
       ],
@@ -63402,7 +63402,7 @@
       "genres": [
         "Strategy"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "N-Gage",
         "PC (Microsoft Windows)",
@@ -63589,7 +63589,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 2"
@@ -63688,7 +63688,7 @@
         "Adventure",
         "Arcade"
       ],
-      "platform": "PC",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "Sharp X68000",
@@ -63741,7 +63741,7 @@
         "Hack and slash/Beat 'em up",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "Dreamcast",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)",
@@ -63789,7 +63789,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo Switch",
       "allPlatforms": [
         "Nintendo Switch"
       ],
@@ -63836,7 +63836,7 @@
         "Indie",
         "Visual Novel"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -64031,7 +64031,7 @@
         "Shooter",
         "Platform"
       ],
-      "platform": "PlayStation",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Sega Saturn",
@@ -64077,7 +64077,7 @@
         "Platform",
         "Hack and slash/Beat 'em up"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Amiga CD32",
         "Sega Game Gear",
@@ -64127,7 +64127,7 @@
         "Quiz/Trivia",
         "Card & Board Game"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Wii",
         "Nintendo 64",
@@ -64148,7 +64148,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Mario and the gang are back for another round of Bowser-bashin' party action! Watch as your favorite Nintendo characters don different duds for each of the five all-new Adventure Boards! A slew of new tricks and devices bring new levels of challenge and excitement to board game play. New board maps, new Mini-Games, new action and new surprises means a whole new batch of fun! Get ready to unleash your best Hip Drops, hammer swings and high-flying high junks for another round of frenzied multi-player action!",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21yt.jpg",
       "protagonistGender": null,
@@ -64178,7 +64178,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Nintendo 64"
       ],
@@ -64225,7 +64225,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Family Computer Disk System",
         "Nintendo 3DS",
@@ -64319,7 +64319,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -64370,7 +64370,7 @@
         "Tactical",
         "Adventure"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -64419,7 +64419,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Wii U",
         "Game Boy Advance"
@@ -64557,7 +64557,7 @@
       "genres": [
         "Racing"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "Xbox 360"
       ],
@@ -64600,7 +64600,7 @@
         "Real Time Strategy (RTS)",
         "Strategy"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "Xbox 360"
       ],
@@ -64691,7 +64691,7 @@
         "Adventure",
         "Card & Board Game"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Color",
       "allPlatforms": [
         "Game Boy Color",
         "Nintendo 3DS"
@@ -64737,7 +64737,7 @@
         "Tactical",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii",
         "MSX2"
@@ -64839,7 +64839,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii",
         "Wii U"
@@ -64886,7 +64886,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii"
       ],
@@ -65123,7 +65123,7 @@
         "Adventure",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "Arcade",
       "allPlatforms": [
         "Neo Geo AES",
         "Arcade",
@@ -65471,7 +65471,7 @@
         "Platform",
         "Puzzle"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -65516,7 +65516,7 @@
         "Strategy",
         "Tactical"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Wii U",
         "Game Boy Advance"
@@ -65800,7 +65800,7 @@
         "Turn-based strategy (TBS)",
         "Tactical"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Wii U",
         "Game Boy Advance"
@@ -65892,7 +65892,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -65988,7 +65988,7 @@
         "Adventure",
         "Visual Novel"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo 3DS",
         "Android",
@@ -66033,7 +66033,7 @@
         "Simulator",
         "Sport"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "PlayStation 2"
@@ -66076,7 +66076,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 5",
       "allPlatforms": [
         "PlayStation 5"
       ],
@@ -66218,7 +66218,7 @@
         "Puzzle",
         "Indie"
       ],
-      "platform": "Nintendo",
+      "platform": "PC",
       "allPlatforms": [
         "Android",
         "PC (Microsoft Windows)",
@@ -66316,7 +66316,7 @@
         "Strategy",
         "Indie"
       ],
-      "platform": "Xbox",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "Linux",
@@ -66361,7 +66361,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -66547,7 +66547,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade"
       ],
@@ -66965,7 +66965,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 3",
         "PlayStation 2"
@@ -67057,7 +67057,7 @@
         "Shooter",
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Nintendo 3DS",
         "Wii",
@@ -67105,7 +67105,7 @@
         "Simulator",
         "Strategy"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PC (Microsoft Windows)",
@@ -67199,7 +67199,7 @@
         "Turn-based strategy (TBS)",
         "Tactical"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Nintendo 3DS",
         "Wii U",
@@ -67243,7 +67243,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Mac",
@@ -67338,7 +67338,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "SNES",
       "allPlatforms": [
         "Super Nintendo Entertainment System",
         "Wii",
@@ -67385,7 +67385,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox One",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox One"
@@ -67629,7 +67629,7 @@
         "Racing",
         "Simulator"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -67673,7 +67673,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii",
         "Super Famicom"
@@ -67764,7 +67764,7 @@
         "Simulator",
         "Adventure"
       ],
-      "platform": "Xbox",
+      "platform": "Multi-platform",
       "allPlatforms": [
         "Xbox",
         "PC (Microsoft Windows)"
@@ -67810,7 +67810,7 @@
         "Puzzle",
         "Arcade"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade"
       ],
@@ -67856,7 +67856,7 @@
         "Fighting",
         "Strategy"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -67897,7 +67897,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "PlayStation",
+      "platform": "PC",
       "allPlatforms": [
         "Linux",
         "PC (Microsoft Windows)",
@@ -67943,7 +67943,7 @@
       "genres": [
         "Platform"
       ],
-      "platform": "Nintendo",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Android",
         "Wii U",
@@ -67990,7 +67990,7 @@
         "Hack and slash/Beat 'em up",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "Genesis",
       "allPlatforms": [
         "PlayStation 3",
         "Linux",
@@ -68040,7 +68040,7 @@
       "genres": [
         "Fighting"
       ],
-      "platform": "Other",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade"
       ],
@@ -68175,7 +68175,7 @@
         "Platform",
         "Arcade"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Nintendo 3DS",
         "Wii",
@@ -68225,7 +68225,7 @@
         "Sport",
         "Arcade"
       ],
-      "platform": "PC",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "PC (Microsoft Windows)",
@@ -68270,7 +68270,7 @@
       "genres": [
         "Sport"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 64",
       "allPlatforms": [
         "Wii",
         "Nintendo 64",
@@ -68366,7 +68366,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -68520,7 +68520,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "Xbox Series X|S",
         "PlayStation 4",
@@ -68573,7 +68573,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Android",
@@ -68627,7 +68627,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Nintendo Switch 2",
@@ -68676,7 +68676,7 @@
         "Turn-based strategy (TBS)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)"
@@ -68817,7 +68817,7 @@
         "Fighting",
         "Arcade"
       ],
-      "platform": "Xbox",
+      "platform": "Arcade",
       "allPlatforms": [
         "Arcade",
         "Android",
@@ -68866,7 +68866,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "NES",
       "allPlatforms": [
         "Arcade",
         "Family Computer",
@@ -69056,7 +69056,7 @@
         "Indie",
         "Arcade"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -69302,7 +69302,7 @@
         "Puzzle",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PSP",
       "allPlatforms": [
         "PlayStation Portable",
         "PlayStation 2"
@@ -69366,7 +69366,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Activision",
-      "franchise": null,
+      "franchise": "Guitar Hero",
       "description": "Guitar Hero: World Tour is the fourth main game in the series and brings a major change to the concept. Following the release of Rock Band that built on the Guitar Hero concept but added additional instruments, World Tour introduces these as well to allow players to play together simultaneously as a real band. Next to the guitar that was the main peripheral for the previous titles, the bundled edition of the game adds a microphone for the vocal parts and drums for percussion. Just like the previous game, the guitar tracks are split up for the lead and bass. The lyrics and the vocal pitch is shown near the top of the screen, while the bottom part is split up for bass guitar, lead guitar and drums, each with a separate set of notes that need to be hit to correctly play the part.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wng.jpg",
       "protagonistGender": null,
@@ -69438,7 +69438,7 @@
         "Racing",
         "Simulator"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "Xbox 360",
         "Xbox One"
@@ -69621,7 +69621,7 @@
         "Role-playing (RPG)",
         "Turn-based strategy (TBS)"
       ],
-      "platform": "Other",
+      "platform": "Game Boy Advance",
       "allPlatforms": [
         "Game Boy Advance"
       ],
@@ -69637,7 +69637,7 @@
         "Multiplayer"
       ],
       "isMultiplayer": true,
-      "publisher": "Nintendo",
+      "publisher": "Square Enix",
       "franchise": "Kingdom Hearts",
       "description": "Kingdom Hearts: Chain of Memories is the second game in the Kingdom Hearts series. It is a direct sequel to Kingdom Hearts and exclusive to the Game Boy Advance. It was published by Square Enix and developed by Jupiter, and was released in 2004. Chronologically, it is the third game in the timeline after Kingdom Hearts Birth by Sleep and Kingdom Hearts, and takes place during Kingdom Hearts 358/2 Days.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2wrx.jpg",
@@ -69667,7 +69667,7 @@
         "Puzzle",
         "Strategy"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii U",
       "allPlatforms": [
         "Wii U"
       ],
@@ -69712,7 +69712,7 @@
         "Adventure",
         "Visual Novel"
       ],
-      "platform": "PlayStation",
+      "platform": "PSP",
       "allPlatforms": [
         "PlayStation Vita",
         "PlayStation Portable"
@@ -69808,7 +69808,7 @@
         "Shooter",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 3",
       "allPlatforms": [
         "PlayStation 3"
       ],
@@ -69952,7 +69952,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -70095,7 +70095,7 @@
         "Role-playing (RPG)",
         "Quiz/Trivia"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Nintendo DS"
       ],
@@ -70109,7 +70109,7 @@
         "Multiplayer"
       ],
       "isMultiplayer": true,
-      "publisher": "Disney Interactive Studios",
+      "publisher": "Square Enix",
       "franchise": "Kingdom Hearts",
       "description": "Kingdom Hearts 358/2 Days revolves around Roxas, the \"other\" hero from\nKingdom Hearts II. Players follow Roxas through his days among Organization XIII's ranks, unraveling the events that took place during the year that Sora was asleep, and ultimately revealing one of the Kingdom Hearts saga's most shocking secrets. Players and their friends will join Roxas, his friend Axel and the mysterious fourteenth member of Organization XIII on a journey across charming, vibrant worlds full of Square Enix's and Disney's beloved characters.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co31qj.jpg",
@@ -70139,7 +70139,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo DS",
       "allPlatforms": [
         "Wii U",
         "Nintendo DS"
@@ -70183,7 +70183,7 @@
         "Puzzle",
         "Card & Board Game"
       ],
-      "platform": "Nintendo",
+      "platform": "Wii",
       "allPlatforms": [
         "Wii"
       ],
@@ -70199,7 +70199,7 @@
       ],
       "isMultiplayer": true,
       "publisher": "Nintendo",
-      "franchise": "Mario Bros.",
+      "franchise": "Mario",
       "description": "Mario Party 8 is the eighth installment of the Mario Party series on a home console and the first Mario Party game for the Wii. Mario Party 8 is notable for its strong use of the Wii Remote and its motion control capabilities in minigames. Players are required to perform various gestures instead of traditional button/joystick controls. Common motions include pointing-and-shooting, shaking, waving, turning, and twisting the Wii Remote. Player-created Miis are featured in this game, wherein they often show up within crowds. Miis can appear in certain minigames and may also serve as the player's character in Extra Mode. By playing regular party games, minigames, and completing the Star Battle Arena mode, players will earn Carnival Cards, which may be spent to unlock figures and game features.",
       "cover_image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba2w.jpg",
       "protagonistGender": null,
@@ -70227,7 +70227,7 @@
         "Fighting",
         "Arcade"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox 360",
       "allPlatforms": [
         "Xbox 360"
       ],
@@ -70624,7 +70624,7 @@
         "Adventure",
         "Indie"
       ],
-      "platform": "Multi-platform",
+      "platform": "PC",
       "allPlatforms": [
         "PlayStation 4",
         "Linux",
@@ -70775,7 +70775,7 @@
         "Role-playing (RPG)",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 4",
       "allPlatforms": [
         "PlayStation 4",
         "PC (Microsoft Windows)"
@@ -70819,7 +70819,7 @@
       "genres": [
         "Shooter"
       ],
-      "platform": "Xbox",
+      "platform": "Xbox One",
       "allPlatforms": [
         "PC (Microsoft Windows)",
         "Xbox One"
@@ -70921,7 +70921,7 @@
         "Strategy",
         "Adventure"
       ],
-      "platform": "PlayStation",
+      "platform": "PlayStation 2",
       "allPlatforms": [
         "PlayStation 2"
       ],
@@ -71066,7 +71066,7 @@
         "Platform",
         "Adventure"
       ],
-      "platform": "Nintendo",
+      "platform": "Nintendo 3DS",
       "allPlatforms": [
         "Nintendo 3DS"
       ],

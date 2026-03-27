@@ -1,0 +1,35 @@
+# ========================
+# SECRETS — never commit
+# ========================
+.env
+
+# ========================
+# Node / Frontend
+# ========================
+node_modules/
+dist/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# ========================
+# macOS
+# ========================
+.DS_Store
+
+# ========================
+# Vercel
+# ========================
+.vercel
+
+# ========================
+# MetaGuess working files
+# (generated, not source of truth)
+# ========================
+new_games_to_classify.csv
+checkpoints/

@@ -4,8 +4,22 @@ import time
 import csv
 from collections import Counter
 
-IGDB_CLIENT_ID = 'uijc7itihbez5spq8wj3pvxnidsani'
-IGDB_ACCESS_TOKEN = 'lcnxsfe58yfx049xveirl7lj44fne7'
+def _load_env():
+    import os
+    from pathlib import Path
+    env_path = Path(__file__).parent / '.env'
+    if env_path.exists():
+        with open(env_path) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    key, _, val = line.partition('=')
+                    os.environ.setdefault(key.strip(), val.strip())
+_load_env()
+
+import os as _os
+IGDB_CLIENT_ID    = _os.environ.get('IGDB_CLIENT_ID', '')
+IGDB_ACCESS_TOKEN = _os.environ.get('IGDB_ACCESS_TOKEN', '')
 
 HEADERS = {
     'Client-ID': IGDB_CLIENT_ID,
