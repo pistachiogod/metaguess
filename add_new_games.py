@@ -20,9 +20,6 @@ Usage:
 Requirements:
     pip install requests
 
-IGDB credentials (already yours):
-    client_id: uijc7itihbez5spq8wj3pvxnidsani
-    token:      lcnxsfe58yfx049xveirl7lj44fne7
 """
 
 import argparse
