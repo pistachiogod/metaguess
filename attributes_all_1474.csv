@@ -1,0 +1,1427 @@
+index,name,year,protagonistGender,protagonistType,artStyle,setting
+0,Grand Theft Auto V,2013,Multiple,Human,Realistic,Modern
+1,The Witcher 3: Wild Hunt,2015,Male,Superhuman,Realistic,Fantasy
+2,Portal 2,2011,Female,Human,Stylized,Sci-Fi
+3,The Elder Scrolls V: Skyrim,2011,Multiple,Custom,Realistic,Fantasy
+4,Red Dead Redemption 2,2018,Male,Human,Realistic,Historical
+5,Portal,2007,Female,Human,Stylized,Sci-Fi
+6,God of War (2018),2018,Male,God/Abstract,Realistic,Mythological
+7,Grand Theft Auto: San Andreas,2004,Male,Human,Realistic,Modern
+8,Half-Life 2,2004,Male,Human,Realistic,Sci-Fi
+9,BioShock Infinite,2013,Male,Human,Stylized,Sci-Fi
+10,The Last of Us,2013,Male,Human,Realistic,Post-Apocalyptic
+11,BioShock,2007,Male,Human,Stylized,Sci-Fi
+12,Tomb Raider,2013,Female,Human,Realistic,Modern
+13,Uncharted 4: A Thief's End,2016,Male,Human,Realistic,Modern
+14,God of War (2005),2005,Male,Superhuman,Realistic,Mythological
+15,Horizon Zero Dawn,2017,Female,Human,Realistic,Post-Apocalyptic
+16,Grand Theft Auto: Vice City,2002,Male,Human,Realistic,Historical
+17,Assassin's Creed II,2009,Male,Human,Realistic,Historical
+18,The Legend of Zelda: Breath of the Wild,2017,Male,Superhuman,Cel-Shaded/Toon Style,Fantasy
+19,Mass Effect 2,2010,Multiple,Custom,Realistic,Sci-Fi
+20,Marvel's Spider-Man,2018,Male,Superhuman,Realistic,Modern
+21,Life is Strange,2015,Female,Human,Stylized,Modern
+22,The Legend of Zelda: Ocarina of Time,1998,Male,Superhuman,Stylized,Fantasy
+23,Half-Life,1998,Male,Human,Realistic,Sci-Fi
+24,Mass Effect,2007,Multiple,Custom,Realistic,Sci-Fi
+25,Borderlands 2,2012,Multiple,Human,Cel-Shaded/Toon Style,Sci-Fi
+26,Far Cry 3,2012,Male,Human,Realistic,Modern
+27,Fallout 4,2015,Multiple,Custom,Realistic,Post-Apocalyptic
+28,The Elder Scrolls V: Skyrim - Dragonborn,2012,Multiple,Custom,Realistic,Fantasy
+29,Limbo,2010,Male,Human,Stylized,Abstract
+30,Counter-Strike: Global Offensive,2012,Male,Human,Realistic,Modern
+31,Grand Theft Auto IV,2008,Male,Human,Realistic,Modern
+32,Fallout: New Vegas,2010,Multiple,Custom,Realistic,Post-Apocalyptic
+33,Batman: Arkham Asylum,2009,Male,Human,Realistic,Modern
+34,The Legend of Zelda: A Link to the Past,1991,Male,Superhuman,Pixel Art,Fantasy
+35,Batman: Arkham City,2011,Male,Human,Realistic,Modern
+36,Hollow Knight,2017,Unknown,Creature,Hand-Drawn,Fantasy
+37,Dark Souls III,2016,Multiple,Custom,Realistic,Fantasy
+38,Tomb Raider,1996,Female,Human,Stylized,Modern
+39,Dishonored,2012,Male,Superhuman,Stylized,Futuristic
+40,Left 4 Dead 2,2009,Multiple,Human,Realistic,Post-Apocalyptic
+41,Red Dead Redemption,2010,Male,Human,Realistic,Historical
+43,Detroit: Become Human,2018,Multiple,Robot,Realistic,Futuristic
+44,Cyberpunk 2077,2020,Multiple,Custom,Realistic,Futuristic
+45,Assassin's Creed IV Black Flag,2013,Male,Human,Realistic,Historical
+46,Grand Theft Auto: Chinatown Wars,2009,Male,Human,Stylized,Modern
+47,Bloodborne,2015,Multiple,Custom,Realistic,Fantasy
+48,The Legend of Zelda: The Wind Waker,2002,Male,Superhuman,Cel-Shaded/Toon Style,Fantasy
+49,Inside,2016,Male,Human,Stylized,Sci-Fi
+50,Batman: Arkham Knight,2015,Male,Human,Realistic,Modern
+51,Stardew Valley,2016,Multiple,Custom,Pixel Art,Modern
+52,Rise of the Tomb Raider,2015,Female,Human,Realistic,Modern
+53,Rocket League,2015,Unknown,Vehicle,Stylized,Futuristic
+54,Life is Strange: True Colors,2021,Female,Human,Stylized,Modern
+55,The Legend of Zelda: Tears of the Kingdom,2023,Male,Superhuman,Cel-Shaded/Toon Style,Fantasy
+57,Uncharted 2: Among Thieves,2009,Male,Human,Realistic,Modern
+58,Middle-earth: Shadow of Mordor,2014,Male,Superhuman,Realistic,Fantasy
+59,Hotline Miami,2012,Male,Human,Pixel Art,Modern
+60,Ultimate Spider-Man,2005,Male,Superhuman,Cel-Shaded/Toon Style,Modern
+61,Super Mario 64,1996,Male,Human,Stylized,Fantasy
+62,Super Mario World,1990,Male,Human,Pixel Art,Fantasy
+63,Team Fortress 2,2007,Male,Human,Stylized,Modern
+64,Wolfenstein: The New Order,2014,Male,Human,Realistic,Sci-Fi
+65,Assassin's Creed,2007,Male,Human,Realistic,Historical
+66,Max Payne,2001,Male,Human,Realistic,Modern
+67,The Legend of Zelda: Ocarina of Time 3D,2011,Male,Superhuman,Stylized,Fantasy
+68,Super Mario Odyssey,2017,Male,Human,Stylized,Fantasy
+69,Fallout 3,2008,Multiple,Custom,Realistic,Post-Apocalyptic
+70,Undertale,2015,Unknown,Human,Pixel Art,Fantasy
+71,Firewatch,2016,Male,Human,Stylized,Modern
+72,Metal Gear Solid V: The Phantom Pain,2015,Male,Human,Realistic,Historical
+73,Hades,2020,Male,God/Abstract,Hand-Drawn,Mythological
+74,Assassin's Creed III,2012,Male,Human,Realistic,Historical
+75,Call of Duty 4: Modern Warfare,2007,Male,Human,Realistic,Modern
+76,NieR: Automata,2017,Multiple,Robot,Realistic,Sci-Fi
+77,Mass Effect 3,2012,Multiple,Custom,Realistic,Sci-Fi
+78,Journey,2012,Unknown,Human,Stylized,Abstract
+79,Minecraft,2016,Multiple,Custom,Voxel,Fantasy
+80,Dota 2,2013,Multiple,Selectable,Stylized,Fantasy
+81,Call of Duty: Modern Warfare 2,2009,Male,Human,Realistic,Modern
+82,Grand Theft Auto,1997,Male,Human,Stylized,Modern
+83,Dragon Age: Origins,2009,Multiple,Custom,Realistic,Fantasy
+84,Resident Evil 2,2019,Multiple,Human,Realistic,Post-Apocalyptic
+85,The Last of Us Part II,2020,Female,Human,Realistic,Post-Apocalyptic
+86,Heavy Rain,2010,Multiple,Human,Realistic,Modern
+87,The Witcher 2: Assassins of Kings,2011,Male,Superhuman,Realistic,Fantasy
+88,Half-Life 2: Episode Two,2007,Male,Human,Realistic,Sci-Fi
+89,Terraria,2011,Multiple,Custom,Pixel Art,Fantasy
+90,Assassin's Creed Brotherhood,2010,Male,Human,Realistic,Historical
+91,Resident Evil 4,2005,Male,Human,Realistic,Post-Apocalyptic
+92,Mafia II,2010,Male,Human,Realistic,Historical
+93,Elden Ring,2022,Multiple,Custom,Realistic,Fantasy
+94,Dead Sci-Fi,2008,Male,Human,Realistic,Sci-Fi
+95,Sekiro: Shadows Die Twice,2019,Male,Superhuman,Realistic,Historical
+96,Uncharted 3: Drake's Deception,2011,Male,Human,Realistic,Modern
+97,Silent Hill 2,2001,Male,Human,Realistic,Modern
+98,The Legend of Zelda: Oracle of Ages,2001,Male,Superhuman,Pixel Art,Fantasy
+99,Hellblade: Senua's Sacrifice,2017,Female,Human,Realistic,Mythological
+101,The Wolf Among Us,2013,Male,Superhuman,Cel-Shaded/Toon Style,Fantasy
+102,Mirror's Edge,2008,Female,Human,Stylized,Futuristic
+103,Watch Dogs,2014,Male,Human,Realistic,Modern
+106,Destiny 2,2017,Multiple,Custom,Stylized,Sci-Fi
+107,Alan Wake,2010,Male,Human,Realistic,Modern
+108,Shovel Knight,2014,Male,Human,Pixel Art,Fantasy
+109,Star Wars Jedi: Fallen Order,2019,Male,Superhuman,Realistic,Sci-Fi
+110,Super Mario Bros.,1985,Male,Human,Pixel Art,Fantasy
+111,Grand Theft Auto III,2001,Male,Human,Realistic,Modern
+112,Call of Duty: Black Ops,2010,Male,Human,Realistic,Historical
+113,Assassin's Creed Origins,2017,Male,Human,Realistic,Historical
+114,Sid Meier's Civilization V,2010,Unknown,God/Abstract,Stylized,Historical
+115,Metro 2033,2010,Male,Human,Realistic,Post-Apocalyptic
+116,Super Mario Galaxy,2007,Male,Human,Stylized,Sci-Fi
+117,Borderlands,2009,Multiple,Human,Cel-Shaded/Toon Style,Sci-Fi
+118,L.A. Noire,2011,Male,Human,Realistic,Historical
+119,Hollow Knight: Silksong,2025,Female,Creature,Hand-Drawn,Fantasy
+120,Celeste,2018,Female,Human,Pixel Art,Modern
+121,Apex Legends,2019,Multiple,Human,Stylized,Sci-Fi
+122,Max Payne 3,2012,Male,Human,Realistic,Modern
+123,Far Cry 4,2014,Male,Human,Realistic,Modern
+124,BioShock 2,2010,Male,Superhuman,Stylized,Sci-Fi
+125,Assassin's Creed Odyssey,2018,Multiple,Human,Realistic,Historical
+126,The Stanley Parable,2013,Male,Human,Stylized,Abstract
+127,What Remains of Edith Finch,2017,Female,Human,Stylized,Modern
+128,Far Cry 5,2018,Multiple,Custom,Realistic,Modern
+129,Ori and the Blind Forest,2015,Unknown,Creature,Hand-Drawn,Fantasy
+130,Resident Evil 7: Biohazard,2017,Male,Human,Realistic,Post-Apocalyptic
+131,Half-Life 2: Episode One,2006,Male,Human,Realistic,Sci-Fi
+132,Death Stranding,2019,Male,Human,Realistic,Post-Apocalyptic
+133,Control,2019,Female,Superhuman,Realistic,Sci-Fi
+134,Prey,2017,Multiple,Human,Realistic,Sci-Fi
+135,Cuphead,2017,Male,Creature,Hand-Drawn,Fantasy
+136,South Park: The Stick of Truth,2014,Male,Human,Anime/Cartoon,Fantasy
+137,Titanfall 2,2016,Male,Human,Realistic,Sci-Fi
+138,Star Wars: Knights of the Old Republic,2003,Multiple,Custom,Stylized,Sci-Fi
+139,Spec Ops: The Line,2012,Male,Human,Realistic,Modern
+140,Resident Evil 2,1998,Multiple,Human,Stylized,Post-Apocalyptic
+141,Battlefield 1,2016,Male,Human,Realistic,Historical
+142,Super Metroid,1994,Female,Superhuman,Pixel Art,Sci-Fi
+143,Saints Row: The Third,2011,Multiple,Custom,Stylized,Modern
+144,Dishonored 2,2016,Multiple,Superhuman,Stylized,Futuristic
+145,Call of Duty: Modern Warfare 3,2011,Male,Human,Realistic,Modern
+146,Need for Speed: Most Wanted,2005,Unknown,Vehicle,Realistic,Modern
+147,Payday 2,2013,Male,Human,Realistic,Modern
+148,MiSide,2024,Male,Human,Anime/Cartoon,Sci-Fi
+149,It Takes Two,2021,Multiple,Human,Stylized,Fantasy
+150,Assassin's Creed Revelations,2011,Male,Human,Realistic,Historical
+151,Uncharted: Drake's Fortune,2007,Male,Human,Realistic,Modern
+152,Assassin's Creed Unity,2014,Male,Human,Realistic,Historical
+153,Max Payne 2: The Fall of Max Payne,2003,Multiple,Human,Realistic,Modern
+154,Dragon Age: Inquisition,2014,Multiple,Custom,Realistic,Fantasy
+155,BloodRayne,2002,Female,Superhuman,Realistic,Historical
+156,Super Meat Boy,2010,Male,Creature,Stylized,Abstract
+157,Warframe,2013,Multiple,Superhuman,Stylized,Sci-Fi
+158,Mortal Kombat X,2015,Multiple,Selectable,Realistic,Fantasy
+159,Hitman,2016,Male,Human,Realistic,Modern
+160,Deus Ex: Human Revolution,2011,Male,Superhuman,Realistic,Futuristic
+161,Deus Ex: Mankind Divided,2016,Male,Superhuman,Realistic,Futuristic
+162,Dark Souls,2011,Multiple,Custom,Realistic,Fantasy
+163,Outlast,2013,Male,Human,Realistic,Modern
+164,Beyond: Two Souls,2013,Female,Superhuman,Realistic,Modern
+165,Silent Hill 2,2024,Male,Human,Realistic,Modern
+166,The Elder Scrolls IV: Oblivion,2006,Multiple,Custom,Realistic,Fantasy
+167,Battlefield 4,2013,Male,Human,Realistic,Modern
+168,Watch Dogs 2,2016,Male,Human,Stylized,Modern
+169,Persona 5,2016,Male,Human,Anime/Cartoon,Modern
+170,"Papers, Please",2013,Male,Human,Pixel Art,Modern
+171,Prey,2006,Male,Human,Realistic,Sci-Fi
+172,Until Dawn,2015,Multiple,Human,Realistic,Modern
+173,Super Mario Sunshine,2002,Male,Human,Stylized,Fantasy
+174,Left 4 Dead,2008,Multiple,Human,Realistic,Post-Apocalyptic
+175,Dead Space 2,2011,Male,Human,Realistic,Sci-Fi
+176,Bastion,2011,Male,Human,Hand-Drawn,Fantasy
+177,Resident Evil 4,2023,Male,Human,Realistic,Post-Apocalyptic
+178,Battlefield 3,2011,Male,Human,Realistic,Modern
+179,Dead Space,2023,Male,Human,Realistic,Sci-Fi
+180,Final Fantasy VII,1997,Male,Human,Stylized,Sci-Fi
+181,Brothers: A Tale of Two Sons,2013,Male,Human,Stylized,Fantasy
+182,Resident Evil 5,2009,Multiple,Human,Realistic,Modern
+183,Dying Light,2015,Male,Human,Realistic,Post-Apocalyptic
+184,Counter-Strike,2000,Male,Human,Realistic,Modern
+185,Wolfenstein II: The New Colossus,2017,Male,Human,Realistic,Sci-Fi
+186,Batman: Arkham Origins,2013,Male,Superhuman,Realistic,Modern
+187,Disco Elysium,2019,Male,Human,Hand-Drawn,Modern
+188,Assassin's Creed III: Liberation,2012,Female,Human,Realistic,Historical
+189,Dead Cells,2018,Male,Creature,Pixel Art,Fantasy
+190,Metro Exodus,2019,Male,Human,Realistic,Post-Apocalyptic
+191,Little Nightmares,2017,Female,Human,Stylized,Fantasy
+192,Assassin's Creed Syndicate,2015,Multiple,Human,Realistic,Historical
+193,New Super Mario Bros.,2006,Male,Human,Stylized,Fantasy
+194,Call of Duty: Black Ops II,2012,Male,Human,Realistic,Futuristic
+195,Hitman: Absolution,2012,Male,Human,Realistic,Modern
+196,Contra,1987,Male,Human,Pixel Art,Sci-Fi
+197,Overwatch,2016,Multiple,Selectable,Stylized,Futuristic
+198,Mad Max,2015,Male,Human,Realistic,Post-Apocalyptic
+199,Baldur's Gate III,2023,Multiple,Custom,Realistic,Fantasy
+200,Shadow of the Colossus,2005,Male,Human,Stylized,Fantasy
+201,Shadow of the Tomb Raider,2018,Female,Human,Realistic,Modern
+202,A Plague Tale: Innocence,2019,Female,Human,Realistic,Historical
+204,A Way Out,2018,Multiple,Human,Realistic,Modern
+205,Super Smash Bros.,1999,Multiple,Selectable,Stylized,Fantasy
+206,Assassin's Creed Chronicles: China,2015,Female,Human,Stylized,Historical
+207,Super Mario Land,1989,Male,Human,Pixel Art,Fantasy
+208,Call of Duty: Modern Warfare II,2022,Male,Human,Realistic,Modern
+209,Rayman Legends,2013,Male,Creature,Hand-Drawn,Fantasy
+210,Cities: Skylines,2015,Unknown,God/Abstract,Realistic,Modern
+211,Need for Speed: Most Wanted,2012,Unknown,Vehicle,Realistic,Modern
+212,Metal Gear Solid V: Ground Zeroes,2014,Male,Human,Realistic,Historical
+213,Saints Row IV,2013,Multiple,Custom,Stylized,Sci-Fi
+214,Monster Hunter: World,2018,Multiple,Custom,Realistic,Fantasy
+215,Dragon Age: Origins - Awakening,2010,Multiple,Custom,Realistic,Fantasy
+216,No Man's Sky,2016,Unknown,Custom,Stylized,Sci-Fi
+217,Super Mario All-Stars,1993,Male,Human,Pixel Art,Fantasy
+218,Call of Duty: World at War,2008,Male,Human,Realistic,Historical
+219,Infamous: Second Son,2014,Male,Superhuman,Realistic,Modern
+220,Alien: Isolation,2014,Female,Human,Realistic,Sci-Fi
+221,XCOM: Enemy Unknown,2012,Multiple,Human,Stylized,Modern
+223,Super Mario 64 DS,2004,Male,Human,Stylized,Fantasy
+224,Super Mario Maker,2015,Male,Human,Stylized,Fantasy
+225,Super Mario Bros. Wonder,2023,Multiple,Human,Stylized,Fantasy
+226,Doom Eternal,2020,Male,Superhuman,Realistic,Sci-Fi
+227,Path of Exile,2013,Multiple,Human,Realistic,Fantasy
+228,The Outer Worlds,2019,Multiple,Custom,Stylized,Sci-Fi
+229,Ghost of Tsushima,2020,Male,Human,Realistic,Historical
+230,Divinity: Original Sin II,2017,Multiple,Custom,Stylized,Fantasy
+231,Soma,2015,Male,Human,Realistic,Sci-Fi
+232,Super Mario Party,2018,Multiple,Selectable,Stylized,Fantasy
+234,SuperHot,2016,Unknown,Human,Stylized,Abstract
+235,Metro Redux,2014,Male,Human,Realistic,Post-Apocalyptic
+236,Star Wars: Battlefront II,2005,Multiple,Human,Realistic,Sci-Fi
+237,Call of Duty: Black Ops III,2015,Multiple,Human,Realistic,Futuristic
+238,Forza Horizon 4,2018,Multiple,Vehicle,Realistic,Modern
+239,Devil May Cry 5,2019,Multiple,Superhuman,Realistic,Fantasy
+240,Counter-Strike: Source,2004,Male,Human,Realistic,Modern
+241,Garry's Mod,2004,Unknown,Custom,Realistic,Abstract
+242,DmC: Devil May Cry,2013,Male,Superhuman,Realistic,Fantasy
+243,Super Mario Run,2016,Male,Human,Stylized,Fantasy
+244,Subnautica,2018,Male,Human,Stylized,Sci-Fi
+245,Resident Evil 4,2011,Male,Human,Realistic,Post-Apocalyptic
+246,Sid Meier's Civilization VI,2016,Unknown,God/Abstract,Stylized,Historical
+247,Fallout 2,1998,Multiple,Custom,Stylized,Post-Apocalyptic
+248,Need for Speed: Porsche Unleashed,2000,Unknown,Vehicle,Realistic,Modern
+249,Final Fantasy XV,2016,Male,Human,Realistic,Fantasy
+250,Just Cause 3,2015,Male,Human,Realistic,Modern
+251,Call of Duty 2,2005,Male,Human,Realistic,Historical
+253,God of War II,2007,Male,Superhuman,Realistic,Mythological
+255,Sleeping Dogs,2012,Male,Human,Realistic,Modern
+256,Days Gone,2019,Male,Human,Realistic,Post-Apocalyptic
+259,Transistor,2014,Female,Human,Hand-Drawn,Sci-Fi
+260,For Honor,2017,Multiple,Human,Realistic,Historical
+261,Devil May Cry,2001,Male,Superhuman,Realistic,Fantasy
+262,Fallout Shelter,2015,Unknown,God/Abstract,Stylized,Post-Apocalyptic
+263,Ratchet & Clank (2016),2016,Male,Creature,Stylized,Sci-Fi
+264,Stray,2022,Male,Animal,Realistic,Futuristic
+265,Star Wars Battlefront II,2017,Multiple,Human,Realistic,Sci-Fi
+266,Crysis,2007,Male,Superhuman,Realistic,Sci-Fi
+267,Dead Island,2011,Multiple,Human,Realistic,Post-Apocalyptic
+268,Kingdom Come: Deliverance,2018,Male,Human,Realistic,Historical
+269,Among Us,2018,Unknown,Creature,Stylized,Sci-Fi
+270,The Elder Scrolls III: Morrowind,2002,Multiple,Custom,Realistic,Fantasy
+271,Ori and the Will of the Wisps,2020,Unknown,Creature,Hand-Drawn,Fantasy
+273,Just Cause 2,2010,Male,Human,Realistic,Modern
+274,God of War III,2010,Male,Superhuman,Realistic,Mythological
+275,Mafia III,2016,Male,Human,Realistic,Historical
+276,Middle-earth: Shadow of War,2017,Male,Superhuman,Realistic,Fantasy
+277,S.T.A.L.K.E.R.: Shadow of Chernobyl,2007,Male,Human,Realistic,Post-Apocalyptic
+278,Call of Duty: Modern Warfare III,2023,Male,Human,Realistic,Modern
+279,Resident Evil 6,2012,Multiple,Human,Realistic,Post-Apocalyptic
+280,Doki Doki Literature Club!,2017,Male,Human,Anime/Cartoon,Modern
+281,Valiant Hearts: The Great War,2014,Multiple,Human,Hand-Drawn,Historical
+282,Darkest Dungeon,2016,Multiple,Human,Hand-Drawn,Fantasy
+283,The Witness,2016,Unknown,Human,Stylized,Abstract
+284,Uncharted: The Lost Legacy,2017,Female,Human,Realistic,Modern
+285,Borderlands: The Pre-Sequel,2014,Multiple,Human,Cel-Shaded/Toon Style,Sci-Fi
+286,The Sims 4,2014,Multiple,Custom,Stylized,Modern
+288,Hotline Miami 2: Wrong Number,2015,Multiple,Human,Pixel Art,Modern
+289,Metro: Last Light,2013,Male,Human,Realistic,Post-Apocalyptic
+290,Injustice: Gods Among Us,2013,Multiple,Selectable,Realistic,Modern
+291,Call of Duty: WWII,2017,Male,Human,Realistic,Historical
+292,Amnesia: The Dark Descent,2010,Male,Human,Realistic,Historical
+293,Ratchet & Clank: Rift Apart,2021,Multiple,Creature,Stylized,Sci-Fi
+294,Ratchet & Clank,2002,Male,Creature,Stylized,Sci-Fi
+295,Call of Duty,2003,Male,Human,Realistic,Historical
+296,Monster Hunter Rise,2021,Multiple,Custom,Realistic,Fantasy
+297,Tom Clancy's The Division,2016,Multiple,Custom,Realistic,Modern
+298,Life is Strange: Before the Storm,2017,Female,Human,Stylized,Modern
+299,Star Wars: Knights of the Old Republic II - The Sith Lords,2004,Multiple,Custom,Stylized,Sci-Fi
+300,XCOM: Enemy Within,2013,Multiple,Human,Stylized,Modern
+301,XCOM 2,2016,Multiple,Human,Stylized,Sci-Fi
+302,Bayonetta,2009,Female,Superhuman,Stylized,Fantasy
+303,Quantum Break,2016,Male,Superhuman,Realistic,Sci-Fi
+304,Genshin Impact,2020,Multiple,Superhuman,Anime/Cartoon,Fantasy
+305,The Binding of Isaac: Rebirth,2014,Male,Human,Stylized,Abstract
+306,The Walking Dead,2012,Male,Human,Cel-Shaded/Toon Style,Post-Apocalyptic
+307,Overcooked!,2016,Multiple,Human,Stylized,Modern
+308,Paladins,2017,Multiple,Superhuman,Stylized,Fantasy
+310,Prince of Persia: The Sands of Time,2003,Male,Superhuman,Stylized,Historical
+311,Broforce,2015,Male,Human,Pixel Art,Modern
+312,Tom Clancy's Rainbow Six: Vegas,2006,Male,Human,Realistic,Modern
+314,Darksiders,2010,Male,Superhuman,Stylized,Fantasy
+315,Super Mario Bros. 3,1988,Male,Human,Pixel Art,Fantasy
+316,Don't Starve Together,2016,Multiple,Human,Hand-Drawn,Fantasy
+318,Metal Gear Solid,1998,Male,Human,Realistic,Modern
+319,Outer Wilds,2019,Unknown,Creature,Stylized,Sci-Fi
+320,This War of Mine,2014,Multiple,Human,Stylized,Modern
+321,Diablo III,2012,Multiple,Custom,Stylized,Fantasy
+322,Fez,2012,Male,Creature,Pixel Art,Abstract
+323,Yakuza 0,2015,Male,Human,Realistic,Historical
+325,Thief,2014,Male,Human,Realistic,Fantasy
+326,The Binding of Isaac,2011,Male,Human,Stylized,Abstract
+327,Gris,2018,Female,Human,Hand-Drawn,Abstract
+328,Black Mesa,2020,Male,Human,Realistic,Sci-Fi
+329,Braid,2008,Male,Human,Hand-Drawn,Fantasy
+330,Age of Empires II: The Age of Kings,1999,Unknown,God/Abstract,Stylized,Historical
+331,F.E.A.R.,2005,Male,Human,Realistic,Modern
+332,The Evil Within,2014,Male,Human,Realistic,Modern
+333,To the Moon,2011,Multiple,Human,Pixel Art,Sci-Fi
+334,Halo 3,2007,Male,Superhuman,Realistic,Sci-Fi
+335,Resident Evil 3,2020,Female,Human,Realistic,Post-Apocalyptic
+336,Hitman: Blood Money,2006,Male,Human,Realistic,Modern
+337,Far Cry 2,2008,Male,Human,Realistic,Modern
+338,Star Wars Battlefront,2015,Multiple,Human,Realistic,Sci-Fi
+339,Dead Rising,2006,Male,Human,Realistic,Modern
+340,Slay the Spire,2019,Multiple,Creature,Hand-Drawn,Fantasy
+341,Warcraft III: Reign of Chaos,2002,Multiple,Superhuman,Stylized,Fantasy
+342,Wolfenstein: The Old Blood,2015,Male,Human,Realistic,Historical
+343,Dark Souls II,2014,Multiple,Custom,Realistic,Fantasy
+344,Abzu,2016,Female,Human,Stylized,Fantasy
+345,Battlefield: Bad Company 2,2010,Male,Human,Realistic,Modern
+347,Overwatch,2023,Multiple,Selectable,Stylized,Futuristic
+348,Call of Duty: Ghosts,2013,Male,Human,Realistic,Futuristic
+349,Castle Crashers,2008,Male,Human,Hand-Drawn,Fantasy
+350,Destiny,2014,Multiple,Custom,Stylized,Sci-Fi
+351,Hitman 2,2018,Male,Human,Realistic,Modern
+352,Dragon Age II,2011,Multiple,Custom,Realistic,Fantasy
+353,Resident Evil Village,2021,Male,Human,Realistic,Post-Apocalyptic
+354,Far Cry 3: Blood Dragon,2013,Male,Superhuman,Stylized,Sci-Fi
+355,Borderlands 3,2019,Multiple,Human,Cel-Shaded/Toon Style,Sci-Fi
+356,Diablo II,2000,Multiple,Custom,Stylized,Fantasy
+357,Don't Starve,2013,Male,Human,Hand-Drawn,Fantasy
+358,Vampire: The Masquerade - Bloodlines,2004,Multiple,Superhuman,Realistic,Modern
+359,Resident Evil 3: Nemesis,1999,Female,Human,Stylized,Post-Apocalyptic
+360,Hogwarts Legacy,2023,Multiple,Custom,Realistic,Fantasy
+361,Star Wars: Battlefront,2004,Male,Human,Realistic,Sci-Fi
+362,Goat Simulator,2014,Unknown,Animal,Realistic,Modern
+364,Plants vs. Zombies,2009,Unknown,God/Abstract,Stylized,Modern
+365,Crash Bandicoot,1996,Male,Animal,Stylized,Sci-Fi
+366,Silent Hill 3,2003,Female,Human,Realistic,Modern
+367,Call of Duty: Advanced Warfare,2014,Male,Human,Realistic,Futuristic
+368,Marvel's Spider-Man: Miles Morales,2020,Male,Superhuman,Realistic,Modern
+369,Katana Zero,2019,Male,Superhuman,Pixel Art,Futuristic
+370,Prototype,2009,Male,Superhuman,Realistic,Modern
+371,Frostpunk,2018,Unknown,God/Abstract,Realistic,Post-Apocalyptic
+372,Mortal Kombat 11,2019,Multiple,Selectable,Realistic,Fantasy
+373,Halo: Reach,2010,Multiple,Superhuman,Realistic,Sci-Fi
+374,Gone Home,2013,Female,Human,Realistic,Modern
+375,Mafia,2002,Male,Human,Realistic,Historical
+376,FlatOut,2004,Unknown,Vehicle,Realistic,Modern
+377,The Sims 3,2009,Multiple,Custom,Stylized,Modern
+378,Far Cry,2004,Male,Human,Realistic,Modern
+379,EarthBound,1994,Male,Human,Pixel Art,Modern
+380,Battlefield V,2018,Male,Human,Realistic,Historical
+381,Enter the Gungeon,2016,Multiple,Human,Pixel Art,Fantasy
+382,Psychonauts,2005,Male,Superhuman,Stylized,Modern
+383,Halo: The Master Chief Collection,2014,Male,Superhuman,Realistic,Sci-Fi
+385,Torchlight II,2012,Multiple,Custom,Stylized,Fantasy
+386,Brawlhalla,2017,Multiple,Selectable,Stylized,Fantasy
+387,Shadow of the Colossus,2018,Male,Human,Realistic,Fantasy
+388,FTL: Faster Than Light,2012,Multiple,Human,Pixel Art,Sci-Fi
+389,Layers of Fear,2016,Male,Human,Realistic,Historical
+390,Dead by Daylight,2016,Multiple,Human,Realistic,Modern
+391,Prince of Persia: Warrior Within,2004,Male,Superhuman,Stylized,Historical
+392,Need for Speed: Underground,2003,Unknown,Vehicle,Realistic,Modern
+393,Gears of War,2006,Male,Human,Realistic,Sci-Fi
+394,Call of Duty: Warzone,2020,Multiple,Custom,Realistic,Modern
+395,Postal 2,2003,Male,Human,Stylized,Modern
+396,The Darkness II,2012,Male,Superhuman,Cel-Shaded/Toon Style,Modern
+397,Brütal Legend,2009,Male,Human,Stylized,Fantasy
+398,Oxenfree,2016,Female,Human,Stylized,Modern
+399,Assassin's Creed Rogue,2014,Male,Human,Realistic,Historical
+400,Machinarium,2009,Male,Robot,Hand-Drawn,Sci-Fi
+401,Call of Duty: Mobile,2019,Multiple,Custom,Realistic,Modern
+402,Game of Thrones: A Telltale Games Series,2014,Multiple,Human,Cel-Shaded/Toon Style,Fantasy
+403,Half-Life 2: Lost Coast,2005,Male,Human,Realistic,Sci-Fi
+404,Sea of Thieves,2018,Multiple,Custom,Stylized,Fantasy
+405,Child of Light,2014,Female,Superhuman,Hand-Drawn,Fantasy
+406,Far Cry: Primal,2016,Male,Human,Realistic,Historical
+407,Magicka,2011,Multiple,Human,Stylized,Fantasy
+408,Euro Truck Simulator 2,2012,Unknown,Vehicle,Realistic,Modern
+409,Wolfenstein: Youngblood,2019,Female,Human,Realistic,Sci-Fi
+410,Crash Bandicoot: Warped,1998,Multiple,Animal,Stylized,Sci-Fi
+411,Ryse: Son of Rome,2013,Male,Human,Realistic,Historical
+412,Final Fantasy VII Remake,2020,Male,Human,Realistic,Sci-Fi
+413,The Talos Principle,2014,Unknown,Robot,Realistic,Sci-Fi
+414,The Forest,2018,Male,Human,Realistic,Modern
+415,Unturned,2017,Multiple,Custom,Low-Poly,Post-Apocalyptic
+416,Chrono Trigger,1995,Male,Human,Pixel Art,Fantasy
+417,Darksiders II,2012,Male,Superhuman,Stylized,Fantasy
+418,Spore,2008,Unknown,Creature,Stylized,Sci-Fi
+419,Diablo III: Reaper of Souls,2014,Multiple,Custom,Stylized,Fantasy
+420,Human: Fall Flat,2016,Unknown,Human,Stylized,Abstract
+421,War Thunder,2013,Unknown,Vehicle,Realistic,Historical
+422,Murdered: Soul Suspect,2014,Male,Superhuman,Realistic,Modern
+423,Rogue Legacy,2013,Multiple,Human,Pixel Art,Fantasy
+424,Marvel's Guardians of the Galaxy,2021,Male,Human,Realistic,Sci-Fi
+425,Resident Evil,2014,Multiple,Human,Realistic,Post-Apocalyptic
+426,The Order: 1886,2015,Male,Superhuman,Realistic,Historical
+427,Bulletstorm,2011,Male,Human,Realistic,Sci-Fi
+428,Prince of Persia,2008,Male,Human,Stylized,Historical
+429,Resident Evil,1996,Multiple,Human,Stylized,Post-Apocalyptic
+430,Gwent: The Witcher Card Game,2018,Multiple,God/Abstract,Hand-Drawn,Fantasy
+431,Return of the Obra Dinn,2018,Male,Human,Stylized,Historical
+432,Remember Me,2013,Female,Human,Realistic,Futuristic
+433,Assassin's Creed Valhalla,2020,Multiple,Human,Realistic,Historical
+434,Metal Gear Solid 3: Snake Eater,2004,Male,Human,Realistic,Historical
+435,S.T.A.L.K.E.R.: Call of Pripyat,2009,Male,Human,Realistic,Post-Apocalyptic
+436,Saints Row 2,2008,Multiple,Custom,Realistic,Modern
+437,StarCraft,1998,Multiple,God/Abstract,Stylized,Sci-Fi
+438,Injustice 2,2017,Multiple,Selectable,Realistic,Modern
+439,Call of Juarez: Gunslinger,2013,Male,Human,Stylized,Historical
+440,Prince of Persia: The Two Thrones,2005,Male,Superhuman,Stylized,Historical
+441,Halo 3: ODST,2009,Male,Human,Realistic,Sci-Fi
+442,Dead Space 3,2013,Male,Human,Realistic,Sci-Fi
+443,Sonic Mania,2017,Male,Animal,Pixel Art,Fantasy
+444,World of Goo,2008,Unknown,Creature,Hand-Drawn,Abstract
+445,Persona 5 Royal,2019,Male,Human,Anime/Cartoon,Modern
+446,Prince of Persia,1989,Male,Human,Pixel Art,Historical
+448,Gothic,2001,Male,Human,Realistic,Fantasy
+449,Need for Speed: Hot Pursuit,2010,Unknown,Vehicle,Realistic,Modern
+450,Vampyr,2018,Male,Superhuman,Realistic,Historical
+451,Rayman Origins,2011,Male,Creature,Hand-Drawn,Fantasy
+452,Gears of War 2,2008,Male,Human,Realistic,Sci-Fi
+453,South Park: The Fractured But Whole,2017,Male,Human,Anime/Cartoon,Modern
+454,Mirror's Edge Catalyst,2016,Female,Human,Stylized,Futuristic
+455,Call of Duty: Modern Warfare,2019,Male,Human,Realistic,Modern
+456,Persona 4 Golden,2012,Male,Human,Anime/Cartoon,Modern
+457,Rage,2011,Male,Human,Realistic,Post-Apocalyptic
+458,Half-Life: Blue Shift,2001,Male,Human,Realistic,Sci-Fi
+459,Half-Life: Opposing Force,1999,Male,Human,Realistic,Sci-Fi
+460,The Awesome Adventures of Captain Spirit,2018,Male,Human,Stylized,Modern
+461,Burnout Paradise,2008,Unknown,Vehicle,Realistic,Modern
+463,Vampire Survivors,2022,Multiple,Human,Pixel Art,Fantasy
+464,Mount & Blade: Warband,2010,Multiple,Custom,Realistic,Historical
+465,S.T.A.L.K.E.R.: Clear Sky,2008,Male,Human,Realistic,Post-Apocalyptic
+466,Gears 5,2019,Female,Human,Realistic,Sci-Fi
+467,Syberia,2002,Female,Human,Stylized,Modern
+468,Rust,2018,Multiple,Custom,Realistic,Post-Apocalyptic
+469,BattleBlock Theater,2013,Multiple,Human,Hand-Drawn,Abstract
+470,Insurgency,2014,Male,Human,Realistic,Modern
+471,Final Fantasy XIII,2009,Female,Human,Realistic,Sci-Fi
+472,Need for Speed: Carbon,2006,Unknown,Vehicle,Realistic,Modern
+473,Overcooked! 2,2018,Multiple,Human,Stylized,Modern
+474,Factorio,2020,Male,Human,Stylized,Sci-Fi
+475,Sniper Elite V2,2012,Male,Human,Realistic,Historical
+476,Game Dev Tycoon,2012,Unknown,Human,Stylized,Modern
+477,Everlasting Summer,2014,Male,Human,Anime/Cartoon,Modern
+478,The Evil Within 2,2017,Male,Human,Realistic,Modern
+479,Alan Wake's American Nightmare,2012,Male,Human,Realistic,Modern
+480,Starbound,2016,Multiple,Custom,Pixel Art,Sci-Fi
+481,Hitman 2: Silent Assassin,2002,Male,Human,Realistic,Modern
+482,Mark of the Ninja,2012,Male,Human,Hand-Drawn,Modern
+483,Forza Horizon 5,2021,Multiple,Vehicle,Realistic,Modern
+484,Crysis 3,2013,Male,Superhuman,Realistic,Sci-Fi
+485,Mortal Kombat: Armageddon,2006,Multiple,Selectable,Realistic,Fantasy
+486,Counter-Strike: Condition Zero,2004,Male,Human,Realistic,Modern
+487,StarCraft II: Wings of Liberty,2010,Male,Human,Stylized,Sci-Fi
+488,The Vanishing of Ethan Carter,2014,Male,Human,Realistic,Modern
+489,Life is Strange 2,2018,Male,Human,Stylized,Modern
+490,Into the Breach,2018,Multiple,Robot,Pixel Art,Sci-Fi
+491,Star Wars: Jedi Knight - Jedi Academy,2003,Multiple,Custom,Stylized,Sci-Fi
+492,Tom Clancy's The Division 2,2019,Multiple,Custom,Realistic,Modern
+493,Super Smash Bros. Melee,2001,Multiple,Selectable,Stylized,Fantasy
+494,The Last Guardian,2016,Male,Human,Stylized,Fantasy
+495,Need for Speed,2015,Unknown,Vehicle,Realistic,Modern
+496,Lords of the Fallen,2014,Male,Human,Realistic,Fantasy
+497,Unravel,2016,Unknown,Creature,Stylized,Modern
+498,The Long Dark,2017,Multiple,Human,Stylized,Modern
+499,Resident Evil,2002,Multiple,Human,Realistic,Post-Apocalyptic
+500,Doom 3,2004,Male,Human,Realistic,Sci-Fi
+501,Tekken 7,2015,Multiple,Selectable,Realistic,Modern
+502,Divinity: Original Sin,2014,Multiple,Custom,Stylized,Fantasy
+503,Yakuza Kiwami,2016,Male,Human,Realistic,Modern
+504,Call of Juarez: Bound In Blood,2009,Multiple,Human,Realistic,Historical
+505,Pillars of Eternity,2015,Multiple,Custom,Stylized,Fantasy
+506,Fable: The Lost Chapters,2005,Male,Human,Stylized,Fantasy
+507,Tom Clancy's Splinter Cell: Chaos Theory,2005,Male,Human,Realistic,Modern
+508,LEGO Star Wars: The Complete Saga,2007,Multiple,Human,Stylized,Sci-Fi
+509,Need for Speed: ProStreet,2007,Unknown,Vehicle,Realistic,Modern
+510,Call of Duty: Infinite Warfare,2016,Male,Human,Realistic,Sci-Fi
+511,Final Fantasy X,2001,Male,Human,Stylized,Fantasy
+512,Homefront,2011,Male,Human,Realistic,Futuristic
+513,Killing Floor,2009,Multiple,Human,Realistic,Modern
+514,The Dark Pictures Anthology: Man of Medan,2019,Multiple,Human,Realistic,Modern
+515,Tom Clancy's Splinter Cell: Conviction,2010,Male,Human,Realistic,Modern
+516,Halo Infinite,2021,Male,Superhuman,Realistic,Sci-Fi
+517,Call of Juarez,2006,Multiple,Human,Realistic,Historical
+518,Assassin's Creed: Freedom Cry,2013,Male,Human,Realistic,Historical
+519,Steep,2016,Multiple,Custom,Realistic,Modern
+520,RiME,2017,Male,Human,Stylized,Fantasy
+521,The Banner Saga,2014,Multiple,Human,Hand-Drawn,Fantasy
+522,Crusader Kings II,2012,Multiple,God/Abstract,Stylized,Historical
+523,Smite,2014,Multiple,God/Abstract,Stylized,Mythological
+524,Company of Heroes 2,2013,Unknown,God/Abstract,Realistic,Historical
+525,Crash Bandicoot N. Sane Trilogy,2017,Male,Animal,Stylized,Sci-Fi
+526,Resident Evil: Revelations 2,2015,Multiple,Human,Realistic,Post-Apocalyptic
+527,Grid 2,2013,Unknown,Vehicle,Realistic,Modern
+528,Duke Nukem 3D,1996,Male,Human,Pixel Art,Sci-Fi
+529,Medal of Honor,2010,Male,Human,Realistic,Modern
+530,Battlefield Hardline,2015,Male,Human,Realistic,Modern
+531,Crisis Core: Final Fantasy VII,2007,Male,Human,Stylized,Sci-Fi
+532,Chivalry: Medieval Warfare,2012,Male,Human,Realistic,Historical
+533,Need for Speed: Undercover,2008,Unknown,Vehicle,Realistic,Modern
+534,Tom Clancy's Splinter Cell,2002,Male,Human,Realistic,Modern
+535,Metal Gear Solid 2: Sons of Liberty,2001,Multiple,Human,Realistic,Modern
+536,Tom Clancy's Ghost Recon: Wildlands,2017,Multiple,Custom,Realistic,Modern
+537,Killing Floor 2,2016,Multiple,Human,Realistic,Modern
+538,F.E.A.R. 2: Project Origin,2009,Male,Human,Realistic,Modern
+539,Doom,1993,Male,Human,Pixel Art,Sci-Fi
+540,Fable III,2010,Multiple,Human,Stylized,Fantasy
+542,World of Tanks,2011,Unknown,Vehicle,Realistic,Historical
+543,Gears of War: Judgment,2013,Male,Human,Realistic,Sci-Fi
+544,Night in the Woods,2017,Female,Animal,Stylized,Modern
+545,FIFA 18,2017,Male,Human,Realistic,Modern
+546,Untitled Goose Game,2019,Unknown,Animal,Stylized,Modern
+547,Prince of Persia: The Forgotten Sands,2010,Male,Superhuman,Stylized,Historical
+548,Outlast II,2017,Male,Human,Realistic,Modern
+549,Need for Speed: Payback,2017,Multiple,Human,Realistic,Modern
+550,Grim Fandango,1998,Male,Creature,Stylized,Fantasy
+551,League of Legends,2009,Multiple,Selectable,Stylized,Fantasy
+552,Stellaris,2016,Unknown,God/Abstract,Stylized,Sci-Fi
+553,Inscryption,2021,Male,Human,Stylized,Abstract
+554,Fortnite,2020,Multiple,Custom,Stylized,Modern
+555,Serious Sam 3: BFE,2011,Male,Human,Realistic,Sci-Fi
+556,Assassin's Creed Mirage,2023,Male,Human,Realistic,Historical
+557,Final Fantasy VII Rebirth,2024,Male,Human,Realistic,Sci-Fi
+558,Guacamelee! Super Turbo Championship Edition,2014,Male,Human,Stylized,Mythological
+559,Tetris,1989,Unknown,God/Abstract,Pixel Art,Abstract
+560,The Dark Pictures Anthology: Little Hope,2020,Multiple,Human,Realistic,Modern
+561,Kingdom Hearts,2002,Male,Human,Anime/Cartoon,Fantasy
+562,FlatOut 2,2006,Unknown,Vehicle,Realistic,Modern
+563,God of War Ragnarök,2022,Male,God/Abstract,Realistic,Mythological
+564,Gears of War 3,2011,Male,God/Abstract,Realistic,Sci-Fi
+565,Risk of Rain 2,2020,Multiple,Creature,Stylized,Sci-Fi
+566,Fallout 76,2018,Multiple,Custom,Realistic,Post-Apocalyptic
+567,My Friend Pedro,2019,Male,Human,Stylized,Modern
+568,Remnant: From the Ashes,2019,Multiple,Custom,Realistic,Post-Apocalyptic
+569,Need for Speed: Rivals,2013,Unknown,Vehicle,Realistic,Modern
+570,Payday: The Heist,2011,Male,Human,Realistic,Modern
+571,"Warhammer 40,000: Space Marine",2011,Male,Superhuman,Realistic,Sci-Fi
+572,Resident Evil Zero,2002,Multiple,Human,Realistic,Post-Apocalyptic
+573,Amnesia: A Machine for Pigs,2013,Male,Human,Realistic,Historical
+574,Sniper Elite 4,2017,Male,Human,Realistic,Historical
+575,Demon's Souls,2009,Multiple,Custom,Realistic,Fantasy
+576,Deep Rock Galactic,2020,Multiple,Creature,Stylized,Sci-Fi
+577,Torchlight,2009,Multiple,Custom,Stylized,Fantasy
+578,Warhammer: Vermintide 2,2018,Multiple,Human,Realistic,Fantasy
+579,Gears of War 4,2016,Male,Human,Realistic,Sci-Fi
+580,Worms Armageddon,1999,Unknown,Creature,Stylized,Modern
+581,Deponia,2012,Male,Human,Hand-Drawn,Sci-Fi
+582,Dark Messiah of Might and Magic,2006,Male,Human,Realistic,Fantasy
+583,Rage 2,2019,Multiple,Human,Stylized,Post-Apocalyptic
+584,Metroid Fusion,2002,Female,Superhuman,Pixel Art,Sci-Fi
+585,Shadowrun Returns,2013,Multiple,Custom,Stylized,Futuristic
+586,Super Smash Bros. Ultimate,2018,Multiple,Selectable,Stylized,Fantasy
+587,Tom Clancy's Splinter Cell: Blacklist,2013,Male,Human,Realistic,Modern
+588,Infamous: First Light,2014,Female,Superhuman,Realistic,Modern
+589,The Dark Pictures Anthology: House of Ashes,2021,Multiple,Human,Realistic,Modern
+590,Unreal,1998,Male,Human,Realistic,Sci-Fi
+591,Ark: Survival Evolved,2017,Multiple,Custom,Realistic,Fantasy
+592,RimWorld,2018,Unknown,God/Abstract,Stylized,Sci-Fi
+593,LEGO Marvel Super Heroes,2013,Multiple,Superhuman,Stylized,Modern
+594,Medal of Honor: Airborne,2007,Male,Human,Realistic,Historical
+595,Her Story,2015,Female,Human,Realistic,Modern
+596,Valheim,2021,Multiple,Custom,Low-Poly,Mythological
+597,Furi,2016,Male,Superhuman,Stylized,Sci-Fi
+598,Hitman: Codename 47,2000,Male,Human,Realistic,Modern
+599,Trine,2009,Multiple,Human,Stylized,Fantasy
+600,Super Mario Galaxy 2,2010,Male,Human,Stylized,Sci-Fi
+601,Halo: Combat Evolved,2001,Male,Superhuman,Realistic,Sci-Fi
+602,Age of Empires III,2005,Unknown,God/Abstract,Realistic,Historical
+603,"Warhammer 40,000: Space Marine II",2024,Male,Superhuman,Realistic,Sci-Fi
+604,Final Fantasy IX,2000,Male,Human,Stylized,Fantasy
+605,Sunset Overdrive,2014,Multiple,Custom,Stylized,Post-Apocalyptic
+606,Alice: Madness Returns,2011,Female,Human,Stylized,Fantasy
+607,LEGO Star Wars: The Video Game,2005,Multiple,Human,Stylized,Sci-Fi
+608,F.E.A.R. 3,2011,Male,Superhuman,Realistic,Modern
+609,Blasphemous,2019,Male,Superhuman,Pixel Art,Fantasy
+610,Quake,1996,Male,Human,Pixel Art,Sci-Fi
+611,Medal of Honor,1999,Male,Human,Realistic,Historical
+612,Persona 4,2008,Male,Human,Anime/Cartoon,Modern
+613,Nioh,2017,Male,Human,Realistic,Historical
+614,Neverwinter Nights,2002,Multiple,Custom,Stylized,Fantasy
+615,Broken Age,2014,Multiple,Human,Hand-Drawn,Fantasy
+616,Far Cry New Dawn,2019,Multiple,Custom,Realistic,Post-Apocalyptic
+617,Medal of Honor: Warfighter,2012,Male,Human,Realistic,Modern
+618,Final Fantasy XIII-2,2011,Multiple,Human,Realistic,Sci-Fi
+619,Serious Sam: The First Encounter,2001,Male,Human,Realistic,Sci-Fi
+621,World of Warcraft,2004,Multiple,Custom,Stylized,Fantasy
+622,Little Nightmares II,2021,Male,Human,Stylized,Fantasy
+623,Star Wars: The Force Unleashed II,2010,Male,Superhuman,Realistic,Sci-Fi
+624,Ghostrunner,2020,Male,Robot,Realistic,Futuristic
+625,Metroid Prime,2002,Female,Superhuman,Realistic,Sci-Fi
+626,Saints Row: Gat Out of Hell,2015,Multiple,Superhuman,Stylized,Fantasy
+627,Prototype 2,2012,Male,Superhuman,Realistic,Modern
+628,SteamWorld Dig,2013,Male,Robot,Stylized,Sci-Fi
+629,The Legend of Zelda: Majora's Mask,2000,Male,Superhuman,Stylized,Fantasy
+630,Dragon's Dogma: Dark Arisen,2013,Multiple,Custom,Realistic,Fantasy
+631,FIFA 17,2016,Male,Human,Realistic,Modern
+632,Hyper Light Drifter,2016,Male,Human,Pixel Art,Sci-Fi
+633,Dishonored: Death of the Outsider,2017,Female,Superhuman,Stylized,Futuristic
+634,LittleBigPlanet 3,2014,Multiple,Creature,Stylized,Fantasy
+635,Black Desert,2014,Multiple,Custom,Realistic,Fantasy
+636,Resident Evil: Revelations,2012,Multiple,Human,Realistic,Post-Apocalyptic
+637,Need for Speed: Underground 2,2004,Unknown,Vehicle,Realistic,Modern
+638,This Is the Police,2016,Male,Human,Stylized,Modern
+639,Day of the Tentacle,1993,Multiple,Human,Hand-Drawn,Sci-Fi
+640,Total War: Shogun 2,2011,Unknown,God/Abstract,Realistic,Historical
+641,Medal of Honor: Frontline,2002,Male,Human,Realistic,Historical
+642,Spelunky,2012,Multiple,Human,Pixel Art,Fantasy
+643,Tomb Raider: Legend,2006,Female,Human,Realistic,Modern
+644,Star Wars: The Force Unleashed,2008,Male,Superhuman,Realistic,Sci-Fi
+645,The Walking Dead: Season Two,2013,Female,Human,Cel-Shaded/Toon Style,Post-Apocalyptic
+646,Deus Ex,2000,Male,Superhuman,Realistic,Futuristic
+647,The Secret of Monkey Island,1990,Male,Human,Pixel Art,Historical
+648,Plague Inc: Evolved,2015,Unknown,God/Abstract,Stylized,Modern
+649,LEGO The Lord of the Rings,2012,Multiple,Human,Stylized,Fantasy
+650,Oddworld: Abe's Oddysee,1997,Male,Creature,Stylized,Sci-Fi
+651,Tom Clancy's Splinter Cell: Pandora Tomorrow,2004,Male,Human,Realistic,Modern
+652,Dirt Rally,2015,Unknown,Vehicle,Realistic,Modern
+653,Horizon Forbidden West,2022,Female,Human,Realistic,Post-Apocalyptic
+654,Unravel Two,2018,Unknown,Creature,Stylized,Modern
+655,The Witcher,2007,Male,Superhuman,Realistic,Fantasy
+656,Kingdom Hearts II,2005,Male,Human,Anime/Cartoon,Fantasy
+657,Company of Heroes,2006,Unknown,God/Abstract,Realistic,Historical
+658,Need for Speed: The Run,2011,Male,Human,Realistic,Modern
+660,Beat Saber,2018,Unknown,Human,Stylized,Abstract
+661,Slime Rancher,2017,Female,Human,Stylized,Sci-Fi
+663,Castlevania: Symphony of the Night,1997,Male,Superhuman,Pixel Art,Fantasy
+664,A Story About My Uncle,2014,Male,Human,Stylized,Fantasy
+665,Flower,2009,Unknown,God/Abstract,Stylized,Abstract
+666,Vanquish,2010,Male,Superhuman,Realistic,Sci-Fi
+667,Dust: An Elysian Tail,2012,Male,Animal,Hand-Drawn,Fantasy
+668,Hitman: Contracts,2004,Male,Human,Realistic,Modern
+669,Overlord,2007,Male,Superhuman,Stylized,Fantasy
+670,System Shock 2,1999,Multiple,Human,Realistic,Sci-Fi
+671,Sonic Generations,2011,Male,Animal,Stylized,Fantasy
+672,Need for Speed: Heat,2019,Multiple,Vehicle,Realistic,Modern
+673,Red Faction: Guerrilla,2009,Male,Human,Realistic,Sci-Fi
+674,Star Wars: Republic Commando,2005,Male,Human,Realistic,Sci-Fi
+675,Deathloop,2021,Male,Superhuman,Stylized,Sci-Fi
+676,Duke Nukem Forever,2011,Male,Human,Realistic,Sci-Fi
+677,Dead Rising 2,2010,Male,Human,Realistic,Modern
+678,Need for Speed: Shift,2009,Unknown,Vehicle,Realistic,Modern
+679,Grim Dawn,2016,Multiple,Custom,Realistic,Fantasy
+680,Tomb Raider: Underworld,2008,Female,Human,Realistic,Modern
+681,Prison Architect,2015,Unknown,God/Abstract,Stylized,Modern
+682,Syberia II,2004,Female,Human,Stylized,Modern
+683,Kingdom Hearts III,2019,Male,Human,Anime/Cartoon,Fantasy
+684,Lara Croft and the Temple of Osiris,2014,Female,Human,Stylized,Historical
+685,Star Wars: Jedi Knight II - Jedi Outcast,2002,Male,Superhuman,Realistic,Sci-Fi
+686,Tom Clancy's Splinter Cell: Double Agent,2006,Male,Human,Realistic,Modern
+687,Superliminal,2019,Unknown,Human,Stylized,Abstract
+688,Spyro Reignited Trilogy,2018,Male,Animal,Stylized,Fantasy
+689,Titan Quest,2006,Multiple,Custom,Realistic,Mythological
+690,Crypt of the NecroDancer,2015,Female,Human,Pixel Art,Fantasy
+691,LEGO Star Wars: The Skywalker Saga,2022,Multiple,Human,Stylized,Sci-Fi
+692,Call of Duty: Black Ops 4,2018,Multiple,Human,Realistic,Modern
+695,Demon's Souls,2020,Multiple,Custom,Realistic,Fantasy
+696,Carmageddon,1997,Male,Human,Stylized,Futuristic
+697,Gothic 3,2006,Male,Human,Realistic,Fantasy
+699,A Hat in Time,2017,Female,Human,Stylized,Fantasy
+700,Final Fantasy III,1994,Male,Human,Pixel Art,Fantasy
+701,A Plague Tale: Requiem,2022,Female,Human,Realistic,Historical
+702,Quake II,1997,Male,Human,Realistic,Sci-Fi
+703,Shadow Warrior 2,2016,Male,Human,Realistic,Sci-Fi
+704,Trials Fusion,2014,Unknown,Vehicle,Realistic,Futuristic
+705,Helltaker,2020,Male,Human,Stylized,Fantasy
+706,Thomas Was Alone,2012,Multiple,God/Abstract,Stylized,Abstract
+707,Half-Life: Alyx,2020,Female,Human,Realistic,Sci-Fi
+708,Ruiner,2017,Male,Human,Stylized,Futuristic
+709,Far Cry 6,2021,Multiple,Human,Realistic,Modern
+710,The Legend of Zelda,1986,Male,Superhuman,Pixel Art,Fantasy
+711,The Swapper,2013,Female,Human,Stylized,Sci-Fi
+712,Risen,2009,Male,Human,Realistic,Fantasy
+713,Sniper Elite III,2014,Male,Human,Realistic,Historical
+714,Metal Gear Solid 4: Guns of the Patriots,2008,Male,Human,Realistic,Modern
+715,Hearthstone,2014,Multiple,God/Abstract,Stylized,Fantasy
+716,Dead Island 2,2023,Multiple,Human,Realistic,Post-Apocalyptic
+717,Serious Sam: The Second Encounter,2002,Male,Human,Realistic,Sci-Fi
+718,Killzone: Shadow Fall,2013,Male,Human,Realistic,Sci-Fi
+719,Darksiders III,2018,Female,Superhuman,Stylized,Fantasy
+720,Orwell: Keeping an Eye on You,2016,Unknown,God/Abstract,Stylized,Futuristic
+721,7 Days to Die,2024,Multiple,Custom,Realistic,Post-Apocalyptic
+722,VVVVVV,2010,Male,Human,Pixel Art,Sci-Fi
+723,Super Mario World 2: Yoshi's Island,1995,Male,Animal,Hand-Drawn,Fantasy
+724,The Legend of Zelda: A Link Between Worlds,2013,Male,Superhuman,Stylized,Fantasy
+725,Audiosurf,2008,Unknown,Vehicle,Stylized,Abstract
+726,Tomb Raider: Anniversary,2007,Female,Human,Realistic,Modern
+727,Naruto Shippuden: Ultimate Ninja Storm 4,2016,Male,Superhuman,Anime/Cartoon,Fantasy
+728,Catherine,2011,Male,Human,Anime/Cartoon,Modern
+729,The Legend of Zelda: Twilight Princess,2006,Male,Superhuman,Stylized,Fantasy
+730,Streets of Rage 4,2020,Multiple,Human,Hand-Drawn,Modern
+731,Heroes of Might and Magic III: The Restoration of Erathia,1999,Unknown,God/Abstract,Stylized,Fantasy
+732,Sid Meier's Civilization IV,2005,Unknown,God/Abstract,Stylized,Historical
+733,Street Fighter V,2016,Multiple,Selectable,Stylized,Modern
+734,Deadlight,2012,Male,Human,Stylized,Post-Apocalyptic
+735,Crazy Taxi,1999,Multiple,Human,Stylized,Modern
+736,Age of Empires,1997,Unknown,God/Abstract,Stylized,Historical
+737,Crysis Warhead,2008,Male,Superhuman,Realistic,Sci-Fi
+738,Mario Kart 8,2014,Multiple,Selectable,Stylized,Fantasy
+739,Serious Sam II,2005,Male,Human,Stylized,Sci-Fi
+740,Kingdoms of Amalur: Reckoning,2012,Multiple,Custom,Stylized,Fantasy
+741,Halo 2,2004,Male,Superhuman,Realistic,Sci-Fi
+742,Just Cause 4,2018,Male,Human,Realistic,Modern
+743,Dragon Ball FighterZ,2018,Multiple,Selectable,Anime/Cartoon,Sci-Fi
+744,Bloodstained: Ritual of the Night,2019,Female,Superhuman,Stylized,Historical
+745,The Lord of the Rings: The Return of the King,2003,Multiple,Human,Realistic,Fantasy
+746,Elite: Dangerous,2014,Multiple,Custom,Realistic,Sci-Fi
+747,Tropico 5,2014,Multiple,God/Abstract,Stylized,Historical
+748,LEGO Harry Potter: Years 1-4,2010,Male,Superhuman,Stylized,Fantasy
+749,Risk of Rain,2013,Multiple,Creature,Pixel Art,Sci-Fi
+750,Project Zomboid,2013,Multiple,Custom,Stylized,Post-Apocalyptic
+751,Clair Obscur: Expedition 33,2025,Multiple,Human,Realistic,Fantasy
+752,DayZ,2018,Multiple,Custom,Realistic,Post-Apocalyptic
+753,Crusader Kings III,2020,Multiple,God/Abstract,Stylized,Historical
+754,Kane & Lynch 2: Dog Days,2010,Multiple,Human,Realistic,Modern
+755,Shadow Tactics: Blades of the Shogun,2016,Multiple,Human,Stylized,Historical
+756,State of Decay 2,2018,Multiple,Custom,Realistic,Post-Apocalyptic
+757,Phasmophobia,2020,Multiple,Custom,Realistic,Modern
+758,Sid Meier's Civilization III,2001,Unknown,God/Abstract,Stylized,Historical
+759,Tropico 4,2011,Multiple,God/Abstract,Stylized,Modern
+760,Europa Universalis IV,2013,Unknown,God/Abstract,Stylized,Historical
+761,Moonlighter,2018,Male,Human,Pixel Art,Fantasy
+762,Dying Light 2: Stay Human,2022,Male,Human,Realistic,Post-Apocalyptic
+763,Fallout: A Post Nuclear Role Playing Game,1997,Multiple,Custom,Stylized,Post-Apocalyptic
+764,Antichamber,2013,Unknown,Human,Stylized,Abstract
+765,The Crew,2014,Male,Human,Realistic,Modern
+766,Jak II,2003,Male,Superhuman,Stylized,Sci-Fi
+767,Observer,2017,Male,Superhuman,Realistic,Futuristic
+768,Dead Island: Riptide,2013,Multiple,Human,Realistic,Post-Apocalyptic
+769,Tomb Raider II,1997,Female,Human,Stylized,Modern
+770,Crysis 2,2011,Male,Superhuman,Realistic,Sci-Fi
+771,Just Cause,2006,Male,Human,Realistic,Modern
+772,Loop Hero,2021,Male,Human,Pixel Art,Fantasy
+773,SteamWorld Dig 2,2017,Female,Robot,Stylized,Sci-Fi
+774,We Were Here,2017,Unknown,Human,Realistic,Fantasy
+775,Dirt 3,2011,Unknown,Vehicle,Realistic,Modern
+776,Pyre,2017,Multiple,Creature,Hand-Drawn,Fantasy
+777,Kane & Lynch: Dead Men,2007,Multiple,Human,Realistic,Modern
+778,Full Throttle,1995,Male,Human,Hand-Drawn,Futuristic
+779,Sonic the Hedgehog,1991,Male,Animal,Pixel Art,Fantasy
+780,Pokemon Emerald Version,2004,Multiple,Human,Pixel Art,Fantasy
+781,Alpha Protocol,2010,Male,Human,Realistic,Modern
+782,Condemned: Criminal Origins,2005,Male,Human,Realistic,Modern
+784,Kerbal Space Program,2015,Unknown,Creature,Stylized,Sci-Fi
+785,Sonic the Hedgehog 2,1992,Male,Animal,Pixel Art,Fantasy
+786,"Warhammer 40,000: Dawn of War",2004,Multiple,God/Abstract,Realistic,Sci-Fi
+787,Marvel's Avengers,2020,Multiple,Superhuman,Realistic,Modern
+788,The Callisto Protocol,2022,Male,Human,Realistic,Sci-Fi
+789,Aliens vs. Predator,2010,Male,Creature,Realistic,Sci-Fi
+790,Teenage Mutant Ninja Turtles: Shredder's Revenge,2022,Multiple,Creature,Pixel Art,Modern
+791,Raft,2022,Multiple,Custom,Stylized,Modern
+792,Mario Kart 64,1996,Multiple,Selectable,Stylized,Fantasy
+793,Shadow Warrior,2013,Male,Human,Realistic,Fantasy
+794,Mini Metro,2015,Unknown,God/Abstract,Stylized,Modern
+795,Donkey Kong Country,1994,Male,Animal,Pixel Art,Fantasy
+796,LEGO The Hobbit,2014,Multiple,Human,Stylized,Fantasy
+797,Emily is Away,2015,Male,Human,Stylized,Modern
+798,PUBG: Battlegrounds,2017,Multiple,Custom,Realistic,Modern
+799,Pokemon Red Version,1996,Male,Human,Pixel Art,Fantasy
+800,GreedFall,2019,Multiple,Custom,Realistic,Fantasy
+801,Psychonauts 2,2021,Male,Superhuman,Stylized,Modern
+802,Tyranny,2016,Multiple,Custom,Stylized,Fantasy
+803,Monkey Island 2: LeChuck's Revenge,1991,Male,Human,Pixel Art,Historical
+804,Super Hexagon,2012,Unknown,God/Abstract,Stylized,Abstract
+805,Diablo,1996,Multiple,Custom,Stylized,Fantasy
+806,Enslaved: Odyssey to the West,2010,Male,Human,Stylized,Post-Apocalyptic
+807,Downwell,2015,Male,Human,Pixel Art,Abstract
+808,Super Smash Bros. Brawl,2008,Multiple,Selectable,Stylized,Fantasy
+809,Mario Kart Wii,2008,Multiple,Selectable,Stylized,Fantasy
+810,Tunic,2022,Unknown,Animal,Stylized,Fantasy
+811,Warcraft III: The Frozen Throne,2003,Multiple,Superhuman,Stylized,Fantasy
+812,Hearts of Iron IV,2016,Unknown,God/Abstract,Stylized,Historical
+813,Call of Duty: Black Ops Cold War,2020,Multiple,Human,Realistic,Historical
+814,Yakuza Kiwami 2,2017,Male,Human,Realistic,Modern
+815,Ni no Kuni II: Revenant Kingdom,2018,Male,Human,Anime/Cartoon,Fantasy
+816,Metal Slug 3,2000,Multiple,Human,Pixel Art,Modern
+817,Tales from the Borderlands,2014,Multiple,Human,Cel-Shaded/Toon Style,Sci-Fi
+818,Silent Hill,1999,Male,Human,Realistic,Modern
+819,Scribblenauts Unlimited,2012,Male,Human,Hand-Drawn,Fantasy
+820,Watch Dogs: Legion,2020,Multiple,Human,Realistic,Futuristic
+821,Tekken 3,1997,Multiple,Selectable,Realistic,Modern
+822,Code Vein,2019,Multiple,Custom,Anime/Cartoon,Post-Apocalyptic
+823,Dear Esther,2012,Male,Human,Realistic,Modern
+824,Sonic Adventure 2,2001,Multiple,Animal,Stylized,Modern
+825,Sonic & All-Stars Racing Transformed,2012,Multiple,Selectable,Stylized,Fantasy
+826,Valkyria Chronicles,2008,Male,Human,Anime/Cartoon,Historical
+827,Super Mario Bros. 2,1988,Multiple,Human,Pixel Art,Fantasy
+828,The Lord of the Rings: War in the North,2011,Multiple,Human,Realistic,Fantasy
+829,Gang Beasts,2017,Unknown,Creature,Stylized,Modern
+830,Two Point Hospital,2018,Unknown,God/Abstract,Stylized,Modern
+831,Medieval II: Total War,2006,Unknown,God/Abstract,Realistic,Historical
+832,Pokemon FireRed Version,2004,Multiple,Human,Pixel Art,Fantasy
+833,Little Inferno,2012,Unknown,Human,Stylized,Abstract
+834,Fall Guys,2020,Unknown,Creature,Stylized,Abstract
+835,Children of Morta,2019,Multiple,Human,Pixel Art,Fantasy
+836,Grand Theft Auto 2,1999,Male,Human,Stylized,Futuristic
+837,Satisfactory,2024,Multiple,Human,Stylized,Sci-Fi
+838,Yakuza: Like a Dragon,2020,Male,Human,Realistic,Modern
+839,Halo 4,2012,Male,Superhuman,Realistic,Sci-Fi
+840,Arma 3,2013,Male,Human,Realistic,Modern
+841,Paper Mario: The Thousand-Year Door,2004,Male,Human,Stylized,Fantasy
+842,Tom Clancy's Rainbow Six Siege X,2015,Multiple,Human,Realistic,Modern
+843,Baldur's Gate II: Shadows of Amn,2000,Multiple,Custom,Stylized,Fantasy
+844,"Warhammer 40,000: Dawn of War II",2009,Male,Superhuman,Realistic,Sci-Fi
+845,The Sims 2,2004,Multiple,Custom,Stylized,Modern
+846,Pokemon Yellow Version: Special Pikachu Edition,1998,Male,Human,Pixel Art,Fantasy
+847,Doom II: Hell on Earth,1994,Male,Human,Pixel Art,Sci-Fi
+848,The Lord of the Rings Online,2007,Multiple,Custom,Stylized,Fantasy
+849,Spiritfarer,2020,Female,Human,Hand-Drawn,Fantasy
+850,Final Fantasy VIII,1999,Male,Human,Stylized,Sci-Fi
+851,Call of Cthulhu,2018,Male,Human,Realistic,Historical
+852,The Sims,2000,Multiple,Custom,Stylized,Modern
+853,Star Wars: The Old Republic,2011,Multiple,Custom,Stylized,Sci-Fi
+854,Wreckfest,2018,Unknown,Vehicle,Realistic,Modern
+856,Oxygen Not Included,2019,Multiple,Creature,Stylized,Sci-Fi
+857,LEGO Batman 2: DC Super Heroes,2012,Male,Superhuman,Stylized,Modern
+861,Crash Bandicoot 2: Cortex Strikes Back,1997,Male,Animal,Stylized,Sci-Fi
+862,Mount & Blade,2008,Multiple,Custom,Realistic,Historical
+863,Pokemon Blue Version,1996,Male,Human,Pixel Art,Fantasy
+864,Animal Crossing: New Horizons,2020,Multiple,Custom,Stylized,Modern
+865,Valorant,2020,Multiple,Selectable,Stylized,Futuristic
+866,Pokemon Go,2016,Multiple,Custom,Stylized,Modern
+867,Donkey Kong Country 2: Diddy's Kong Quest,1995,Multiple,Animal,Pixel Art,Fantasy
+868,Tales of Berseria,2016,Female,Superhuman,Anime/Cartoon,Fantasy
+869,Command & Conquer: Red Alert 3,2008,Unknown,God/Abstract,Stylized,Sci-Fi
+870,Age of Mythology,2002,Unknown,God/Abstract,Stylized,Mythological
+871,Dungeon Keeper,1997,Unknown,God/Abstract,Stylized,Fantasy
+872,The Elder Scrolls Online,2014,Multiple,Custom,Realistic,Fantasy
+873,Return to Castle Wolfenstein,2001,Male,Human,Realistic,Historical
+874,No More Heroes,2007,Male,Human,Cel-Shaded/Toon Style,Modern
+875,Cave Story,2004,Male,Robot,Pixel Art,Sci-Fi
+876,Back 4 Blood,2021,Multiple,Human,Realistic,Post-Apocalyptic
+877,Super Mario Kart,1992,Multiple,Selectable,Pixel Art,Fantasy
+878,Devil May Cry 4,2008,Multiple,Superhuman,Realistic,Fantasy
+879,Space Invaders,1978,Unknown,Vehicle,Pixel Art,Sci-Fi
+880,Crash Team Racing,1999,Multiple,Animal,Stylized,Sci-Fi
+881,Dungeon Keeper 2,1999,Unknown,God/Abstract,Stylized,Fantasy
+882,Mortal Kombat,2011,Multiple,Selectable,Realistic,Fantasy
+883,Tell Me Why,2020,Multiple,Human,Stylized,Modern
+884,Gothic II,2002,Male,Human,Realistic,Fantasy
+885,Super Mario 3D World,2013,Multiple,Human,Stylized,Fantasy
+886,Tacoma,2017,Female,Human,Stylized,Sci-Fi
+887,Wii Sports,2006,Multiple,Custom,Stylized,Modern
+888,The Legend of Zelda: The Minish Cap,2004,Male,Superhuman,Pixel Art,Fantasy
+889,Command & Conquer: Red Alert 2,2000,Unknown,God/Abstract,Stylized,Sci-Fi
+890,Pokemon Crystal Version,2000,Multiple,Human,Pixel Art,Fantasy
+891,Star Wars: Dark Forces,1995,Male,Human,Pixel Art,Sci-Fi
+892,Pokemon Platinum Version,2008,Multiple,Human,Pixel Art,Fantasy
+893,Indiana Jones and the Fate of Atlantis,1992,Male,Human,Pixel Art,Historical
+894,Planet Coaster,2016,Unknown,God/Abstract,Stylized,Modern
+895,Tony Hawk's Pro Skater 2,2000,Multiple,Human,Realistic,Modern
+896,Quake III Arena,1999,Multiple,Human,Realistic,Sci-Fi
+897,X-COM: UFO Defense,1994,Unknown,God/Abstract,Pixel Art,Modern
+898,GoldenEye 007,1997,Male,Human,Realistic,Modern
+899,Planescape: Torment,1999,Male,Superhuman,Stylized,Fantasy
+900,Star Wars: Squadrons,2020,Multiple,Custom,Realistic,Sci-Fi
+901,Pokemon Silver Version,1999,Male,Human,Pixel Art,Fantasy
+902,Mario Kart DS,2005,Multiple,Selectable,Stylized,Fantasy
+903,Star Wars: Rogue Squadron,1998,Male,Human,Realistic,Sci-Fi
+904,Indigo Prophecy,2005,Multiple,Human,Realistic,Modern
+905,The Legend of Zelda: Skyward Sword,2011,Male,Superhuman,Stylized,Fantasy
+906,The Legend of Zelda: The Wind Waker HD,2013,Male,Superhuman,Cel-Shaded/Toon Style,Fantasy
+907,Pokemon Gold Version,1999,Male,Human,Pixel Art,Fantasy
+908,Beyond Good & Evil,2003,Female,Human,Stylized,Sci-Fi
+909,Pokemon SoulSilver Version,2009,Multiple,Human,Pixel Art,Fantasy
+910,Mega Man 2,1989,Male,Robot,Pixel Art,Sci-Fi
+911,Super Mario 3D Land,2011,Male,Human,Stylized,Fantasy
+912,Warcraft II: Tides of Darkness,1995,Unknown,God/Abstract,Pixel Art,Fantasy
+913,Mario Kart: Double Dash!!,2003,Multiple,Selectable,Stylized,Fantasy
+914,Roblox,2006,Multiple,Custom,Low-Poly,Abstract
+915,Street Fighter II,1991,Multiple,Selectable,Pixel Art,Modern
+916,Batman: The Telltale Series,2016,Male,Superhuman,Cel-Shaded/Toon Style,Modern
+917,Guitar Hero III: Legends of Rock,2007,Unknown,Human,Stylized,Modern
+918,Devil May Cry 3: Dante's Awakening,2005,Male,Superhuman,Realistic,Fantasy
+919,Command & Conquer: Red Alert,1996,Unknown,God/Abstract,Stylized,Sci-Fi
+920,Diablo II: Lord of Destruction,2001,Multiple,Custom,Stylized,Fantasy
+921,Pokemon Black Version,2010,Multiple,Human,Pixel Art,Fantasy
+922,Banjo-Kazooie,1998,Male,Animal,Stylized,Fantasy
+923,Spyro the Dragon,1998,Male,Animal,Stylized,Fantasy
+924,Infamous,2009,Male,Superhuman,Realistic,Modern
+925,Battlefield 2,2005,Male,Human,Realistic,Modern
+926,Pokemon Ruby Version,2002,Multiple,Human,Pixel Art,Fantasy
+928,Diablo IV,2023,Multiple,Custom,Realistic,Fantasy
+929,Danganronpa: Trigger Happy Havoc,2010,Male,Human,Anime/Cartoon,Modern
+930,Pokemon HeartGold Version,2009,Multiple,Human,Pixel Art,Fantasy
+931,Baldur's Gate,1998,Multiple,Custom,Stylized,Fantasy
+932,Bully,2006,Male,Human,Stylized,Modern
+934,Castlevania,1986,Male,Human,Pixel Art,Fantasy
+935,Medal of Honor: Allied Assault,2002,Male,Human,Realistic,Historical
+936,Command & Conquer,1995,Unknown,God/Abstract,Stylized,Sci-Fi
+937,New Super Mario Bros. Wii,2009,Male,Human,Stylized,Fantasy
+938,Thief II: The Metal Age,2000,Male,Human,Realistic,Fantasy
+939,Super Smash Bros. for Wii U,2014,Multiple,Selectable,Stylized,Fantasy
+940,Pokemon Diamond Version,2006,Multiple,Human,Pixel Art,Fantasy
+941,Starfield,2023,Multiple,Custom,Realistic,Sci-Fi
+942,The Walking Dead: A New Frontier,2016,Male,Human,Cel-Shaded/Toon Style,Post-Apocalyptic
+943,Fable,2004,Male,Human,Stylized,Fantasy
+944,Mortal Kombat II,1993,Multiple,Selectable,Pixel Art,Fantasy
+946,The Curse of Monkey Island,1997,Male,Human,Hand-Drawn,Historical
+947,Pokemon Y,2013,Multiple,Human,Stylized,Fantasy
+948,Jak and Daxter: The Precursor Legacy,2001,Male,Human,Stylized,Sci-Fi
+949,Final Fantasy XII,2006,Male,Human,Stylized,Fantasy
+950,Balatro,2024,Unknown,God/Abstract,Stylized,Abstract
+951,Call of Duty 3,2006,Male,Human,Realistic,Historical
+952,Guild Wars 2,2012,Multiple,Custom,Stylized,Fantasy
+953,Rome: Total War,2004,Unknown,God/Abstract,Realistic,Historical
+954,Marvel Rivals,2024,Multiple,Superhuman,Stylized,Modern
+955,Fire Emblem: Three Houses,2019,Multiple,Human,Anime/Cartoon,Fantasy
+956,Wolfenstein 3D,1992,Male,Human,Pixel Art,Historical
+957,Counter-Strike 2,2023,Male,Human,Realistic,Modern
+958,Phoenix Wright: Ace Attorney,2005,Male,Human,Anime/Cartoon,Modern
+959,God of War: Chains of Olympus,2008,Male,Superhuman,Realistic,Mythological
+960,The Simpsons: Hit & Run,2003,Multiple,Human,Anime/Cartoon,Modern
+961,Heroes of the Storm,2015,Multiple,Superhuman,Stylized,Fantasy
+962,Pokemon X,2013,Multiple,Human,Stylized,Fantasy
+963,Pokemon Sapphire Version,2002,Multiple,Human,Pixel Art,Fantasy
+964,Pokemon Sword,2019,Multiple,Human,Stylized,Fantasy
+965,Astro's Playroom,2020,Male,Robot,Stylized,Sci-Fi
+966,Marvel's Spider-Man 2,2023,Multiple,Superhuman,Realistic,Modern
+967,Lies of P,2023,Male,Robot,Realistic,Historical
+968,Mega Man X,1993,Male,Robot,Pixel Art,Sci-Fi
+969,Zelda II: The Adventure of Link,1987,Male,Superhuman,Pixel Art,Fantasy
+970,Mortal Kombat,1992,Multiple,Selectable,Pixel Art,Fantasy
+971,Spider-Man,2000,Male,Superhuman,Stylized,Modern
+972,The Legend of Zelda: Link's Awakening,2019,Male,Superhuman,Stylized,Fantasy
+973,StarCraft II: Heart of the Swarm,2013,Female,Superhuman,Stylized,Sci-Fi
+974,A Short Hike,2019,Female,Animal,Pixel Art,Modern
+975,Steins;Gate,2009,Male,Human,Anime/Cartoon,Sci-Fi
+976,Ico,2001,Male,Human,Stylized,Fantasy
+977,Harry Potter and the Chamber of Secrets,2002,Male,Superhuman,Stylized,Fantasy
+978,Mega Man,1987,Male,Robot,Pixel Art,Sci-Fi
+979,Gran Turismo,1997,Unknown,Vehicle,Realistic,Modern
+980,World of Warcraft: Wrath of the Lich King,2008,Multiple,Custom,Stylized,Fantasy
+981,Pokemon Stadium,1999,Unknown,Creature,Stylized,Fantasy
+982,Escape from Tarkov,2025,Male,Human,Realistic,Modern
+983,Sonic the Hedgehog 3,1994,Multiple,Animal,Pixel Art,Fantasy
+984,Metroid: Zero Mission,2004,Female,Superhuman,Pixel Art,Sci-Fi
+985,Harry Potter and the Sorcerer's Stone,2001,Male,Superhuman,Stylized,Fantasy
+986,Helldivers 2,2024,Multiple,Custom,Realistic,Sci-Fi
+987,Trine 2,2011,Multiple,Human,Stylized,Fantasy
+988,Metal Slug,1996,Multiple,Human,Pixel Art,Modern
+989,Infamous 2,2011,Male,Superhuman,Realistic,Modern
+990,Tony Hawk's Pro Skater 3,2001,Multiple,Human,Realistic,Modern
+991,Unreal Tournament,1999,Multiple,Human,Realistic,Sci-Fi
+992,The Legend of Zelda: Phantom Hourglass,2007,Male,Superhuman,Cel-Shaded/Toon Style,Fantasy
+993,Silent Hill 4: The Room,2004,Male,Human,Realistic,Modern
+994,Alan Wake II,2023,Multiple,Human,Realistic,Modern
+995,World of Warcraft: The Burning Crusade,2007,Multiple,Custom,Stylized,Fantasy
+996,S.T.A.L.K.E.R. G.A.M.M.A.,2018,Male,Human,Realistic,Post-Apocalyptic
+997,StarCraft: Brood War,1998,Multiple,God/Abstract,Stylized,Sci-Fi
+998,Pokemon White Version,2010,Multiple,Human,Pixel Art,Fantasy
+999,Need for Speed: Hot Pursuit 2,2002,Unknown,Vehicle,Realistic,Modern
+1000,Pokemon LeafGreen Version,2004,Multiple,Human,Pixel Art,Fantasy
+1001,Mario Kart 7,2011,Multiple,Selectable,Stylized,Fantasy
+1002,Fable II,2008,Multiple,Human,Stylized,Fantasy
+1003,Tekken 5,2004,Multiple,Selectable,Realistic,Modern
+1004,Battlefield 1942,2002,Male,Human,Realistic,Historical
+1005,LittleBigPlanet,2008,Male,Creature,Stylized,Fantasy
+1008,Star Fox 64,1997,Male,Animal,Stylized,Sci-Fi
+1009,The Finals,2023,Multiple,Custom,Realistic,Modern
+1010,Dragon Ball Z: Budokai Tenkaichi 3,2007,Multiple,Selectable,Anime/Cartoon,Sci-Fi
+1011,Fire Emblem Awakening,2012,Multiple,Human,Anime/Cartoon,Fantasy
+1012,Need for Speed III: Hot Pursuit,1998,Unknown,Vehicle,Realistic,Modern
+1013,FIFA 15,2014,Male,Human,Realistic,Modern
+1014,The Walking Dead: 400 Days,2013,Multiple,Human,Cel-Shaded/Toon Style,Post-Apocalyptic
+1015,Pac-Man,1980,Male,Creature,Pixel Art,Abstract
+1016,Star Wars Jedi: Survivor,2023,Male,Superhuman,Realistic,Sci-Fi
+1017,Wolfenstein,2009,Male,Human,Realistic,Historical
+1018,Singularity,2010,Male,Human,Realistic,Sci-Fi
+1019,Paper Mario,2000,Male,Human,Stylized,Fantasy
+1020,FIFA 14,2013,Male,Human,Realistic,Modern
+1021,Spider-Man 2,2004,Male,Superhuman,Stylized,Modern
+1022,LEGO Batman: The Videogame,2008,Male,Superhuman,Stylized,Modern
+1023,Luigi's Mansion,2001,Male,Human,Stylized,Fantasy
+1024,Animal Crossing: New Leaf,2012,Multiple,Custom,Stylized,Modern
+1025,Final Fantasy,1987,Multiple,Custom,Pixel Art,Fantasy
+1026,The Walking Dead: The Final Season,2018,Female,Human,Cel-Shaded/Toon Style,Post-Apocalyptic
+1027,God of War: Ghost of Sparta,2010,Male,Superhuman,Realistic,Mythological
+1028,Halo 5: Guardians,2015,Male,Superhuman,Realistic,Sci-Fi
+1029,Danganronpa 2: Goodbye Despair,2012,Male,Human,Anime/Cartoon,Modern
+1030,Ōkami,2006,Female,God/Abstract,Hand-Drawn,Mythological
+1031,Heroes of Might and Magic V,2006,Unknown,God/Abstract,Stylized,Fantasy
+1032,Sid Meier's Civilization,1991,Unknown,God/Abstract,Pixel Art,Historical
+1033,God of War: Ascension,2013,Male,Superhuman,Realistic,Mythological
+1034,Pokemon Moon,2016,Multiple,Human,Stylized,Fantasy
+1035,The Lord of the Rings: The Battle for Middle-earth II,2006,Unknown,God/Abstract,Realistic,Fantasy
+1036,The Beginner's Guide,2015,Male,Human,Stylized,Abstract
+1037,Titanfall,2014,Multiple,Human,Realistic,Sci-Fi
+1038,Command & Conquer: Generals,2003,Unknown,God/Abstract,Realistic,Modern
+1039,Pokemon Snap,1999,Male,Human,Stylized,Fantasy
+1040,Wuthering Waves,2024,Multiple,Superhuman,Anime/Cartoon,Sci-Fi
+1041,Donkey Kong Country 3: Dixie Kong's Double Trouble!,1996,Multiple,Animal,Pixel Art,Fantasy
+1042,Palworld,2024,Multiple,Custom,Stylized,Fantasy
+1043,The Lord of the Rings: The Battle for Middle-earth,2004,Unknown,God/Abstract,Realistic,Fantasy
+1044,Tony Hawk's Pro Skater,1999,Multiple,Human,Realistic,Modern
+1045,Pokemon Sun,2016,Multiple,Human,Stylized,Fantasy
+1046,The Lion King,1994,Male,Animal,Pixel Art,Modern
+1047,Metroid,1987,Female,Superhuman,Pixel Art,Sci-Fi
+1048,Pokemon Omega Ruby,2014,Multiple,Human,Stylized,Fantasy
+1049,Bayonetta 2,2014,Female,Superhuman,Stylized,Fantasy
+1050,Angry Birds,2009,Male,Animal,Stylized,Modern
+1051,Castlevania: Lords of Shadow,2010,Male,Human,Realistic,Fantasy
+1052,Duck Hunt,1984,Male,Human,Pixel Art,Modern
+1053,Manhunt,2003,Male,Human,Realistic,Modern
+1054,The Legend of Zelda: Link's Awakening,1993,Male,Superhuman,Pixel Art,Fantasy
+1055,Final Fantasy XIV Online,2013,Multiple,Custom,Stylized,Fantasy
+1056,Super Mario RPG: Legend of the Seven Stars,1996,Male,Human,Stylized,Fantasy
+1057,Castlevania: Aria of Sorrow,2003,Male,Superhuman,Pixel Art,Fantasy
+1058,Geometry Dash,2013,Unknown,God/Abstract,Stylized,Abstract
+1059,Unpacking,2021,Female,Human,Pixel Art,Modern
+1060,The Room,2012,Unknown,Human,Realistic,Modern
+1061,Halo: Combat Evolved Anniversary,2011,Male,Superhuman,Realistic,Sci-Fi
+1063,Quake 4,2005,Male,Human,Realistic,Sci-Fi
+1064,Devil May Cry 2,2003,Multiple,Superhuman,Realistic,Fantasy
+1065,Mortal Kombat 3,1995,Multiple,Selectable,Pixel Art,Fantasy
+1066,Sonic Heroes,2003,Multiple,Animal,Stylized,Fantasy
+1067,Driver,1999,Male,Human,Realistic,Modern
+1068,LEGO Indiana Jones: The Original Adventures,2008,Male,Human,Stylized,Historical
+1069,Pokemon Shield,2019,Multiple,Human,Stylized,Fantasy
+1070,FIFA 16,2015,Male,Human,Realistic,Modern
+1071,ARC Raiders,2025,Multiple,Human,Realistic,Sci-Fi
+1072,Theme Hospital,1997,Unknown,God/Abstract,Stylized,Modern
+1073,Pokemon Pearl Version,2006,Multiple,Human,Pixel Art,Fantasy
+1074,Twelve Minutes,2021,Male,Human,Stylized,Modern
+1075,Dante's Inferno,2010,Male,Superhuman,Realistic,Mythological
+1076,Burnout 3: Takedown,2004,Unknown,Vehicle,Realistic,Modern
+1077,Golden Axe,1989,Multiple,Human,Pixel Art,Fantasy
+1078,RollerCoaster Tycoon,1999,Unknown,God/Abstract,Stylized,Modern
+1079,Pokemon Alpha Sapphire,2014,Multiple,Human,Stylized,Fantasy
+1080,Commandos: Behind Enemy Lines,1998,Male,Human,Stylized,Historical
+1081,Cyberpunk 2077: Phantom Liberty,2023,Multiple,Custom,Realistic,Futuristic
+1082,Earthworm Jim,1994,Male,Animal,Hand-Drawn,Sci-Fi
+1083,SimCity 4,2003,Unknown,God/Abstract,Stylized,Modern
+1084,FIFA 19,2018,Male,Human,Realistic,Modern
+1085,Monument Valley,2014,Female,Human,Stylized,Abstract
+1086,Spyro 2: Ripto's Rage!,1999,Male,Animal,Stylized,Fantasy
+1087,FIFA Soccer 13,2012,Male,Human,Realistic,Modern
+1088,Cult of the Lamb,2022,Unknown,Animal,Hand-Drawn,Fantasy
+1089,Rayman,1995,Male,Creature,Hand-Drawn,Fantasy
+1090,Osu!,2007,Unknown,God/Abstract,Anime/Cartoon,Abstract
+1091,Spyro: Year of the Dragon,2000,Male,Animal,Stylized,Fantasy
+1092,The Quarry,2022,Multiple,Human,Realistic,Modern
+1093,Gran Turismo 2,1999,Unknown,Vehicle,Realistic,Modern
+1094,Secret of Mana,1993,Male,Human,Pixel Art,Fantasy
+1095,Deadpool,2013,Male,Superhuman,Realistic,Modern
+1096,Donkey Kong,1981,Male,Human,Pixel Art,Modern
+1097,Streets of Rage,1991,Multiple,Human,Pixel Art,Modern
+1098,Donut County,2018,Male,God/Abstract,Stylized,Modern
+1099,SimCity 2000,1993,Unknown,God/Abstract,Pixel Art,Modern
+1100,Sonic Adventure,1998,Multiple,Animal,Stylized,Modern
+1101,Luigi's Mansion 3,2019,Male,Human,Stylized,Fantasy
+1102,Kena: Bridge of Spirits,2021,Female,Superhuman,Stylized,Fantasy
+1103,Dredge,2023,Male,Human,Stylized,Fantasy
+1104,World of Warcraft: Cataclysm,2010,Multiple,Custom,Stylized,Fantasy
+1105,LEGO Star Wars II: The Original Trilogy,2006,Multiple,Human,Stylized,Sci-Fi
+1106,Ni no Kuni: Wrath of the White Witch,2011,Male,Human,Anime/Cartoon,Fantasy
+1107,Unreal Tournament 2004,2004,Multiple,Human,Realistic,Sci-Fi
+1108,Rayman 2: The Great Escape,1999,Male,Creature,Stylized,Fantasy
+1109,The Walking Dead: Michonne,2016,Female,Human,Cel-Shaded/Toon Style,Post-Apocalyptic
+1110,Wii Sports Resort,2009,Multiple,Custom,Stylized,Modern
+1111,Mortal Kombat 4,1997,Multiple,Selectable,Stylized,Fantasy
+1112,Stronghold,2001,Unknown,God/Abstract,Stylized,Historical
+1113,Jak 3,2004,Male,Superhuman,Stylized,Sci-Fi
+1114,Worms,1995,Unknown,Creature,Stylized,Modern
+1115,Out of This World,1991,Male,Human,Stylized,Sci-Fi
+1116,Super Mario Land 2: 6 Golden Coins,1992,Male,Human,Pixel Art,Fantasy
+1117,Atomic Heart,2023,Male,Human,Realistic,Sci-Fi
+1118,Star Wars: Episode I - Racer,1999,Multiple,Creature,Stylized,Sci-Fi
+1119,Pokemon Legends: Arceus,2022,Multiple,Human,Stylized,Fantasy
+1120,Final Fantasy IV,1991,Male,Human,Pixel Art,Fantasy
+1121,Dr. Mario,1990,Male,Human,Pixel Art,Abstract
+1122,Danganronpa V3: Killing Harmony,2017,Male,Human,Anime/Cartoon,Sci-Fi
+1123,Metroid Dread,2021,Female,Superhuman,Stylized,Sci-Fi
+1124,StarCraft II: Legacy of the Void,2015,Male,Creature,Stylized,Sci-Fi
+1125,Black Myth: Wukong,2024,Male,Superhuman,Realistic,Mythological
+1126,Tekken 2,1995,Multiple,Selectable,Realistic,Modern
+1127,Super Mario Maker 2,2019,Male,Human,Stylized,Fantasy
+1128,Disco Elysium: The Final Cut,2021,Male,Human,Hand-Drawn,Sci-Fi
+1129,Mega Man 3,1990,Male,Robot,Pixel Art,Sci-Fi
+1130,Command & Conquer 3: Tiberium Wars,2007,Unknown,God/Abstract,Realistic,Sci-Fi
+1131,Final Fantasy X-2,2003,Female,Human,Stylized,Fantasy
+1132,Clash of Clans,2012,Multiple,God/Abstract,Stylized,Fantasy
+1133,Resident Evil 0,2016,Multiple,Human,Realistic,Post-Apocalyptic
+1134,Splatoon 2,2017,Multiple,Creature,Stylized,Sci-Fi
+1135,Hitman 3,2021,Male,Human,Realistic,Modern
+1136,"Nine Hours, Nine Persons, Nine Doors",2009,Male,Human,Anime/Cartoon,Modern
+1137,Call of Duty: United Offensive,2004,Male,Human,Realistic,Historical
+1138,Kirby's Adventure,1993,Male,Creature,Pixel Art,Fantasy
+1139,The Longest Journey,1999,Female,Human,Stylized,Sci-Fi
+1140,Sonic & Knuckles,1994,Multiple,Animal,Pixel Art,Fantasy
+1141,Ratchet & Clank: Up Your Arsenal,2004,Male,Creature,Stylized,Sci-Fi
+1142,Total War: Rome II,2013,Unknown,God/Abstract,Realistic,Historical
+1143,Indiana Jones and the Great Circle,2024,Male,Human,Realistic,Historical
+1144,Professor Layton and the Curious Village,2007,Male,Human,Anime/Cartoon,Modern
+1145,Banished,2014,Unknown,God/Abstract,Stylized,Historical
+1146,The Legend of Zelda: Oracle of Seasons,2001,Male,Superhuman,Pixel Art,Fantasy
+1147,Disney's Aladdin,1993,Male,Human,Pixel Art,Historical
+1148,Phoenix Wright: Ace Attorney - Justice for All,2006,Male,Human,Anime/Cartoon,Modern
+1149,Metroid Prime 2: Echoes,2004,Female,Superhuman,Realistic,Sci-Fi
+1150,Heroes of Might and Magic IV,2002,Unknown,God/Abstract,Stylized,Fantasy
+1151,My Hero Ultra Rumble,2023,Multiple,Selectable,Anime/Cartoon,Modern
+1152,Heroes of Might and Magic III: Complete,2000,Unknown,God/Abstract,Stylized,Fantasy
+1153,Clash Royale,2016,Multiple,God/Abstract,Stylized,Fantasy
+1154,Mario & Luigi: Superstar Saga,2003,Male,Human,Pixel Art,Fantasy
+1155,Super Castlevania IV,1991,Male,Human,Pixel Art,Fantasy
+1156,Super Smash Bros. for Nintendo 3DS,2014,Multiple,Selectable,Stylized,Fantasy
+1157,Xenoblade Chronicles 2,2017,Male,Human,Anime/Cartoon,Sci-Fi
+1158,Rise of Nations,2003,Unknown,God/Abstract,Stylized,Historical
+1159,Streets of Rage 2,1992,Multiple,Human,Pixel Art,Modern
+1160,The Legend of Zelda: Link's Awakening DX,1998,Male,Superhuman,Pixel Art,Fantasy
+1161,Pokemon Black Version 2,2012,Multiple,Human,Pixel Art,Fantasy
+1162,The Legend of Zelda: Spirit Tracks,2009,Male,Superhuman,Cel-Shaded/Toon Style,Fantasy
+1163,Circle of Blood,1996,Male,Human,Hand-Drawn,Historical
+1164,Need for Speed II,1997,Unknown,Vehicle,Realistic,Modern
+1165,SoulCalibur II,2002,Multiple,Selectable,Realistic,Historical
+1166,Final Fantasy Tactics,1997,Male,Human,Pixel Art,Fantasy
+1167,Crash Bash,2000,Multiple,Animal,Stylized,Sci-Fi
+1168,Forza Horizon 3,2016,Multiple,Vehicle,Realistic,Modern
+1169,Guacamelee!,2013,Male,Human,Stylized,Mythological
+1170,Diddy Kong Racing,1997,Multiple,Animal,Stylized,Fantasy
+1171,Everybody's Gone to the Rapture,2015,Unknown,Human,Realistic,Modern
+1172,Baba Is You,2019,Unknown,Creature,Pixel Art,Abstract
+1173,Phoenix Wright: Ace Attorney - Trials and Tribulations,2007,Male,Human,Anime/Cartoon,Modern
+1174,Lethal Company,2023,Multiple,Custom,Stylized,Sci-Fi
+1175,Tekken 4,2001,Multiple,Selectable,Realistic,Modern
+1176,Tomb Raider III: Adventures of Lara Croft,1998,Female,Human,Stylized,Modern
+1177,Sifu,2022,Male,Superhuman,Stylized,Modern
+1178,Final Fantasy XVI,2023,Male,Human,Realistic,Fantasy
+1179,Super Paper Mario,2007,Male,Human,Stylized,Fantasy
+1181,F-Zero,1990,Multiple,Human,Pixel Art,Futuristic
+1182,Ratchet & Clank: Going Commando,2003,Male,Creature,Stylized,Sci-Fi
+1183,Dispatch,2025,Unknown,God/Abstract,Stylized,Modern
+1184,The Messenger,2018,Male,Human,Pixel Art,Fantasy
+1185,NieR Replicant ver.1.22474487139...,2021,Male,Human,Stylized,Post-Apocalyptic
+1186,Myst,1993,Unknown,Human,Realistic,Fantasy
+1187,Donkey Kong Country Returns,2010,Male,Animal,Stylized,Fantasy
+1188,Harry Potter and the Prisoner of Azkaban,2004,Male,Superhuman,Stylized,Fantasy
+1189,TagPro,2013,Unknown,God/Abstract,Stylized,Abstract
+1190,Mario + Rabbids Kingdom Battle,2017,Multiple,Human,Stylized,Fantasy
+1191,New Super Mario Bros. U,2012,Male,Human,Stylized,Fantasy
+1192,Street Fighter IV,2008,Multiple,Selectable,Stylized,Modern
+1193,Tony Hawk's Underground,2003,Multiple,Human,Realistic,Modern
+1194,Kirby's Dream Land,1992,Male,Creature,Pixel Art,Fantasy
+1195,World of Warcraft: Mists of Pandaria,2012,Multiple,Custom,Stylized,Fantasy
+1196,Mario Party,1998,Multiple,Selectable,Stylized,Fantasy
+1197,Donkey Kong 64,1999,Multiple,Animal,Stylized,Fantasy
+1198,The Legend of Zelda: Majora's Mask 3D,2015,Male,Superhuman,Stylized,Fantasy
+1199,High on Life,2022,Male,Human,Stylized,Sci-Fi
+1200,Crash Bandicoot: The Wrath of Cortex,2001,Male,Animal,Stylized,Sci-Fi
+1201,Path of Exile 2,2024,Multiple,Custom,Realistic,Fantasy
+1202,Ghostwire: Tokyo,2022,Male,Superhuman,Realistic,Modern
+1203,Mario Kart: Super Circuit,2001,Multiple,Selectable,Pixel Art,Fantasy
+1204,Carrion,2020,Unknown,Creature,Pixel Art,Sci-Fi
+1205,Never Alone: Kisima Ingitchuna,2014,Female,Human,Stylized,Historical
+1206,Metal Slug 2,1998,Multiple,Human,Pixel Art,Modern
+1207,Red Dead Redemption: Undead Nightmare,2010,Male,Human,Realistic,Historical
+1208,Commandos 2: Men of Courage,2001,Male,Human,Stylized,Historical
+1209,Legacy of Kain: Soul Reaver,1999,Male,Superhuman,Stylized,Fantasy
+1210,Pokemon White Version 2,2012,Multiple,Human,Pixel Art,Fantasy
+1211,Mother 3,2006,Male,Human,Pixel Art,Fantasy
+1212,Thronebreaker: The Witcher Tales,2018,Female,Human,Hand-Drawn,Fantasy
+1213,Pikmin,2001,Male,Creature,Stylized,Sci-Fi
+1214,Stronghold Crusader,2002,Unknown,God/Abstract,Stylized,Historical
+1215,Thief: The Dark Project,1998,Male,Human,Realistic,Fantasy
+1216,Pokemon Stadium 2,2000,Unknown,Creature,Stylized,Fantasy
+1217,Returnal,2021,Female,Human,Realistic,Sci-Fi
+1218,Sherlock Holmes: Crimes & Punishments,2014,Male,Human,Realistic,Historical
+1219,Driver: San Francisco,2011,Male,Human,Realistic,Modern
+1220,The Saboteur,2009,Male,Human,Realistic,Historical
+1221,Medal of Honor: Pacific Assault,2004,Male,Human,Realistic,Historical
+1222,Tony Hawk's Pro Skater 4,2002,Multiple,Human,Realistic,Modern
+1223,Perfect Dark,2000,Female,Human,Realistic,Sci-Fi
+1224,Death's Door,2021,Unknown,Animal,Stylized,Fantasy
+1225,Tekken 6,2007,Multiple,Selectable,Realistic,Modern
+1226,Split Fiction,2025,Female,Human,Stylized,Sci-Fi
+1227,Disney's DuckTales,1989,Male,Animal,Pixel Art,Modern
+1228,Sid Meier's Civilization II,1996,Unknown,God/Abstract,Pixel Art,Historical
+1229,Silent Hill: Homecoming,2008,Male,Human,Realistic,Modern
+1230,Omori,2020,Male,Human,Hand-Drawn,Fantasy
+1231,Excitebike,1984,Unknown,Vehicle,Pixel Art,Modern
+1232,Banjo-Tooie,2000,Male,Animal,Stylized,Fantasy
+1233,Call of Duty: Black Ops 6,2024,Male,Human,Realistic,Historical
+1234,Gorogoa,2017,Male,Human,Hand-Drawn,Fantasy
+1235,Guitar Hero II,2006,Unknown,Human,Stylized,Modern
+1236,Dreamfall: The Longest Journey,2006,Multiple,Human,Stylized,Sci-Fi
+1237,Sly Cooper and the Thievius Raccoonus,2002,Male,Animal,Cel-Shaded/Toon Style,Modern
+1238,Honkai: Star Rail,2023,Multiple,Superhuman,Anime/Cartoon,Sci-Fi
+1239,Disney's Hercules Action Game,1997,Male,Superhuman,Pixel Art,Mythological
+1240,Marvel: Ultimate Alliance,2006,Multiple,Superhuman,Stylized,Modern
+1241,FIFA 20,2019,Male,Human,Realistic,Modern
+1242,Hi-Fi Rush,2023,Male,Superhuman,Cel-Shaded/Toon Style,Futuristic
+1243,Tony Hawk's Underground 2,2004,Multiple,Human,Realistic,Modern
+1245,Command & Conquer: Tiberian Sun,1999,Unknown,God/Abstract,Stylized,Sci-Fi
+1246,Warcraft: Orcs & Humans,1994,Unknown,God/Abstract,Pixel Art,Fantasy
+1247,Senua's Saga: Hellblade II,2024,Female,Human,Realistic,Mythological
+1248,Sonic CD,1993,Male,Animal,Pixel Art,Sci-Fi
+1249,Gran Turismo 4,2004,Unknown,Vehicle,Realistic,Modern
+1250,Five Nights at Freddy's,2014,Male,Human,Stylized,Modern
+1251,Batman: The Enemy Within,2017,Male,Superhuman,Cel-Shaded/Toon Style,Modern
+1253,Teenage Mutant Ninja Turtles IV: Turtles in Time,1992,Multiple,Creature,Pixel Art,Modern
+1254,LittleBigPlanet 2,2011,Male,Creature,Stylized,Fantasy
+1255,Double Dragon,1987,Multiple,Human,Pixel Art,Modern
+1256,Dino Crisis,1999,Female,Human,Realistic,Sci-Fi
+1257,Lemmings,1991,Unknown,Creature,Pixel Art,Abstract
+1258,Broken Sword: The Smoking Mirror,1997,Male,Human,Hand-Drawn,Historical
+1259,New Super Mario Bros. 2,2012,Male,Human,Stylized,Fantasy
+1260,RollerCoaster Tycoon 2,2002,Unknown,God/Abstract,Stylized,Modern
+1261,Star Fox,1993,Male,Animal,Low-Poly,Sci-Fi
+1262,Dave the Diver,2023,Male,Human,Pixel Art,Modern
+1263,Neighbours from Hell,2003,Male,Human,Anime/Cartoon,Modern
+1264,Kingdom Hearts Birth by Sleep,2010,Multiple,Human,Anime/Cartoon,Fantasy
+1265,Killzone 2,2009,Male,Human,Realistic,Sci-Fi
+1266,Kingdom Come: Deliverance II,2025,Male,Human,Realistic,Historical
+1267,The Cat Lady,2012,Female,Human,Hand-Drawn,Modern
+1268,Sonic the Hedgehog 3 & Knuckles,1994,Multiple,Animal,Pixel Art,Fantasy
+1270,SimCity 3000,1999,Unknown,God/Abstract,Stylized,Modern
+1271,Empire: Total War,2009,Unknown,God/Abstract,Realistic,Historical
+1272,Dino Crisis 2,2000,Multiple,Human,Realistic,Sci-Fi
+1273,Race Driver: Grid,2008,Unknown,Vehicle,Realistic,Modern
+1274,Mega Man X2,1994,Male,Robot,Pixel Art,Sci-Fi
+1275,World of Warcraft: Warlords of Draenor,2014,Multiple,Custom,Stylized,Fantasy
+1276,Enter the Matrix,2003,Multiple,Superhuman,Realistic,Sci-Fi
+1277,Donkey Kong Country: Tropical Freeze,2014,Multiple,Animal,Stylized,Fantasy
+1278,Bloodborne: The Old Hunters,2015,Multiple,Custom,Realistic,Fantasy
+1279,Octopath Traveler,2018,Multiple,Human,Pixel Art,Fantasy
+1280,Animal Crossing: Wild World,2005,Multiple,Custom,Stylized,Modern
+1281,Sam & Max Hit the Road,1993,Multiple,Animal,Hand-Drawn,Modern
+1282,Castlevania III: Dracula's Curse,1990,Male,Human,Pixel Art,Fantasy
+1283,Dragon Ball: Xenoverse,2015,Multiple,Custom,Anime/Cartoon,Sci-Fi
+1284,Hunt: Showdown 1896,2019,Multiple,Human,Realistic,Historical
+1285,"Pokemon: Let's Go, Eevee!",2018,Multiple,Human,Stylized,Fantasy
+1286,Painkiller,2004,Male,Human,Realistic,Fantasy
+1287,American McGee's Alice,2000,Female,Human,Stylized,Fantasy
+1288,Dawn of Discovery,2009,Unknown,God/Abstract,Stylized,Historical
+1289,Axiom Verge,2015,Male,Human,Pixel Art,Sci-Fi
+1290,Splatoon,2015,Multiple,Creature,Stylized,Sci-Fi
+1291,Battlefield: Bad Company,2008,Male,Human,Realistic,Modern
+1292,Red Faction,2001,Male,Human,Realistic,Sci-Fi
+1293,Escape from Monkey Island,2000,Male,Human,Stylized,Historical
+1294,The Orange Box,2007,Male,Human,Stylized,Sci-Fi
+1295,State of Decay,2013,Multiple,Human,Realistic,Post-Apocalyptic
+1296,Ratchet & Clank Future: A Crack in Time,2009,Male,Creature,Stylized,Sci-Fi
+1297,Gran Turismo 5,2010,Unknown,Vehicle,Realistic,Modern
+1298,Tom Clancy's Rainbow Six: Vegas 2,2008,Multiple,Custom,Realistic,Modern
+1299,The Chronicles of Riddick: Escape from Butcher Bay,2004,Male,Human,Realistic,Sci-Fi
+1300,Neverwinter Nights 2,2006,Multiple,Custom,Stylized,Fantasy
+1301,Sly 2: Band of Thieves,2004,Male,Animal,Cel-Shaded/Toon Style,Modern
+1302,SWAT 4,2005,Male,Human,Realistic,Modern
+1303,Tomb Raider: The Last Revelation,1999,Female,Human,Stylized,Historical
+1304,FIFA Soccer 12,2011,Male,Human,Realistic,Modern
+1305,Pony Island,2016,Unknown,Human,Pixel Art,Abstract
+1306,Outlast: Whistleblower,2014,Male,Human,Realistic,Modern
+1307,Final Fantasy Tactics Advance,2003,Male,Human,Pixel Art,Fantasy
+1308,Bloons TD 6,2018,Unknown,Animal,Stylized,Modern
+1309,Animal Crossing,2002,Multiple,Custom,Stylized,Modern
+1310,Colin McRae Rally 2.0,2000,Unknown,Vehicle,Realistic,Modern
+1311,Harry Potter and the Goblet of Fire,2005,Male,Superhuman,Stylized,Fantasy
+1312,Worms World Party,2001,Unknown,Creature,Stylized,Modern
+1313,Empire Earth,2001,Unknown,God/Abstract,Stylized,Historical
+1315,World of Warcraft: Legion,2016,Multiple,Custom,Stylized,Fantasy
+1316,Persona 3 FES,2007,Male,Human,Anime/Cartoon,Modern
+1317,HuniePop,2015,Male,Human,Anime/Cartoon,Modern
+1318,Final Fight,1989,Multiple,Human,Pixel Art,Modern
+1319,Shenmue,1999,Male,Human,Realistic,Historical
+1320,"Pokemon: Let's Go, Pikachu!",2018,Multiple,Human,Stylized,Fantasy
+1321,VA-11 Hall-A: Cyberpunk Bartender Action,2016,Female,Human,Pixel Art,Futuristic
+1322,Signalis,2022,Female,Robot,Pixel Art,Sci-Fi
+1323,The Forgotten City,2021,Multiple,Human,Realistic,Historical
+1324,The Lord of the Rings: The Two Towers,2002,Multiple,Human,Realistic,Fantasy
+1325,Mega Man X4,1997,Male,Robot,Pixel Art,Sci-Fi
+1326,Battletoads,1991,Multiple,Creature,Pixel Art,Sci-Fi
+1327,Mario Party 2,1999,Multiple,Selectable,Stylized,Fantasy
+1328,Conker's Bad Fur Day,2001,Male,Animal,Stylized,Fantasy
+1329,Castlevania II: Simon's Quest,1987,Male,Human,Pixel Art,Fantasy
+1330,The Medium,2021,Female,Superhuman,Realistic,Modern
+1331,Killzone 3,2011,Male,Human,Realistic,Sci-Fi
+1332,Mount & Blade II: Bannerlord,2020,Multiple,Custom,Realistic,Historical
+1333,Golden Sun,2001,Male,Human,Pixel Art,Fantasy
+1334,MediEvil,1998,Male,Creature,Stylized,Fantasy
+1335,Anthem,2019,Multiple,Custom,Realistic,Sci-Fi
+1336,Forza Horizon,2012,Male,Vehicle,Realistic,Modern
+1337,Halo Wars,2009,Male,God/Abstract,Realistic,Sci-Fi
+1338,Scorn,2022,Unknown,Creature,Realistic,Sci-Fi
+1339,Pokemon Trading Card Game,1998,Male,Human,Pixel Art,Fantasy
+1340,Metal Gear,1987,Male,Human,Pixel Art,Modern
+1341,SimCity,1989,Unknown,God/Abstract,Pixel Art,Modern
+1342,Xenoblade Chronicles,2010,Male,Human,Anime/Cartoon,Sci-Fi
+1343,Metroid Prime 3: Corruption,2007,Female,Superhuman,Realistic,Sci-Fi
+1344,Zenless Zone Zero,2024,Multiple,Human,Anime/Cartoon,Futuristic
+1345,Lisa: The Painful,2014,Male,Human,Pixel Art,Post-Apocalyptic
+1346,Heroes of Might and Magic II: The Succession Wars,1996,Unknown,God/Abstract,Pixel Art,Fantasy
+1347,Blur,2010,Unknown,Vehicle,Realistic,Modern
+1348,Metal Slug X,1999,Multiple,Human,Pixel Art,Modern
+1349,The Godfather,2006,Male,Human,Realistic,Historical
+1350,RuneScape,2001,Multiple,Custom,Stylized,Fantasy
+1351,Immortals Fenyx Rising,2020,Multiple,Superhuman,Stylized,Mythological
+1352,Zero Escape: Virtue's Last Reward,2012,Male,Human,Anime/Cartoon,Sci-Fi
+1353,Cocoon,2023,Unknown,Creature,Stylized,Sci-Fi
+1354,Peter Jackson's King Kong: The Official Game of the Movie,2005,Male,Human,Realistic,Modern
+1355,Ratchet & Clank Future: Tools of Destruction,2007,Male,Creature,Stylized,Sci-Fi
+1356,Fire Emblem: The Blazing Blade,2003,Multiple,Human,Pixel Art,Fantasy
+1357,Rayman 3: Hoodlum Havoc,2003,Male,Creature,Stylized,Fantasy
+1358,Colin McRae: Dirt 2,2009,Unknown,Vehicle,Realistic,Modern
+1359,BioShock Infinite: Burial at Sea - Episode 1,2013,Male,Human,Stylized,Sci-Fi
+1360,Gun,2005,Male,Human,Realistic,Historical
+1361,Battlefield 6,2025,Multiple,Custom,Realistic,Futuristic
+1362,Advance Wars,2001,Multiple,God/Abstract,Pixel Art,Modern
+1363,Spider-Man: Shattered Dimensions,2010,Male,Superhuman,Stylized,Modern
+1364,Mario & Luigi: Bowser's Inside Story,2009,Male,Human,Pixel Art,Fantasy
+1365,XIII,2003,Male,Human,Cel-Shaded/Toon Style,Modern
+1366,Apollo Justice: Ace Attorney,2007,Male,Human,Anime/Cartoon,Modern
+1367,Winning Eleven: Pro Evolution Soccer 2007,2006,Male,Human,Realistic,Modern
+1368,Astro Bot,2024,Male,Robot,Stylized,Sci-Fi
+1369,R.E.P.O.,2025,Multiple,Custom,Stylized,Sci-Fi
+1370,Getting Over It with Bennett Foddy,2017,Male,Human,Stylized,Abstract
+1371,The Room Two,2013,Unknown,Human,Realistic,Modern
+1372,TimeSplitters 2,2002,Multiple,Human,Stylized,Sci-Fi
+1373,Buckshot Roulette,2023,Unknown,Human,Stylized,Abstract
+1374,Dragon Ball Z: Budokai 3,2004,Multiple,Selectable,Anime/Cartoon,Sci-Fi
+1375,Black & White,2001,Unknown,God/Abstract,Stylized,Fantasy
+1376,Command & Conquer: Red Alert 2 - Yuri's Revenge,2001,Unknown,God/Abstract,Stylized,Sci-Fi
+1377,Pikuniku,2019,Unknown,Creature,Stylized,Modern
+1378,Tekken,1994,Multiple,Selectable,Realistic,Modern
+1379,Maniac Mansion,1987,Male,Human,Pixel Art,Modern
+1380,Arena Breakout: Infinite,2025,Multiple,Custom,Realistic,Modern
+1381,PUBG Mobile,2018,Multiple,Custom,Realistic,Modern
+1382,Disney's Tarzan,1999,Male,Human,Pixel Art,Modern
+1383,Resident Evil Code: Veronica X,2001,Multiple,Human,Realistic,Post-Apocalyptic
+1384,Crash Bandicoot 4: It's About Time,2020,Multiple,Animal,Stylized,Sci-Fi
+1385,Unreal Tournament III,2007,Multiple,Human,Realistic,Sci-Fi
+1386,Skate 3,2010,Multiple,Custom,Realistic,Modern
+1387,Katamari Damacy,2004,Male,God/Abstract,Stylized,Abstract
+1388,Chrono Cross,1999,Male,Human,Stylized,Fantasy
+1389,Mega Man 4,1991,Male,Robot,Pixel Art,Sci-Fi
+1390,Anno 1800,2019,Unknown,God/Abstract,Realistic,Historical
+1391,Sonic Unleashed,2008,Male,Animal,Stylized,Fantasy
+1392,Fire Emblem: The Sacred Stones,2004,Multiple,Human,Pixel Art,Fantasy
+1393,The Operative: No One Lives Forever,2000,Female,Human,Stylized,Historical
+1394,Subway Surfers,2012,Multiple,Human,Stylized,Modern
+1395,Kirby Super Star,1996,Male,Creature,Pixel Art,Fantasy
+1396,Dead Rising 3,2013,Male,Human,Realistic,Post-Apocalyptic
+1397,Dragon Age: The Veilguard,2024,Multiple,Custom,Stylized,Fantasy
+1398,EA Sports FC 24,2023,Male,Human,Realistic,Modern
+1399,Botanicula,2012,Unknown,Creature,Hand-Drawn,Fantasy
+1400,S.T.A.L.K.E.R. 2: Heart of Chornobyl,2024,Male,Human,Realistic,Post-Apocalyptic
+1401,Gran Turismo 3: A-Spec,2001,Unknown,Vehicle,Realistic,Modern
+1402,Final Fantasy V,1992,Male,Human,Pixel Art,Fantasy
+1403,Command & Conquer: Generals - Zero Hour,2003,Unknown,God/Abstract,Realistic,Modern
+1404,Thief: Deadly Shadows,2004,Male,Human,Realistic,Fantasy
+1405,Bubble Bobble,1986,Multiple,Creature,Pixel Art,Fantasy
+1406,SoulCalibur III,2005,Multiple,Selectable,Realistic,Historical
+1407,Soldier of Fortune,2000,Male,Human,Realistic,Modern
+1408,Sonic Advance,2001,Multiple,Animal,Pixel Art,Fantasy
+1409,Comix Zone,1995,Male,Human,Hand-Drawn,Fantasy
+1410,Tekken Tag Tournament,1999,Multiple,Selectable,Realistic,Modern
+1411,Arcanum: of Steamworks and Magick Obscura,2001,Multiple,Custom,Stylized,Fantasy
+1412,Toy Story 2: Buzz Lightyear to the Rescue!,1999,Male,Robot,Stylized,Modern
+1413,Ice Climber,1985,Multiple,Human,Pixel Art,Modern
+1414,Pong,1972,Unknown,God/Abstract,Pixel Art,Abstract
+1415,Mario Tennis,2000,Multiple,Selectable,Stylized,Modern
+1416,Castlevania: Lords of Shadow 2,2014,Male,Superhuman,Realistic,Fantasy
+1417,Owlboy,2016,Male,Creature,Pixel Art,Fantasy
+1418,Thimbleweed Park,2017,Multiple,Human,Pixel Art,Modern
+1419,Diablo II: Resurrected,2021,Multiple,Custom,Realistic,Fantasy
+1420,Subnautica: Below Zero,2021,Female,Human,Stylized,Sci-Fi
+1421,Far: Lone Sails,2018,Unknown,Human,Stylized,Post-Apocalyptic
+1422,Deltarune: Chapter 1,2018,Unknown,Human,Pixel Art,Fantasy
+1423,Dragon Quest XI: Echoes of an Elusive Age,2017,Male,Human,Anime/Cartoon,Fantasy
+1424,Road 96,2021,Multiple,Human,Stylized,Modern
+1425,Spider-Man: Web of Shadows,2008,Male,Superhuman,Stylized,Modern
+1426,SoulCalibur,1998,Multiple,Selectable,Realistic,Historical
+1427,Disney's Chip 'n Dale Rescue Rangers,1990,Multiple,Animal,Pixel Art,Modern
+1428,Unreal Tournament 2003,2002,Multiple,Human,Realistic,Sci-Fi
+1429,Teamfight Tactics,2019,Multiple,God/Abstract,Stylized,Fantasy
+1430,OneShot,2016,Unknown,Creature,Pixel Art,Fantasy
+1431,Little Misfortune,2019,Female,Human,Hand-Drawn,Modern
+1432,Plants vs. Zombies: Garden Warfare,2014,Multiple,Creature,Stylized,Modern
+1433,Sea of Stars,2023,Multiple,Human,Pixel Art,Fantasy
+1434,Battlefield 2042,2021,Multiple,Human,Realistic,Futuristic
+1435,FIFA Soccer 11,2010,Male,Human,Realistic,Modern
+1436,Silent Hill: Origins,2007,Male,Human,Realistic,Modern
+1437,Guitar Hero World Tour,2008,Unknown,Human,Stylized,Modern
+1438,Dungeon Siege,2002,Multiple,Custom,Realistic,Fantasy
+1439,Forza Horizon 2,2014,Male,Vehicle,Realistic,Modern
+1440,Naruto Shippuden: Ultimate Ninja Storm 3,2013,Male,Superhuman,Anime/Cartoon,Fantasy
+1441,Syndicate,2012,Male,Superhuman,Realistic,Futuristic
+1442,Call of Cthulhu: Dark Corners of the Earth,2005,Male,Human,Realistic,Historical
+1443,Kingdom Hearts: Chain of Memories,2004,Male,Human,Pixel Art,Fantasy
+1444,Captain Toad: Treasure Tracker,2014,Male,Human,Stylized,Fantasy
+1445,Persona 3 Portable,2009,Multiple,Human,Anime/Cartoon,Modern
+1446,LEGO Pirates of the Caribbean: The Video Game,2011,Multiple,Human,Stylized,Historical
+1447,Resistance: Fall of Man,2006,Male,Human,Realistic,Sci-Fi
+1448,Marvel vs. Capcom 2: New Age of Heroes,2000,Multiple,Selectable,Pixel Art,Fantasy
+1449,Albion Online,2017,Multiple,Custom,Stylized,Fantasy
+1450,Final Fantasy III,2006,Multiple,Human,Stylized,Fantasy
+1451,SoulCalibur VI,2018,Multiple,Selectable,Realistic,Historical
+1452,Minit,2018,Unknown,Creature,Pixel Art,Fantasy
+1453,Kingdom Hearts 358/2 Days,2009,Male,Human,Anime/Cartoon,Fantasy
+1454,Mario & Luigi: Partners in Time,2005,Male,Human,Pixel Art,Fantasy
+1455,Mario Party 8,2007,Multiple,Selectable,Stylized,Fantasy
+1456,SoulCalibur IV,2008,Multiple,Selectable,Realistic,Historical
+1457,Minecraft: Story Mode,2015,Multiple,Human,Voxel,Fantasy
+1458,Call of the Sea,2020,Female,Human,Stylized,Historical
+1459,Ultimate Marvel vs. Capcom 3,2011,Multiple,Selectable,Stylized,Fantasy
+1460,World War Z,2019,Multiple,Human,Realistic,Post-Apocalyptic
+1461,FIFA 21,2020,Male,Human,Realistic,Modern
+1462,Spider-Man 3,2007,Male,Superhuman,Stylized,Modern
+1463,LEGO Harry Potter: Years 5-7,2011,Male,Superhuman,Stylized,Fantasy
+1464,Momodora: Reverie Under the Moonlight,2016,Female,Human,Pixel Art,Fantasy
+1465,Dragon Ball: Xenoverse 2,2016,Multiple,Custom,Anime/Cartoon,Sci-Fi
+1466,RoboCop: Rogue City,2023,Male,Robot,Realistic,Futuristic
+1467,Horizon Zero Dawn: The Frozen Wilds,2017,Female,Human,Realistic,Post-Apocalyptic
+1469,Zero Escape: Zero Time Dilemma,2016,Multiple,Human,Anime/Cartoon,Sci-Fi
+1470,Dragon Quest VIII: Journey of the Cursed King,2004,Male,Human,Anime/Cartoon,Fantasy
+1471,The Sinking City,2019,Male,Human,Realistic,Historical
+1472,Total War: Warhammer,2016,Unknown,God/Abstract,Realistic,Fantasy

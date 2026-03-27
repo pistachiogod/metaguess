@@ -1,0 +1,718 @@
+{
+  "generated": "2026-02-23T20:10:32.316563",
+  "summary": {
+    "fuzzy_matches": 35,
+    "rejected_matches": 25,
+    "no_igdb_results": 25,
+    "total_issues": 85
+  },
+  "fuzzy_matches": [
+    {
+      "rank": 34,
+      "rawg_name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+      "igdb_name": "The Witcher 2: Assassins of Kings - Enhanced Edition",
+      "score": 0.767,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 70,
+      "rawg_name": "The Elder Scrolls V: Skyrim Special Edition",
+      "igdb_name": "The Elder Scrolls V: Skyrim - Special Edition",
+      "score": 0.733,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 77,
+      "rawg_name": "Injustice: Gods Among Us Ultimate Edition",
+      "igdb_name": "Injustice: Gods Among Us - Ultimate Edition",
+      "score": 0.73,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 119,
+      "rawg_name": "Journey",
+      "igdb_name": "AFK Journey",
+      "score": 0.778,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 129,
+      "rawg_name": "Brutal Legend",
+      "igdb_name": "Br\u00fctal Legend",
+      "score": 0.923,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 144,
+      "rawg_name": "Tom Clancy's Rainbow Six Siege",
+      "igdb_name": "Tom Clancy's Rainbow Six Siege: North Star",
+      "score": 0.845,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 200,
+      "rawg_name": "Divinity: Original Sin 2",
+      "igdb_name": "Divinity: Original Sin II",
+      "score": 0.936,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 272,
+      "rawg_name": "Syberia 2",
+      "igdb_name": "Syberia 1 & 2",
+      "score": 0.9,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 341,
+      "rawg_name": "Assassin's Creed",
+      "igdb_name": "Assassin's Creed Jade",
+      "score": 0.865,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 363,
+      "rawg_name": "Lords of the Fallen (2014)",
+      "igdb_name": "Lords of the Fallen",
+      "score": 0.884,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 423,
+      "rawg_name": "Star Wars: Battlefront II (2005)",
+      "igdb_name": "Star Wars: Battlefront II",
+      "score": 0.906,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 464,
+      "rawg_name": "Outlast 2",
+      "igdb_name": "Outlast II",
+      "score": 0.842,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 530,
+      "rawg_name": "Surgeon Simulator",
+      "igdb_name": "Surgeon Simulator CPR",
+      "score": 0.895,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 538,
+      "rawg_name": "Sniper Elite 3",
+      "igdb_name": "Sniper Elite III",
+      "score": 0.867,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 549,
+      "rawg_name": "Prince of Persia (2008)",
+      "igdb_name": "Prince of Persia",
+      "score": 0.865,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 558,
+      "rawg_name": "Plants vs. Zombies GOTY Edition",
+      "igdb_name": "Plants vs. Zombies: GOTY Edition",
+      "score": 0.723,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 560,
+      "rawg_name": "Call of Duty: Modern Warfare (2019)",
+      "igdb_name": "Call of Duty: Modern Warfare",
+      "score": 0.915,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 582,
+      "rawg_name": "Age of Empires II HD",
+      "igdb_name": "Age of Empires II: HD Edition",
+      "score": 0.833,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 600,
+      "rawg_name": "ArmA II",
+      "igdb_name": "Arma 2",
+      "score": 0.769,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 627,
+      "rawg_name": "Aim Lab",
+      "igdb_name": "Aim Lab VR",
+      "score": 0.824,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 628,
+      "rawg_name": "Shadow Warrior (2013)",
+      "igdb_name": "Shadow Warrior",
+      "score": 0.848,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 684,
+      "rawg_name": "Realm Royale",
+      "igdb_name": "Realm Royale Reforged",
+      "score": 0.727,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 687,
+      "rawg_name": "ArmA II: Operation Arrowhead",
+      "igdb_name": "ArmA 2: Operation Arrowhead",
+      "score": 0.943,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 694,
+      "rawg_name": "Serious Sam 2",
+      "igdb_name": "Serious Sam II",
+      "score": 0.889,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 699,
+      "rawg_name": "Assassin's Creed 2 Deluxe Edition",
+      "igdb_name": "Assassin's Creed II: Deluxe Edition",
+      "score": 0.731,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 750,
+      "rawg_name": "OKAMI HD",
+      "igdb_name": "\u014ckami HD",
+      "score": 0.933,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 751,
+      "rawg_name": "Kane and Lynch: Dead Men",
+      "igdb_name": "Kane & Lynch: Dead Men",
+      "score": 0.905,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 792,
+      "rawg_name": "Dragon Age 2",
+      "igdb_name": "Dragon Age II",
+      "score": 0.88,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 800,
+      "rawg_name": "Marvel\u2019s Avengers",
+      "igdb_name": "LEGO Marvel's Avengers",
+      "score": 0.872,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 817,
+      "rawg_name": "Superbrothers: Sword & Sworcery",
+      "igdb_name": "Superbrothers: Sword & Sworcery EP",
+      "score": 0.949,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 865,
+      "rawg_name": "Need for Speed: Most Wanted - A Criterion Game",
+      "igdb_name": "Need for Speed: Most Wanted",
+      "score": 0.754,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 885,
+      "rawg_name": "DRAGON BALL FighterZ",
+      "igdb_name": "Dragon Ball FighterZ: Goku",
+      "score": 0.889,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 889,
+      "rawg_name": "Counter-Strike Nexon: Zombies",
+      "igdb_name": "Counter-Strike Nexon: Studio - Zombies: Rivals",
+      "score": 0.8,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 958,
+      "rawg_name": "Dungeon Siege 3",
+      "igdb_name": "Dungeon Siege III",
+      "score": 0.875,
+      "match_type": "fuzzy",
+      "accepted": true
+    },
+    {
+      "rank": 969,
+      "rawg_name": "Cuisine Royale",
+      "igdb_name": "CRSED: Cuisine Royale",
+      "score": 0.824,
+      "match_type": "fuzzy",
+      "accepted": true
+    }
+  ],
+  "rejected_matches": [
+    {
+      "rank": 21,
+      "rawg_name": "DOOM (2016)",
+      "igdb_candidates": [
+        "Doom"
+      ],
+      "best_score": 0.615,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 40,
+      "rawg_name": "The Walking Dead: Season 1",
+      "igdb_candidates": [
+        "The Walking Dead: Season One - Episode 1: A New Day",
+        "The Walking Dead: Season Two - Episode 1: All That Remains",
+        "The Walking Dead: The Final Season - Episode 1: Done Running"
+      ],
+      "best_score": 0.656,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 56,
+      "rawg_name": "PlayerUnknown\u2019s Battlegrounds",
+      "igdb_candidates": [
+        "PlayerUnknown's Battlegrounds: Season 5",
+        "PlayerUnknown's Battlegrounds: Season 4",
+        "PlayerUnknown's Battlegrounds: Season 6"
+      ],
+      "best_score": 0.681,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 84,
+      "rawg_name": "For Honor",
+      "igdb_candidates": [
+        "For Honor: Season 21 - Golden Age",
+        "For Honor: Season 20 - Frozen Shores",
+        "For Honor: Season 23 - The Demon Dagger"
+      ],
+      "best_score": 0.0,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 106,
+      "rawg_name": "Fall Guys: Ultimate Knockout",
+      "igdb_candidates": [
+        "Fall Guys: Ultimate Knockout - Season 3",
+        "Fall Guys: Ultimate Knockout - Season 2",
+        "Fall Guys: Ultimate Knockout - Season 6"
+      ],
+      "best_score": 0.0,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 120,
+      "rawg_name": "Batman: Arkham Asylum Game of the Year Edition",
+      "igdb_candidates": [
+        "Batman: Arkham Asylum - Game of the Year Edition"
+      ],
+      "best_score": 0.615,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 125,
+      "rawg_name": "Fallout",
+      "igdb_candidates": [
+        "Fallout Tactics: Brotherhood of Steel",
+        "Fallout Trilogy",
+        "Fallout 2"
+      ],
+      "best_score": 0.667,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 175,
+      "rawg_name": "Black Desert Online",
+      "igdb_candidates": [
+        "Black Desert Online: Prestige Edition",
+        "Black Desert Online: Explorer's Package",
+        "Black Desert Online: Traveler's Package"
+      ],
+      "best_score": 0.691,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 263,
+      "rawg_name": "The Forest",
+      "igdb_candidates": [
+        "M\u00e4rchen Forest: Mylne and the Forest Gift",
+        "Lotte\u2019s Forest: The Tale of Love",
+        "Slendrina Must Die: The Forest"
+      ],
+      "best_score": 0.632,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 270,
+      "rawg_name": "The Walking Dead: Season 2",
+      "igdb_candidates": [
+        "The Walking Dead: Season Two",
+        "The Walking Dead: Season Two - Episode 2: A House Divided",
+        "The Walking Dead: Season One - Episode 2: Starved for Help"
+      ],
+      "best_score": 0.6,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 448,
+      "rawg_name": "The Elder Scrolls IV: Oblivion Game of the Year Edition",
+      "igdb_candidates": [
+        "The Elder Scrolls IV: Oblivion - Game of the Year Edition",
+        "The Elder Scrolls IV: Oblivion - Game of the Year Edition Deluxe"
+      ],
+      "best_score": 0.667,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 508,
+      "rawg_name": "Deus Ex 2: Invisible War",
+      "igdb_candidates": [
+        "Deus Ex: Invisible War"
+      ],
+      "best_score": 0.0,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 531,
+      "rawg_name": "H1Z1: King of the Kill",
+      "igdb_candidates": [
+        "Z1: Battle Royale"
+      ],
+      "best_score": 0.378,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 532,
+      "rawg_name": "Mass Effect: Legendary Edition",
+      "igdb_candidates": [
+        "Mass Effect Legendary Edition"
+      ],
+      "best_score": 0.55,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 542,
+      "rawg_name": "Genshin Impact",
+      "igdb_candidates": [
+        "Genshin Impact: Blades Weaving Betwixt Brocade",
+        "Genshin Impact: Roses and Muskets",
+        "Genshin Impact: Masquerade of the Guilty"
+      ],
+      "best_score": 0.609,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 619,
+      "rawg_name": "This is the Police",
+      "igdb_candidates": [
+        "Police Car Driving - Police Chase",
+        "Autobahn Police Simulator 3: Police Motorcycle",
+        "Zombie Police: Christmas Dancing with Police Zombies"
+      ],
+      "best_score": 0.408,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 775,
+      "rawg_name": "Guacamelee! Gold Edition",
+      "igdb_candidates": [
+        "Guacamelee!: Gold Edition"
+      ],
+      "best_score": 0.606,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 780,
+      "rawg_name": "Thief 3: Deadly Shadows",
+      "igdb_candidates": [
+        "Thief: Deadly Shadows"
+      ],
+      "best_score": 0.0,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 794,
+      "rawg_name": "Geneshift",
+      "igdb_candidates": [
+        "Skillshot City"
+      ],
+      "best_score": 0.348,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 812,
+      "rawg_name": "Jagged Alliance 1: Gold Edition",
+      "igdb_candidates": [
+        "Jagged Alliance: Gold Edition"
+      ],
+      "best_score": 0.0,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 826,
+      "rawg_name": "Fortnite: Save The World",
+      "igdb_candidates": [
+        "Fortnite"
+      ],
+      "best_score": 0.516,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 918,
+      "rawg_name": "Knights and Merchants",
+      "igdb_candidates": [
+        "Knights and Merchants: The Peasants Rebellion",
+        "Knights and Merchants: The Shattered Kingdom"
+      ],
+      "best_score": 0.656,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 933,
+      "rawg_name": "Dead Island Definitive Edition",
+      "igdb_candidates": [
+        "Dead Island: Definitive Edition",
+        "Dead Island: Riptide - Definitive Edition"
+      ],
+      "best_score": 0.571,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 955,
+      "rawg_name": "Tomb Raider V: Chronicles",
+      "igdb_candidates": [
+        "Tomb Raider: Chronicles"
+      ],
+      "best_score": 0.0,
+      "match_type": "rejected",
+      "accepted": false
+    },
+    {
+      "rank": 998,
+      "rawg_name": "Crash Bandicoot 3: Warped",
+      "igdb_candidates": [
+        "Crash Bandicoot: Warped"
+      ],
+      "best_score": 0.0,
+      "match_type": "rejected",
+      "accepted": false
+    }
+  ],
+  "no_igdb_results": [
+    {
+      "rank": 5,
+      "rawg_name": "Tomb Raider (2013)",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 16,
+      "rawg_name": "God of War (2018)",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 88,
+      "rawg_name": "Dead Space (2008)",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 100,
+      "rawg_name": "NieR:Automata",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 213,
+      "rawg_name": "Resident Evil 4 (2005)",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 245,
+      "rawg_name": "Wallpaper Engine",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 255,
+      "rawg_name": "Resident Evil 2 (1998)",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 298,
+      "rawg_name": "Mafia: The City of Lost Heaven",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 353,
+      "rawg_name": "Serious Sam Fusion 2017 (beta)",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 355,
+      "rawg_name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 356,
+      "rawg_name": "GRID (2008)",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 361,
+      "rawg_name": "The Elder Scrolls Online: Tamriel Unlimited",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 362,
+      "rawg_name": "Fortnite Battle Royale",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 364,
+      "rawg_name": "Endless Space - Collection",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 386,
+      "rawg_name": "Tales from the Borderlands: A Telltale Game Series",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 430,
+      "rawg_name": "Sniper Elite 4",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 461,
+      "rawg_name": "Shadow of the Colossus (2011)",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 494,
+      "rawg_name": "Final Fantasy VII (1997)",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 604,
+      "rawg_name": "The Uncertain: Episode 1 - The Last Quiet Day",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 648,
+      "rawg_name": "We Were Here",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 731,
+      "rawg_name": "Resident Evil 0 / Biohazard 0 HD REMASTER",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 760,
+      "rawg_name": "Warface: Ice Breaker",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 788,
+      "rawg_name": "Observ\u0435r",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 875,
+      "rawg_name": "Crazy Taxi (1999)",
+      "match_type": "no_results",
+      "accepted": false
+    },
+    {
+      "rank": 977,
+      "rawg_name": "System Shock (1994)",
+      "match_type": "no_results",
+      "accepted": false
+    }
+  ]
+}

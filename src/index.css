@@ -1,0 +1,552 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input, select, textarea {
+  font-size: 16px !important;
+}
+
+* {
+  font-family: 'Outfit', sans-serif;
+}
+
+body {
+  background: #06060e;
+}
+
+/* PS2 vertical scanline overlay - subtle */
+.ps2-bg {
+  position: relative;
+  background: #06060e;
+}
+
+.ps2-bg::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: repeating-linear-gradient(
+    90deg,
+    transparent,
+    transparent 2px,
+    rgba(30, 64, 175, 0.015) 2px,
+    rgba(30, 64, 175, 0.015) 4px
+  );
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* Header glow bar */
+.ps2-header {
+  background: linear-gradient(180deg, #0c1029 0%, #080c1f 60%, #06060e 100%);
+  border-bottom: 1px solid rgba(59, 130, 246, 0.15);
+  box-shadow: 0 1px 20px rgba(59, 130, 246, 0.08);
+}
+
+/* Title glow */
+.ps2-title {
+  background: linear-gradient(180deg, #93c5fd 0%, #3b82f6 50%, #1d4ed8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  filter: drop-shadow(0 0 12px rgba(59, 130, 246, 0.4));
+}
+
+/* Input glow on focus */
+.ps2-input {
+  background: #0d0d1a;
+  border: 2px solid #1a1a3e;
+  transition: all 0.3s ease;
+}
+
+.ps2-input:focus {
+  border-color: #2563eb;
+  box-shadow: 0 0 16px rgba(37, 99, 235, 0.2), inset 0 0 8px rgba(37, 99, 235, 0.05);
+  outline: none;
+}
+
+/* Dropdown styling */
+.ps2-dropdown {
+  background: #0d0d1a;
+  border: 1px solid #1a1a3e;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.6);
+}
+
+.dropdown-item:hover {
+  background: #141428 !important;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0a18;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e3a8a;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2563eb;
+}
+
+/* Guess row animation */
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.guess-row {
+  animation: slideIn 0.3s ease-out;
+}
+
+/* Win animation */
+@keyframes bounceOnce {
+  0% {
+    opacity: 0;
+    transform: scale(0.3);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-bounce-once {
+  animation: bounceOnce 0.6s ease-out;
+}
+
+/* Modal backdrop */
+.ps2-modal-bg {
+  background: rgba(4, 4, 12, 0.85);
+  backdrop-filter: blur(4px);
+}
+
+/* Modal card */
+.ps2-modal {
+  background: #0d0d1a;
+  border: 1px solid rgba(59, 130, 246, 0.15);
+  box-shadow: 0 0 40px rgba(59, 130, 246, 0.08), 0 20px 60px rgba(0, 0, 0, 0.5);
+}
+
+/* Nav pill */
+.ps2-nav-pill {
+  background: rgba(15, 15, 30, 0.8);
+  border: 1px solid rgba(59, 130, 246, 0.1);
+}
+
+/* Feedback cells - keep game colors but add subtle glow */
+.cell-correct {
+  box-shadow: 0 0 8px rgba(16, 185, 129, 0.15);
+}
+
+.cell-partial {
+  box-shadow: 0 0 8px rgba(245, 158, 11, 0.15);
+}
+
+/* Blue accent button */
+.ps2-btn {
+  background: linear-gradient(180deg, #1e40af 0%, #1e3a8a 100%);
+  border: 1px solid rgba(59, 130, 246, 0.3);
+  transition: all 0.2s ease;
+}
+
+.ps2-btn:hover {
+  background: linear-gradient(180deg, #2563eb 0%, #1e40af 100%);
+  box-shadow: 0 0 12px rgba(37, 99, 235, 0.3);
+}
+
+/* Header dropdown slide-down */
+@keyframes headerDropdown {
+  from {
+    opacity: 0;
+    transform: translateY(-8px) scaleY(0.95);
+    transform-origin: top;
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scaleY(1);
+    transform-origin: top;
+  }
+}
+
+.header-dropdown-enter {
+  animation: headerDropdown 0.2s ease-out;
+}
+
+/* ========================================
+   Memory Card Screen
+   ======================================== */
+
+.memory-card-screen {
+  animation: memoryCardFadeIn 0.4s ease-out;
+}
+
+@keyframes memoryCardFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Floating animation for 3D game cases */
+.memory-card-icon {
+  animation: memoryCardFloat3D 5s ease-in-out infinite;
+}
+
+/* Stagger per column */
+.memory-card-slot:nth-child(5n+1) .memory-card-icon { animation-delay: 0s; animation-duration: 4.6s; }
+.memory-card-slot:nth-child(5n+2) .memory-card-icon { animation-delay: 0.8s; animation-duration: 5.2s; }
+.memory-card-slot:nth-child(5n+3) .memory-card-icon { animation-delay: 1.5s; animation-duration: 4.4s; }
+.memory-card-slot:nth-child(5n+4) .memory-card-icon { animation-delay: 2.2s; animation-duration: 5.0s; }
+.memory-card-slot:nth-child(5n+5) .memory-card-icon { animation-delay: 0.4s; animation-duration: 4.8s; }
+
+/* Row variation */
+.memory-card-slot:nth-child(n+6):nth-child(-n+10) .memory-card-icon { animation-delay: 1.1s; }
+.memory-card-slot:nth-child(n+11) .memory-card-icon { animation-delay: 2.0s; }
+
+@keyframes memoryCardFloat3D {
+  0%, 100% {
+    transform: translateY(9px);
+  }
+  35% {
+    transform: translateY(-9px);
+  }
+  50% {
+    transform: translateY(-11px);
+  }
+  65% {
+    transform: translateY(-10px);
+  }
+}
+
+/* Pause float on hover for clean pickup */
+.memory-card-slot:hover .memory-card-icon {
+  animation-play-state: paused;
+}
+.memory-card-slot:hover {
+  z-index: 100 !important;
+}
+
+.memory-card-slot {
+  padding: 2px;
+  isolation: isolate;
+}
+/* Plumbob floating + rotation animation */
+.plumbob-container {
+  animation: plumbobFloat 3s ease-in-out infinite;
+}
+
+.memory-card-slot:nth-child(5n+1) .plumbob-container { animation-delay: 0s; }
+.memory-card-slot:nth-child(5n+2) .plumbob-container { animation-delay: 0.5s; }
+.memory-card-slot:nth-child(5n+3) .plumbob-container { animation-delay: 1.0s; }
+.memory-card-slot:nth-child(5n+4) .plumbob-container { animation-delay: 1.5s; }
+.memory-card-slot:nth-child(5n+5) .plumbob-container { animation-delay: 2.0s; }
+
+.memory-card-slot:nth-child(n+6):nth-child(-n+10) .plumbob-container { animation-duration: 3.4s; }
+.memory-card-slot:nth-child(n+11) .plumbob-container { animation-duration: 2.8s; }
+
+@keyframes plumbobFloat {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@keyframes plumbobSpin {
+  0% {
+    transform: rotateY(0deg);
+  }
+  100% {
+    transform: rotateY(360deg);
+  }
+}
+
+/* Subtle glow pulse */
+.plumbob-gem {
+  animation: plumbobSpin 6s linear infinite, plumbobPulse 2.5s ease-in-out infinite;
+}
+
+@keyframes plumbobPulse {
+  0%, 100% {
+    opacity: 0.85;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+/* Info text fade-in when hovering a slot */
+.memory-card-info-enter {
+  animation: memoryCardInfoIn 0.15s ease-out;
+}
+
+@keyframes memoryCardInfoIn {
+  from {
+    opacity: 0;
+    transform: translateX(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* ========================================
+   Kingdom Hearts Death Scene
+   ======================================== */
+
+.kh-death-scene {
+  animation: khSceneFadeIn 1s ease-out 0.3s both;
+}
+
+@keyframes khSceneFadeIn {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+/* Character — fades in lying flat, then gently floats */
+.kh-character {
+  position: absolute;
+  left: 50%;
+  top: 55%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  animation:
+    khCharAppear 1.5s ease-out 0.5s both,
+    khCharFloat 4s ease-in-out 2.5s infinite;
+}
+
+@keyframes khCharAppear {
+  0% { opacity: 0; transform: translate(-50%, -40%); }
+  100% { opacity: 0.7; transform: translate(-50%, -50%); }
+}
+
+@keyframes khCharFloat {
+  0%, 100% { transform: translate(-50%, -50%) rotate(0deg); }
+  25% { transform: translate(-50%, -54%) rotate(-0.5deg); }
+  50% { transform: translate(-50%, -56%) rotate(0deg); }
+  75% { transform: translate(-50%, -53%) rotate(0.5deg); }
+}
+
+/* Crystal heart — floats above, pulses with glow */
+.kh-heart-container {
+  position: absolute;
+  left: 50%;
+  top: 8%;
+  transform: translateX(-50%);
+  opacity: 0;
+  animation:
+    khHeartAppear 1.2s ease-out 1.2s both,
+    khHeartFloat 3s ease-in-out 2.5s infinite;
+}
+
+@keyframes khHeartAppear {
+  0% { opacity: 0; transform: translateX(-50%) translateY(20px) scale(0.3); }
+  60% { opacity: 1; transform: translateX(-50%) translateY(-5px) scale(1.1); }
+  100% { opacity: 1; transform: translateX(-50%) translateY(0) scale(1); }
+}
+
+@keyframes khHeartFloat {
+  0%, 100% { transform: translateX(-50%) translateY(0px); }
+  50% { transform: translateX(-50%) translateY(-8px); }
+}
+
+/* Heart glow orb */
+.kh-heart-glow {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255,100,140,0.35) 0%, rgba(255,80,120,0.15) 40%, transparent 70%);
+  animation: khGlowPulse 2s ease-in-out infinite;
+  pointer-events: none;
+}
+
+@keyframes khGlowPulse {
+  0%, 100% { opacity: 0.6; transform: translate(-50%, -50%) scale(1); }
+  50% { opacity: 1; transform: translate(-50%, -50%) scale(1.3); }
+}
+
+.kh-heart-crystal {
+  position: relative;
+  z-index: 2;
+  filter: drop-shadow(0 0 8px rgba(255,100,150,0.6)) drop-shadow(0 0 20px rgba(255,80,120,0.3));
+}
+
+/* Ambient stars */
+.kh-star {
+  position: absolute;
+  border-radius: 50%;
+  background: white;
+  animation: khStarTwinkle 3s ease-in-out infinite;
+  opacity: 0;
+}
+
+.kh-star.s1  { width: 2px; height: 2px; top: 12%; left: 15%; animation-delay: 0.5s; }
+.kh-star.s2  { width: 3px; height: 3px; top: 8%; left: 70%; animation-delay: 1.2s; }
+.kh-star.s3  { width: 2px; height: 2px; top: 25%; left: 85%; animation-delay: 0.8s; }
+.kh-star.s4  { width: 1px; height: 1px; top: 5%; left: 40%; animation-delay: 2.0s; }
+.kh-star.s5  { width: 2px; height: 2px; top: 35%; left: 8%; animation-delay: 1.5s; }
+.kh-star.s6  { width: 1px; height: 1px; top: 18%; left: 55%; animation-delay: 0.3s; }
+.kh-star.s7  { width: 2px; height: 2px; top: 45%; left: 92%; animation-delay: 2.5s; }
+.kh-star.s8  { width: 3px; height: 3px; top: 30%; left: 25%; animation-delay: 1.8s; }
+.kh-star.s9  { width: 1px; height: 1px; top: 15%; left: 78%; animation-delay: 3.0s; }
+.kh-star.s10 { width: 2px; height: 2px; top: 42%; left: 45%; animation-delay: 0.7s; }
+.kh-star.s11 { width: 1px; height: 1px; top: 38%; left: 65%; animation-delay: 2.2s; }
+.kh-star.s12 { width: 2px; height: 2px; top: 22%; left: 35%; animation-delay: 1.0s; }
+
+@keyframes khStarTwinkle {
+  0%, 100% { opacity: 0; transform: scale(0.5); }
+  50% { opacity: 0.8; transform: scale(1); }
+}
+
+/* Heart particles — float upward */
+.kh-heart-particle {
+  position: absolute;
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  opacity: 0;
+  animation: khParticleRise 3s ease-out infinite;
+}
+
+.kh-heart-particle.hp1 { left: 45%; top: 35%; background: rgba(255,150,180,0.6); animation-delay: 2s; }
+.kh-heart-particle.hp2 { left: 55%; top: 40%; background: rgba(255,120,160,0.5); animation-delay: 2.8s; width: 2px; height: 2px; }
+.kh-heart-particle.hp3 { left: 42%; top: 30%; background: rgba(255,180,200,0.4); animation-delay: 3.5s; }
+.kh-heart-particle.hp4 { left: 58%; top: 38%; background: rgba(255,100,140,0.5); animation-delay: 4.2s; width: 2px; height: 2px; }
+
+@keyframes khParticleRise {
+  0% { transform: translateY(0) scale(1); opacity: 0; }
+  15% { opacity: 0.7; }
+  100% { transform: translateY(-80px) scale(0.2); opacity: 0; }
+}
+
+/* Floor glow — subtle purple under character */
+.kh-floor-glow {
+  position: absolute;
+  bottom: 18%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 130px;
+  height: 16px;
+  background: radial-gradient(ellipse, rgba(120,80,200,0.15) 0%, transparent 70%);
+  opacity: 0;
+  animation: khFloorGlow 1.5s ease-out 1s both, khFloorPulse 4s ease-in-out 2.5s infinite;
+}
+
+@keyframes khFloorGlow {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes khFloorPulse {
+  0%, 100% { opacity: 0.6; transform: translateX(-50%) scaleX(1); }
+  50% { opacity: 0.9; transform: translateX(-50%) scaleX(1.1); }
+}
+
+/* Continue button — KH style */
+.kh-continue-btn {
+  font-family: 'Outfit', sans-serif;
+  font-size: 14px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: rgba(100,180,255,0.85);
+  background: none;
+  border: 1px solid rgba(100,180,255,0.3);
+  border-radius: 4px;
+  padding: 8px 28px;
+  cursor: pointer;
+  opacity: 0;
+  animation: khContinueAppear 0.8s ease-out 2.5s both, khContinuePulse 2.5s ease-in-out 3.5s infinite;
+  transition: all 0.2s ease;
+  text-shadow: 0 0 10px rgba(100,180,255,0.5);
+  box-shadow: 0 0 15px rgba(100,180,255,0.1), inset 0 0 15px rgba(100,180,255,0.05);
+}
+
+.kh-continue-btn:hover {
+  color: rgba(150,210,255,1);
+  border-color: rgba(150,210,255,0.6);
+  box-shadow: 0 0 25px rgba(100,180,255,0.25), inset 0 0 20px rgba(100,180,255,0.1);
+  text-shadow: 0 0 15px rgba(100,180,255,0.8);
+}
+
+.kh-continue-text {
+  font-family: 'Outfit', sans-serif;
+  font-size: 13px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: rgba(100,180,255,0.5);
+  opacity: 0;
+  animation: khContinueAppear 0.8s ease-out 2.5s both;
+  text-shadow: 0 0 8px rgba(100,180,255,0.3);
+}
+
+@keyframes khContinueAppear {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes khContinuePulse {
+  0%, 100% { box-shadow: 0 0 15px rgba(100,180,255,0.1), inset 0 0 15px rgba(100,180,255,0.05); }
+  50% { box-shadow: 0 0 20px rgba(100,180,255,0.2), inset 0 0 20px rgba(100,180,255,0.08); }
+}
+
+/* ========================================
+   Mobile Overrides
+   ======================================== */
+@media (max-width: 639px) {
+  .memory-card-icon {
+    animation-name: memoryCardFloat3DMobile;
+  }
+
+  @keyframes memoryCardFloat3DMobile {
+    0%, 100% {
+      transform: translateY(3px);
+    }
+    35% {
+      transform: translateY(-4px);
+    }
+    50% {
+      transform: translateY(-6px);
+    }
+    65% {
+      transform: translateY(-4px);
+    }
+  }
+
+  .plumbob-container {
+    animation-duration: 2.5s;
+  }
+
+  .memory-card-slot {
+    padding: 1px;
+  }
+}
