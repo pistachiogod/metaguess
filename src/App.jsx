@@ -1,5 +1,7 @@
 import React, { useState, useEffect, useMemo, useRef } from 'react';
 import GAMES_DATABASE from './games-database.json';
+import WhichCameFirst from './WhichCameFirst.jsx';
+import Linked from './Linked.jsx';
 import { Analytics } from '@vercel/analytics/react';
 import { useAuth, saveScore, fetchCloudStats, checkTodayPlayed, LoginModal, LeaderboardModal } from './Leaderboard';
 
@@ -8,6 +10,9 @@ const seededRandom = (seed) => {
   const x = Math.sin(seed) * 10000;
   return x - Math.floor(x);
 };
+
+// 🔧 DEV OVERRIDE: set to an igdb_id to force today's game, or null for normal selection
+const DAILY_GAME_OVERRIDE = 1029; // Breath of the Wild (change ID as needed)
 
 // Get today's date key for localStorage
 const getTodayKey = () => {
@@ -65,6 +70,11 @@ const getRecentGameIds = (targetDate) => {
 
 // Get today's game
 const getTodaysGame = () => {
+  // DEV OVERRIDE
+  if (DAILY_GAME_OVERRIDE !== null) {
+    const overrideGame = GAMES_DATABASE.find(g => g.igdb_id === DAILY_GAME_OVERRIDE);
+    if (overrideGame) return overrideGame;
+  }
   const today = new Date();
   const seed = today.getFullYear() * 10000 + (today.getMonth() + 1) * 100 + today.getDate();
   const recentIds = getRecentGameIds(today);
@@ -595,6 +605,168 @@ function MemoryCardScreen({ onClose, onPlayGame }) {
 }
 
 // ============================================
+// Feedback Form Component
+// ============================================
+function FeedbackForm() {
+  const SUPABASE_URL = import.meta.env.VITE_SUPABASE_URL;
+  const SUPABASE_ANON_KEY = import.meta.env.VITE_SUPABASE_ANON_KEY;
+
+  const ATTRIBUTES = ['Genre', 'Platform', 'Release Year', 'Art Style', 'Setting', 'Theme', 'Protagonist Gender', 'Protagonist Type', 'Franchise', 'Other'];
+
+  const [open, setOpen] = React.useState(false);
+  const [type, setType] = React.useState('attribute');
+  const [form, setForm] = React.useState({ game: '', attribute: '', correction: '', message: '' });
+  const [status, setStatus] = React.useState('idle'); // 'idle' | 'loading' | 'success' | 'error'
+
+  function reset() {
+    setForm({ game: '', attribute: '', correction: '', message: '' });
+    setStatus('idle');
+  }
+
+  function close() {
+    setOpen(false);
+    setTimeout(reset, 300);
+  }
+
+  async function handleSubmit() {
+    setStatus('loading');
+    try {
+      const payload = { type };
+      if (type === 'attribute') {
+        payload.game = form.game;
+        payload.attribute = form.attribute;
+        payload.correction = form.correction;
+      } else if (type === 'add_game') {
+        payload.game = form.game;
+        payload.message = form.message;
+      } else {
+        payload.message = form.message;
+      }
+
+      const res = await fetch(`${SUPABASE_URL}/rest/v1/feedback`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'apikey': SUPABASE_ANON_KEY,
+          'Authorization': `Bearer ${SUPABASE_ANON_KEY}`,
+          'Prefer': 'return=minimal',
+        },
+        body: JSON.stringify(payload),
+      });
+
+      if (res.status === 201 || res.status === 204 || res.ok) {
+        setStatus('success');
+        setTimeout(close, 2000);
+        return;
+      }
+      throw new Error();
+    } catch {
+      setStatus('error');
+    }
+  }
+
+  const isValid = () => {
+    if (type === 'attribute') return form.game && form.attribute && form.correction;
+    if (type === 'add_game') return !!form.game;
+    return form.message.length > 3;
+  };
+
+  const INPUT = "w-full bg-zinc-800 border border-zinc-600 rounded px-2 py-1.5 text-xs text-zinc-200 placeholder-zinc-600 focus:outline-none focus:border-blue-500";
+  const LABEL = "block text-zinc-400 text-xs mb-1";
+
+  if (!open) return (
+    <button onClick={() => setOpen(true)} className="text-blue-500 hover:text-blue-300 transition-colors hover:underline underline-offset-2">
+      Think something's wrong? Let us know →
+    </button>
+  );
+
+  return (
+    <div className="mt-3 mx-auto max-w-xs text-left bg-zinc-900 border border-zinc-700 rounded-lg p-4 shadow-xl" style={{ animation: 'fadeIn 0.2s ease-out' }}>
+      {status === 'success' ? (
+        <div className="text-center text-green-400 py-3 font-semibold text-sm">✓ Got it — thanks!</div>
+      ) : (
+        <>
+          {/* Header */}
+          <div className="flex items-center justify-between mb-3">
+            <span className="text-zinc-300 font-semibold text-sm">Send Feedback</span>
+            <button onClick={close} className="text-zinc-500 hover:text-zinc-300 text-xl leading-none">×</button>
+          </div>
+
+          {/* Type tabs */}
+          <div className="flex gap-1 mb-4 bg-zinc-800 rounded-lg p-1">
+            {[['attribute', '⚠️ Wrong attribute'], ['add_game', '➕ Add a game'], ['general', '💬 General']].map(([val, label]) => (
+              <button key={val} onClick={() => { setType(val); reset(); }}
+                className={`flex-1 text-center px-2 py-1 rounded-md text-xs font-semibold transition-colors ${type === val ? 'bg-blue-600 text-white' : 'text-zinc-400 hover:text-zinc-200'}`}>
+                {label}
+              </button>
+            ))}
+          </div>
+
+          {/* Attribute form */}
+          {type === 'attribute' && (
+            <div className="space-y-2">
+              <div>
+                <label className={LABEL}>Game name <span className="text-red-400">*</span></label>
+                <input type="text" placeholder="e.g. Hollow Knight" value={form.game}
+                  onChange={e => setForm(f => ({ ...f, game: e.target.value }))} className={INPUT} />
+              </div>
+              <div>
+                <label className={LABEL}>Which attribute? <span className="text-red-400">*</span></label>
+                <select value={form.attribute} onChange={e => setForm(f => ({ ...f, attribute: e.target.value }))} className={INPUT}>
+                  <option value="">Select...</option>
+                  {ATTRIBUTES.map(a => <option key={a} value={a}>{a}</option>)}
+                </select>
+              </div>
+              <div>
+                <label className={LABEL}>What should it be? <span className="text-red-400">*</span></label>
+                <input type="text" placeholder='e.g. "Cel-Shaded", not "Stylized"' value={form.correction}
+                  onChange={e => setForm(f => ({ ...f, correction: e.target.value }))} className={INPUT} />
+              </div>
+            </div>
+          )}
+
+          {/* Add game form */}
+          {type === 'add_game' && (
+            <div className="space-y-2">
+              <div>
+                <label className={LABEL}>Game name <span className="text-red-400">*</span></label>
+                <input type="text" placeholder="e.g. Bully" value={form.game}
+                  onChange={e => setForm(f => ({ ...f, game: e.target.value }))} className={INPUT} />
+              </div>
+              <div>
+                <label className={LABEL}>Anything else? (platform, year…)</label>
+                <textarea placeholder="Optional extra info" value={form.message} rows={2}
+                  onChange={e => setForm(f => ({ ...f, message: e.target.value }))}
+                  className={`${INPUT} resize-none`} />
+              </div>
+            </div>
+          )}
+
+          {/* General form */}
+          {type === 'general' && (
+            <div>
+              <label className={LABEL}>What's on your mind? <span className="text-red-400">*</span></label>
+              <textarea placeholder="Feedback, bug, suggestion…" value={form.message} rows={4}
+                onChange={e => setForm(f => ({ ...f, message: e.target.value }))}
+                className={`${INPUT} resize-none`} />
+            </div>
+          )}
+
+          {status === 'error' && (
+            <p className="text-red-400 text-xs mt-2">Something went wrong — try again.</p>
+          )}
+
+          <button onClick={handleSubmit} disabled={!isValid() || status === 'loading'}
+            className="mt-3 w-full bg-blue-600 hover:bg-blue-500 disabled:bg-zinc-700 disabled:text-zinc-500 text-white rounded py-1.5 text-xs font-semibold transition-colors">
+            {status === 'loading' ? 'Sending…' : 'Submit'}
+          </button>
+        </>
+      )}
+    </div>
+  );
+}
+
+// ============================================
 // Main Game Component
 // ============================================
 function App() {
@@ -693,7 +865,7 @@ function App() {
 
   // Navigate home helper
   const goHome = async () => {
-    window.history.pushState({}, '', window.location.pathname);
+    window.history.pushState({}, '', '/');
     const todayGame = getTodaysGame();
     setTargetGame(todayGame);
     setGameMode('daily');
@@ -729,8 +901,16 @@ function App() {
     }
   };
 
-  // Check URL for custom game on mount
+  // Check URL for custom game or WCF route on mount
   useEffect(() => {
+    if (window.location.pathname === '/which-came-first') {
+      setGameMode('wcf');
+      return;
+    }
+    if (window.location.pathname === '/linked') {
+      setGameMode('linked');
+      return;
+    }
     const params = new URLSearchParams(window.location.search);
     const customId = params.get('game');
     if (customId) {
@@ -1289,6 +1469,14 @@ function App() {
     );
   })();
 
+  // Which Came First mode — full-screen takeover
+  if (gameMode === 'wcf') {
+    return <WhichCameFirst onExit={goHome} />;
+  }
+  // Linked mode - full-screen takeover
+  if (gameMode === 'linked') {
+    return <Linked onExit={goHome} />;
+  }
   return (
     <div className="min-h-screen ps2-bg text-white">
       <style>{`
@@ -1359,6 +1547,26 @@ function App() {
                       className={`w-full px-4 py-3 text-left text-sm text-blue-200 hover:bg-[#141428] transition-colors flex items-center gap-3 ${user ? 'border-b border-blue-900/20' : ''}`}
                     >
                       <span className="text-blue-500 text-base"></span> Custom Game
+                    </button>
+                    <button
+                      onClick={() => { 
+                        window.history.pushState({}, '', '/linked');
+                        setGameMode('linked'); 
+                        setShowHeaderMenu(false); 
+                      }}
+                      className="w-full px-4 py-3 text-left text-sm text-blue-200 hover:bg-[#141428] transition-colors border-b border-blue-900/20 flex items-center gap-3"
+                    >
+                      <span className="text-blue-500 text-base"></span> Linked
+                    </button>
+                    <button
+                      onClick={() => { 
+                        window.history.pushState({}, '', '/which-came-first');
+                        setGameMode('wcf'); 
+                        setShowHeaderMenu(false); 
+                      }}
+                      className={`w-full px-4 py-3 text-left text-sm text-blue-200 hover:bg-[#141428] transition-colors flex items-center gap-3 ${user ? 'border-b border-blue-900/20' : ''}`}
+                    >
+                      <span className="text-blue-500 text-base"></span> Which Came First?
                     </button>
                     {user && (
                       <button
@@ -1460,6 +1668,15 @@ function App() {
             {/* Press Start screen - daily mode only, before game starts */}
             {gameMode === 'daily' && !gameStarted && guesses.length === 0 && !alreadyPlayed && (
               <div className="flex flex-col items-center mb-8 mt-16">
+              {/* Tagline */}
+              <div className="text-center mb-6" style={{ fontFamily: "'Outfit', sans-serif" }}>
+                  <p className="text-blue-400/50 text-xs sm:text-sm tracking-wide mt-1">
+                    Guess the video game
+                  </p>
+                  <p className="text-blue-400/50 text-xs sm:text-sm tracking-wide mt-1">
+                    Will your health run out?
+                  </p>
+                </div>
                 {/* Press Start Button */}
                 <button
                   onClick={() => {
@@ -1870,15 +2087,11 @@ function App() {
         </div>
 
         {/* Footer */}
-        <div className="mt-8 text-center text-blue-700 text-xs pb-4">
+        <div className="mt-48 text-center text-blue-700 text-xs pb-4">
           {!(gameStarted || guesses.length > 0 || alreadyPlayed || gameMode !== 'daily') && (
             <div className="mb-1">{GAMES_DATABASE.length} games in database</div>
           )}
-          <div>
-            <a href="mailto:will@forwardairs.com?subject=MetaGuess Feedback" className="text-blue-500 hover:text-blue-300 transition-colors">
-              Think an attribute is wrong? Let us know →
-            </a>
-          </div>
+          <FeedbackForm />
         </div>
       </div>
       

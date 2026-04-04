@@ -122,7 +122,150 @@ export async function checkTodayPlayed(userId, gameDate) {
   return data; // { won, num_guesses, guess_ids }
 }
 
-// ==================== LOGIN MODAL ====================
+// ==================== WCF HELPERS ====================
+function formatWcfTime(ms) {
+  const totalCs = Math.floor(ms / 10);
+  const cs = String(totalCs % 100).padStart(2, "0");
+  const totalS = Math.floor(totalCs / 100);
+  const s = String(totalS % 60).padStart(2, "0");
+  const m = String(Math.floor(totalS / 60)).padStart(2, "0");
+  return `${m}:${s}.${cs}`;
+}
+
+// ==================== SAVE WCF SCORE ====================
+export async function saveWcfScore(userId, username, streak, timeMs, filterKey = 'all') {
+  // Fetch existing best for this user + filter
+  const { data: existing } = await supabase
+    .from('wcf_scores')
+    .select('id, streak, time_ms')
+    .eq('user_id', userId)
+    .eq('filter_key', filterKey)
+    .maybeSingle();
+
+  if (existing) {
+    // Only update if strictly better: higher streak, or same streak with faster time
+    const isBetter = streak > existing.streak || (streak === existing.streak && timeMs < existing.time_ms);
+    if (!isBetter) return false;
+    const { error } = await supabase
+      .from('wcf_scores')
+      .update({ streak, time_ms: timeMs, username, updated_at: new Date().toISOString() })
+      .eq('id', existing.id);
+    if (error) console.error('Error updating WCF score:', error);
+    return !error;
+  }
+
+  // Insert new record
+  const { error } = await supabase
+    .from('wcf_scores')
+    .insert({ user_id: userId, username, streak, time_ms: timeMs, filter_key: filterKey });
+  if (error) console.error('Error saving WCF score:', error);
+  return !error;
+}
+
+// ==================== FETCH WCF LEADERBOARD ====================
+export async function fetchWcfLeaderboard(filterKey = 'all') {
+  const { data, error } = await supabase
+    .from('wcf_scores')
+    .select('user_id, username, streak, time_ms')
+    .eq('filter_key', filterKey)
+    .order('streak', { ascending: false })
+    .order('time_ms', { ascending: true })
+    .limit(50);
+
+  if (error || !data) return [];
+  return data;
+}
+
+// ==================== WCF LEADERBOARD MODAL ====================
+export function WcfLeaderboardModal({ onClose, user, filterKey = 'all' }) {
+  const [tab, setTab] = useState('streak');
+  const [scores, setScores] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const load = async () => {
+      setLoading(true);
+      const data = await fetchWcfLeaderboard(filterKey);
+      setScores(data);
+      setLoading(false);
+    };
+    load();
+  }, [filterKey]);
+
+  const streakRanked = [...scores].sort((a, b) => b.streak - a.streak || a.time_ms - b.time_ms);
+  const timeRanked = [...scores].filter(s => s.streak >= 5).sort((a, b) => a.time_ms - b.time_ms || b.streak - a.streak);
+  const rows = tab === 'streak' ? streakRanked : timeRanked;
+
+  const FILTER_LABELS = { all: 'All', playstation: 'PlayStation', xbox: 'Xbox', nintendo: 'Nintendo', pc: 'PC' };
+
+  return (
+    <div className="fixed inset-0 ps2-modal-bg flex items-center justify-center z-50 p-4" onClick={onClose}>
+      <div className="ps2-modal rounded-2xl p-4 sm:p-5 max-w-sm w-full max-h-[80vh] overflow-hidden flex flex-col" onClick={e => e.stopPropagation()}>
+        <div className="flex justify-between items-center mb-1">
+          <h2 className="text-lg font-bold text-white">WCF Leaderboard</h2>
+          <button onClick={onClose} className="text-blue-400 hover:text-white text-xl">✕</button>
+        </div>
+        <p className="text-[10px] tracking-widest text-blue-600 mb-3">{FILTER_LABELS[filterKey]?.toUpperCase() || 'ALL'} PLATFORM</p>
+
+        {/* Tabs */}
+        <div className="flex gap-1 mb-3 bg-[#0a0a1a] rounded-lg p-1">
+          <button
+            onClick={() => setTab('streak')}
+            className={`flex-1 py-1.5 text-[10px] sm:text-xs font-semibold rounded-md transition-colors ${tab === 'streak' ? 'bg-blue-600 text-white' : 'text-blue-400 hover:text-blue-200'}`}
+          >
+            🔥 Best Streak
+          </button>
+          <button
+            onClick={() => setTab('time')}
+            className={`flex-1 py-1.5 text-[10px] sm:text-xs font-semibold rounded-md transition-colors ${tab === 'time' ? 'bg-blue-600 text-white' : 'text-blue-400 hover:text-blue-200'}`}
+          >
+            ⚡ Fastest (5+ streak)
+          </button>
+        </div>
+
+        <div className="overflow-y-auto flex-1">
+          {loading ? (
+            <div className="text-center text-blue-400 py-8">Loading...</div>
+          ) : rows.length === 0 ? (
+            <div className="text-center text-blue-500 py-8 text-sm">
+              {tab === 'time' ? 'No scores with 5+ streak yet!' : 'No scores yet — be the first!'}
+            </div>
+          ) : (
+            <div className="space-y-1.5">
+              {rows.map((entry, idx) => {
+                const isMe = user && entry.user_id === user.id;
+                const medal = idx === 0 ? '🥇' : idx === 1 ? '🥈' : idx === 2 ? '🥉' : null;
+                return (
+                  <div
+                    key={`${entry.user_id}-${idx}`}
+                    className={`flex items-center gap-3 px-3 py-2.5 rounded-xl ${isMe ? 'bg-blue-900/40 border border-blue-600/40' : 'bg-[#0d0d1a]'}`}
+                  >
+                    <span className={`text-sm font-bold w-6 text-center flex-shrink-0 ${!medal ? 'text-blue-700' : ''}`}>
+                      {medal || `${idx + 1}`}
+                    </span>
+                    <span className={`flex-1 text-sm font-medium truncate ${isMe ? 'text-blue-200' : 'text-white'}`}>
+                      {entry.username}{isMe ? ' (you)' : ''}
+                    </span>
+                    <div className="text-right flex-shrink-0">
+                      <div className="text-xs font-bold text-blue-300">{entry.streak} streak</div>
+                      <div className="text-[10px] font-mono text-green-400">{formatWcfTime(entry.time_ms)}</div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          )}
+        </div>
+
+        {!user && (
+          <p className="text-center text-blue-600 text-[10px] tracking-wider mt-3 pt-3 border-t border-blue-900/30">
+            Log in to submit your scores
+          </p>
+        )}
+      </div>
+    </div>
+  );
+}
 export function LoginModal({ onClose, onAuth, login, signup }) {
   const [mode, setMode] = useState('login');
   const [username, setUsername] = useState('');

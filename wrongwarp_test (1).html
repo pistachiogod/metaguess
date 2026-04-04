@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  body { font-family: 'Courier New', monospace; background: #0a0a0f; color: #c8d0e0; padding: 2rem; max-width: 800px; margin: 0 auto; }
+  h1 { color: #4a9eff; font-size: 1.2rem; letter-spacing: 2px; margin-bottom: 0.25rem; }
+  .sub { font-size: 11px; color: #444; margin-bottom: 1.5rem; }
+  .key-row { display: flex; gap: 8px; margin-bottom: 1rem; }
+  input { flex: 1; background: #111; border: 1px solid #333; color: #c8d0e0; padding: 0.6rem 0.75rem; font-family: 'Courier New', monospace; font-size: 12px; border-radius: 4px; outline: none; }
+  input:focus { border-color: #4a9eff; }
+  button { background: #111; border: 1px solid #4a9eff; color: #4a9eff; padding: 0.6rem 1.5rem; font-family: 'Courier New', monospace; font-size: 12px; cursor: pointer; border-radius: 4px; white-space: nowrap; }
+  button:hover { background: #4a9eff22; }
+  button:disabled { opacity: 0.4; cursor: default; }
+  .status { font-size: 11px; color: #555; margin-bottom: 1rem; }
+  .status.ok { color: #4aff88; }
+  .status.err { color: #ff4a4a; }
+  pre { background: #0d0d12; border: 1px solid #1a1a2e; padding: 1rem; border-radius: 6px; overflow-x: auto; font-size: 11px; white-space: pre-wrap; word-break: break-word; max-height: 600px; overflow-y: auto; line-height: 1.6; }
+  .warning { font-size: 10px; color: #555; margin-bottom: 1.5rem; border: 1px solid #1a1a1a; padding: 0.5rem 0.75rem; border-radius: 4px; }
+</style>
+</head>
+<body>
+<h1>// WRONG WARP — API TEST</h1>
+<div class="sub">MARIO × MIDGARD — question generation test</div>
+<div class="warning">⚠ Paste your Anthropic API key below. This file runs locally — your key never leaves your browser.</div>
+<div class="key-row">
+  <input type="password" id="api-key" placeholder="sk-ant-..." />
+  <button onclick="generate()" id="gen-btn">[ GENERATE RUN ]</button>
+</div>
+<div class="status" id="status">Paste your API key and hit generate.</div>
+<pre id="output">Output will appear here...</pre>
+
+<script>
+const PROMPT = `You are the question writer for a game called Wrong Warp.
+
+CONCEPT:
+A character from one video game gets dropped into the world of another video game. They face 4 enemies from that world, then a boss. The player answers questions about how the character survives each encounter using only their canonical abilities from their own game.
+
+THE ONE RULE:
+The character is always the protagonist of their own story. They always have a path through each encounter. The question is never IF they survive — it is HOW. Every question must have a correct answer that uses a real mechanic from the character's game applied to a real mechanic from the world's game.
+
+TONE:
+Write like someone who loves both games and finds this specific combination hilarious. The questions should feel like a 2am argument with a friend — specific, surprising, and satisfying when you get them right. Never generic. Never vague. Every wrong answer should be defensible enough that a smart person could argue for it. The correct answer should make the player go oh that is so obvious, why did I not think of that.
+
+DIFFICULTY:
+Hard. Every option must sound plausible. The correct answer requires knowing a specific mechanic from BOTH games simultaneously. A player who only knows one game should get it wrong. A player who knows both games deeply should get it right and feel smart.
+
+QUESTION TYPE ROTATION — use exactly this order:
+1. MULTIPLE CHOICE — 4 options, all defensible, one correct. Hard but fair.
+2. MULTIPLE CHOICE — harder than question 1. No option should feel obviously wrong.
+3. CONNECTIONS — show 6 items. Player sorts them into two groups of 3. Group 1 belongs to the character world. Group 2 belongs to the enemy world. Items must be described in deliberately ambiguous language so you cannot immediately tell which world they belong to. All 6 must be sorted correctly to pass.
+4. TRUE/FALSE CHAIN — present 3 claims about the character abilities applied to this specific enemy. Player answers TRUE or FALSE on each sequentially. All 3 must be correct to pass. Claim 1 is hard. Claim 2 is harder. Claim 3 separates people who truly know both games from people who are guessing. Wrong answer on any claim costs a life and restarts the chain from claim 1.
+
+THE BOSS:
+No clean correct answer. Present an impossible scenario where the character genuinely cannot win. Give 3 options that are all bad. Correct answer is the LEAST BAD — uses the character actual mechanics most cleverly in a losing situation. Character still loses but loses with dignity.
+
+Return raw JSON only, no markdown, no backticks, exactly this structure:
+
+{
+  "matchup": {
+    "character": "",
+    "character_game": "",
+    "world": "",
+    "world_game": ""
+  },
+  "run_intro": "2-3 sentences. Character just arrived. Funny and specific to this exact matchup.",
+  "enemies": [
+    {
+      "enemy_name": "",
+      "enemy_description": "One sentence. What this enemy is and why it is a problem for this specific character.",
+      "scenario": "2-3 sentences. The specific situation right now. Vivid and specific.",
+      "question_type": "multiple_choice",
+      "question": "",
+      "options": { "A": "", "B": "", "C": "", "D": "" },
+      "correct": "",
+      "correct_explanation": "2-3 sentences. Cite the specific mechanic from both games. Satisfying.",
+      "wrong_explanation": "1-2 sentences. What happens if wrong. Funny but fair."
+    },
+    {
+      "enemy_name": "",
+      "enemy_description": "One sentence.",
+      "scenario": "2-3 sentences.",
+      "question_type": "multiple_choice",
+      "question": "",
+      "options": { "A": "", "B": "", "C": "", "D": "" },
+      "correct": "",
+      "correct_explanation": "2-3 sentences.",
+      "wrong_explanation": "1-2 sentences."
+    },
+    {
+      "enemy_name": "",
+      "enemy_description": "One sentence.",
+      "scenario": "2-3 sentences.",
+      "question_type": "connections",
+      "question": "",
+      "group1_label": "Mario's World",
+      "group2_label": "Midgard",
+      "items": [
+        { "text": "", "group": "1" },
+        { "text": "", "group": "2" },
+        { "text": "", "group": "1" },
+        { "text": "", "group": "2" },
+        { "text": "", "group": "1" },
+        { "text": "", "group": "2" }
+      ],
+      "correct_explanation": "2-3 sentences.",
+      "wrong_explanation": "1-2 sentences."
+    },
+    {
+      "enemy_name": "",
+      "enemy_description": "One sentence.",
+      "scenario": "2-3 sentences.",
+      "question_type": "true_false_chain",
+      "question": "",
+      "claims": [
+        { "claim": "", "answer": "true", "explanation": "1-2 sentences why." },
+        { "claim": "", "answer": "false", "explanation": "1-2 sentences why." },
+        { "claim": "", "answer": "true", "explanation": "1-2 sentences why." }
+      ],
+      "wrong_explanation": "1-2 sentences."
+    }
+  ],
+  "boss": {
+    "boss_name": "",
+    "boss_description": "One sentence. Why this boss is impossible for this character.",
+    "scenario": "2-3 sentences. Climactic and specific.",
+    "question": "",
+    "options": { "A": "", "B": "", "C": "" },
+    "least_bad": "",
+    "boss_explanation": "3-4 sentences. Why least bad. Character still loses but with dignity."
+  }
+}
+
+CHARACTER:
+{
+  "character": "Mario",
+  "game": "Super Mario 64",
+  "abilities": [
+    "Jump: triple jump, long jump, wall jump, backflip",
+    "Ground Pound: downward force attack, breaks weak surfaces",
+    "Stomp: defeats soft-bodied unarmoured enemies by landing on head",
+    "Fire Flower: ranged fireball projectile, limited charges",
+    "Starman: temporary invincibility, damages enemies on contact",
+    "Shell: throwable projectile that ricochets off surfaces",
+    "1-UP: respawns at exact point of death"
+  ],
+  "rules": [
+    "Stomping only works on unarmoured soft-bodied enemies",
+    "Cannot swim in deep water in SM64 — sinks",
+    "Starman contact damage ignores most but not all defences",
+    "1-UP respawns him at exact point of death"
+  ],
+  "weaknesses": [
+    "No ranged weapon without Fire Flower",
+    "Stomp useless against armoured enemies",
+    "No defence mechanic — takes full damage when hit"
+  ]
+}
+
+WORLD:
+{
+  "world": "Midgard",
+  "game": "God of War (2018)",
+  "tone": "Brutal Norse mythology. Everything is trying to kill you. Armour systems matter.",
+  "enemies": [
+    { "name": "Draugr", "weakness": "Leg attacks, sustained fire", "armour": "Covers torso, legs exposed", "threat": "Melee strikes, shield bash" },
+    { "name": "Revenant", "weakness": "Hit during reappear animation to stagger", "threat": "Poison projectiles, teleportation" },
+    { "name": "Ancient", "weakness": "Glowing core, open for 3 seconds", "threat": "Massive physical damage, ground slam" },
+    { "name": "Dark Elf", "weakness": "Attack during landing window", "threat": "Aerial dive attacks, ranged blasts" },
+    { "name": "Traveller", "weakness": "Sustained heavy attacks break armour", "threat": "Devastating melee, shield charge" }
+  ],
+  "boss": {
+    "name": "Baldur",
+    "description": "Completely invulnerable to all damage. Only mistletoe breaks the spell. Mario has none.",
+    "threat": "Fast, aggressive, takes zero damage from everything Mario has"
+  },
+  "world_rules": [
+    "Armour systems: torso armour resists all attacks, exposed areas take full damage",
+    "Stagger system: some enemies must be staggered before taking damage",
+    "Contact damage: touching certain enemies deals damage to the toucher",
+    "Poison: damage over time that persists between encounters"
+  ]
+}
+
+Generate one complete run. Be specific, be funny, be mechanically accurate. Raw JSON only.`;
+
+async function generate() {
+  const key = document.getElementById('api-key').value.trim();
+  const btn = document.getElementById('gen-btn');
+  const status = document.getElementById('status');
+  const output = document.getElementById('output');
+
+  if (!key || !key.startsWith('sk-ant-')) {
+    status.textContent = 'Please paste a valid Anthropic API key (starts with sk-ant-).';
+    status.className = 'status err';
+    return;
+  }
+
+  btn.disabled = true;
+  btn.textContent = '[ GENERATING... ]';
+  status.textContent = 'Calling Anthropic API...';
+  status.className = 'status';
+  output.textContent = 'Waiting for response...';
+
+  try {
+    const response = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "x-api-key": key,
+        "anthropic-version": "2023-06-01"
+      },
+      body: JSON.stringify({
+        model: "claude-sonnet-4-20250514",
+        max_tokens: 4000,
+        messages: [{ role: "user", content: PROMPT }]
+      })
+    });
+
+    if (!response.ok) {
+      const err = await response.json();
+      throw new Error(err.error?.message || "HTTP " + response.status);
+    }
+
+    const data = await response.json();
+    const text = data.content[0].text;
+
+    try {
+      const parsed = JSON.parse(text);
+      output.textContent = JSON.stringify(parsed, null, 2);
+      status.textContent = 'Generated. Read through and tell me what you think.';
+      status.className = 'status ok';
+    } catch(e) {
+      output.textContent = text;
+      status.textContent = 'Response received but JSON parse failed — showing raw output.';
+      status.className = 'status err';
+    }
+
+  } catch(e) {
+    output.textContent = e.message;
+    status.textContent = 'API call failed: ' + e.message;
+    status.className = 'status err';
+  }
+
+  btn.disabled = false;
+  btn.textContent = '[ GENERATE AGAIN ]';
+}
+</script>
+</body>
+</html>
