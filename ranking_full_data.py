@@ -28,28 +28,6 @@ from pathlib import Path
 TOP_N = 3000
 OUTPUT_PATH = Path(__file__).parent / "src" / "linked-database.json"
 
-SUFFIXES = ['ing', 'tion', 'ness', 'ment', 'ies', 'es', 'ed', 'ly', 's']
-
-
-def stem(word: str) -> str:
-    """Strip common suffixes to get a rough stem."""
-    for suffix in SUFFIXES:
-        if word.endswith(suffix) and len(word) - len(suffix) > 2:
-            return word[: -len(suffix)]
-    return word
-
-
-def is_variant_of(word: str, target: str) -> bool:
-    """True if word is an obvious inflection/variant of target."""
-    if word == target:
-        return True
-    # Check if word starts with the target (catches sacrificed, sacrifices, sacrificing)
-    if word.startswith(target):
-        return True
-    w_stem = stem(word)
-    t_stem = stem(target)
-    return w_stem == t_stem or w_stem == target or word == t_stem
-
 
 def load_vectors():
     try:
@@ -73,19 +51,12 @@ def rank_words(connection: str, model) -> dict[str, int]:
         sys.exit(1)
 
     print(f"  Ranking all words against '{target}' …")
-    # Fetch more than TOP_N so we have room to filter variants
-    similar = model.most_similar(target, topn=TOP_N + 200)
+    similar = model.most_similar(target, topn=TOP_N)
 
-    word_ranks: dict[str, int] = {target: 1}
-    rank = 2
-    for word, _ in similar:
-        if len(word_ranks) >= TOP_N + 1:
-            break
-        # Skip obvious variants of the answer (e.g. "decays", "decayed")
-        if is_variant_of(word, target):
-            continue
+    # Rank 1 = the target word itself
+    word_ranks = {target: 1}
+    for rank, (word, _) in enumerate(similar, start=2):
         word_ranks[word] = rank
-        rank += 1
 
     return word_ranks
 
@@ -146,7 +117,7 @@ def main():
     print()
     model = load_vectors()
     word_ranks = rank_words(connection, model)
-    print(f"  ✓ Ranked top {TOP_N:,} words (variants of '{connection.lower()}' filtered out)\n")
+    print(f"  ✓ Ranked top {TOP_N:,} words\n")
 
     puzzle = {
         "date": puzzle_date,
@@ -159,11 +130,6 @@ def main():
     if OUTPUT_PATH.exists():
         with open(OUTPUT_PATH, "r", encoding="utf-8") as f:
             database = json.load(f)
-        # Migrate any old "day" entries to "date"
-        for p in database:
-            if "day" in p and "date" not in p:
-                p["date"] = f"2025-01-{str(p['day']).zfill(2)}"
-                del p["day"]
     else:
         database = []
 

@@ -175,7 +175,28 @@ export async function fetchWcfLeaderboard(filterKey = 'all') {
   if (error || !data) return [];
   return data;
 }
+// ==================== LINKED HELPERS ====================
+export async function saveLinkedScore(userId, username, puzzleDate, solved, numGuesses) {
+  const { error } = await supabase
+    .from('linked_scores')
+    .upsert(
+      { user_id: userId, username, puzzle_date: puzzleDate, solved, num_guesses: numGuesses },
+      { onConflict: 'user_id,puzzle_date' }
+    );
+  if (error) console.error('Error saving linked score:', error);
+  return !error;
+}
 
+export async function checkLinkedScore(userId, puzzleDate) {
+  const { data, error } = await supabase
+    .from('linked_scores')
+    .select('solved, num_guesses')
+    .eq('user_id', userId)
+    .eq('puzzle_date', puzzleDate)
+    .maybeSingle();
+  if (error || !data) return null;
+  return data;
+}
 // ==================== WCF LEADERBOARD MODAL ====================
 export function WcfLeaderboardModal({ onClose, user, filterKey = 'all' }) {
   const [tab, setTab] = useState('streak');
@@ -448,8 +469,9 @@ export function LeaderboardModal({ onClose, user }) {
       };
     });
 
-    // Sort by: best win rate, then lowest avg guesses as tiebreaker
+// Sort by: most wins, then best win rate, then lowest avg guesses
     leaderboard.sort((a, b) => {
+      if (b.won !== a.won) return b.won - a.won;
       if (b.winRate !== a.winRate) return b.winRate - a.winRate;
       if (a.avgGuesses === '—') return 1;
       if (b.avgGuesses === '—') return -1;

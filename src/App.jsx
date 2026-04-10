@@ -12,7 +12,7 @@ const seededRandom = (seed) => {
 };
 
 // 🔧 DEV OVERRIDE: set to an igdb_id to force today's game, or null for normal selection
-const DAILY_GAME_OVERRIDE = 1029; // Breath of the Wild (change ID as needed)
+const DAILY_GAME_OVERRIDE = null; // Breath of the Wild (change ID as needed)
 
 // Get today's date key for localStorage
 const getTodayKey = () => {
@@ -1475,7 +1475,7 @@ function App() {
   }
   // Linked mode - full-screen takeover
   if (gameMode === 'linked') {
-    return <Linked onExit={goHome} />;
+    return <Linked onExit={goHome} user={user} />;
   }
   return (
     <div className="min-h-screen ps2-bg text-white">
