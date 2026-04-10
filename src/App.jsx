@@ -1556,7 +1556,7 @@ function App() {
                       }}
                       className="w-full px-4 py-3 text-left text-sm text-blue-200 hover:bg-[#141428] transition-colors border-b border-blue-900/20 flex items-center gap-3"
                     >
-                      <span className="text-blue-500 text-base"></span> Linked
+                      <span className="text-blue-500 text-base"></span> Play Linked
                     </button>
                     <button
                       onClick={() => { 
@@ -1566,7 +1566,7 @@ function App() {
                       }}
                       className={`w-full px-4 py-3 text-left text-sm text-blue-200 hover:bg-[#141428] transition-colors flex items-center gap-3 ${user ? 'border-b border-blue-900/20' : ''}`}
                     >
-                      <span className="text-blue-500 text-base"></span> Which Came First?
+                      <span className="text-blue-500 text-base"></span> Play Which Came First?
                     </button>
                     {user && (
                       <button
